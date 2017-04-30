@@ -1,0 +1,67 @@
+{
+  "userSays": [
+    {
+      "id": "14641fe1-f1dc-4cef-be07-6cfd6dbcbb81",
+      "data": [
+        {
+          "text": "!player count? "
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "235b5ed6-52f2-46fc-9103-938fb0113105",
+      "data": [
+        {
+          "text": "How many are online?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8d67f37e-153f-4776-a6d3-b866ad4bb1f1",
+      "data": [
+        {
+          "text": "How are online?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ab160e6e-310b-4b05-9528-8de61a41707b",
+      "data": [
+        {
+          "text": "How many people are online"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "151c1524-c440-481d-a392-47433ba99730",
+  "name": "How many are online?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "request.online-players",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": []
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

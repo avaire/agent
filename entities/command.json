@@ -1,0 +1,33 @@
+{
+  "id": "ac90ab29-a56f-486a-b492-47061aa9c478",
+  "name": "command",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "help",
+      "synonyms": [
+        "help"
+      ]
+    },
+    {
+      "value": "ping",
+      "synonyms": [
+        "ping"
+      ]
+    },
+    {
+      "value": "request",
+      "synonyms": [
+        "request"
+      ]
+    },
+    {
+      "value": "stats",
+      "synonyms": [
+        "stats"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}
