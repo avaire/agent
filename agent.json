@@ -2,7 +2,6 @@
   "description": "Allows for \"simple language communication\" with the Discord bot AvaIre",
   "language": "en",
   "enabledDomainFeatures": [
-    "calculator-domain-on",
     "smalltalk-domain-on",
     "smalltalk-fulfillment-on"
   ],
@@ -10,12 +9,15 @@
     "googleAssistantCompatible": false,
     "welcomeIntentSignInRequired": false,
     "startIntents": [],
+    "systemIntents": [],
     "endIntentIds": [],
     "oAuthLinking": {
       "required": false,
       "grantType": "AUTH_CODE_GRANT"
     },
-    "voiceType": "MALE_1"
+    "voiceType": "MALE_1",
+    "capabilities": [],
+    "protocolVersion": "V1"
   },
   "defaultTimezone": "Europe/Copenhagen",
   "webhook": {

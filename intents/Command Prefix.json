@@ -1,0 +1,89 @@
+{
+  "userSays": [
+    {
+      "id": "d3f510f3-fd95-4fcd-8f37-083c19cc6bff",
+      "data": [
+        {
+          "text": "prefix for "
+        },
+        {
+          "text": "utility",
+          "alias": "command",
+          "meta": "@command",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "bc6eca30-3cf6-42b3-ade5-1034eee02186",
+      "data": [
+        {
+          "text": "what is the prefix for "
+        },
+        {
+          "text": "help",
+          "alias": "command",
+          "meta": "@command",
+          "userDefined": false
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "70397d98-6aab-490d-9e2d-65c97b7146a0",
+      "data": [
+        {
+          "text": "what is your prefixes?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c8445896-4b79-455d-9c94-54ee78b198a9",
+      "data": [
+        {
+          "text": "prefix"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "68a54ee3-8e36-4565-a2b4-4a203c759f62",
+  "name": "Command Prefix",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "command.prefix",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "dataType": "@command",
+          "name": "command",
+          "value": "$command",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": []
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

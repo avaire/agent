@@ -6,25 +6,42 @@
     {
       "value": "help",
       "synonyms": [
-        "help"
+        "help",
+        "helper"
       ]
     },
     {
-      "value": "ping",
+      "value": "utility",
       "synonyms": [
-        "ping"
+        "utility"
       ]
     },
     {
-      "value": "request",
+      "value": "administration",
       "synonyms": [
-        "request"
+        "administration",
+        "admin"
       ]
     },
     {
-      "value": "stats",
+      "value": "fun",
       "synonyms": [
-        "stats"
+        "fun",
+        "funny"
+      ]
+    },
+    {
+      "value": "music",
+      "synonyms": [
+        "music",
+        "song",
+        "songs"
+      ]
+    },
+    {
+      "value": "system",
+      "synonyms": [
+        "system"
       ]
     }
   ],
