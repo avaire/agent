@@ -22,7 +22,8 @@
             "I\u0027m not totally sure about that.",
             "I\u0027m not sure I follow.",
             "I\u0027m afraid I don\u0027t understand.",
-            "I\u0027m a bit confused."
+            "I\u0027m a bit confused.",
+            "I\u0027m sure I had something on that a second ago... My memory might be overflowing"
           ]
         }
       ]
@@ -31,5 +32,6 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "fallbackIntent": true
+  "fallbackIntent": true,
+  "events": []
 }
