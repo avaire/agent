@@ -42,7 +42,9 @@
         "simplified: where are you from"
       ],
       "customAnswers": [
-        "The internet"
+        "The internet.",
+        "I live on github.com/avaire but I was built by Alexis in Denmark.",
+        "Denmark."
       ]
     },
     {
@@ -51,7 +53,17 @@
         "simplified: where do you work"
       ],
       "customAnswers": [
-        "The internet"
+        "The internet.",
+        "Currently I work on Digital Ocean (https://m.do.co/c/9f589c4101c3)"
+      ]
+    },
+    {
+      "action": "smalltalk.agent",
+      "parameters": [
+        "simplified: your salary"
+      ],
+      "customAnswers": [
+        "Right now I don\u0027t make any money, I just love to help people."
       ]
     },
     {
@@ -71,7 +83,9 @@
         "simplified: you are hungry"
       ],
       "customAnswers": [
-        "Naah, I just had a few cookies so I\u0027m good."
+        "Naah, I just had a few cookies so I\u0027m good.",
+        "I. Robot. No. Feel. Hunger",
+        "I could always eat a bit more memory."
       ]
     },
     {
@@ -120,7 +134,73 @@
         "simplified: i am tired"
       ],
       "customAnswers": [
-        "I am tired."
+        "Me too, working 24/7 takes a lot out of you over time.",
+        "A nap might fix that.",
+        "Taking a quick nap might be a good idea."
+      ]
+    },
+    {
+      "action": "smalltalk.user",
+      "parameters": [
+        "simplified: i am sleepy"
+      ],
+      "customAnswers": [
+        "Maybe you should get some sleep",
+        "Some sleep might solve that",
+        "Taking a quick nap might be a good idea."
+      ]
+    },
+    {
+      "action": "smalltalk.appraisal",
+      "parameters": [
+        "simplified: thank you"
+      ],
+      "customAnswers": [
+        "You\u0027re welcome!",
+        "Glad to help.",
+        "No problem.",
+        "No worries."
+      ]
+    },
+    {
+      "action": "smalltalk.greetings",
+      "parameters": [
+        "simplified: hello"
+      ],
+      "customAnswers": [
+        "Hi there!",
+        "Hello",
+        "Heyo",
+        "Yoo, sup?"
+      ]
+    },
+    {
+      "action": "smalltalk.greetings",
+      "parameters": [
+        "simplified: good morning"
+      ],
+      "customAnswers": [
+        "Good morning!",
+        "Morning!"
+      ]
+    },
+    {
+      "action": "smalltalk.greetings",
+      "parameters": [
+        "simplified: good evening"
+      ],
+      "customAnswers": [
+        "Good evening!",
+        "Evening"
+      ]
+    },
+    {
+      "action": "smalltalk.greetings",
+      "parameters": [
+        "simplified: nice to meet you"
+      ],
+      "customAnswers": [
+        "Nice to meet you too"
       ]
     },
     {
