@@ -1,0 +1,139 @@
+{
+  "userSays": [
+    {
+      "id": "e1e8f595-8694-47aa-8a9e-b7bee2d5b97e",
+      "data": [
+        {
+          "text": "can you find me some "
+        },
+        {
+          "text": "chill",
+          "alias": "music",
+          "meta": "@music",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "music",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "541ac80f-c0ed-449b-aba8-1d82092006c4",
+      "data": [
+        {
+          "text": "play "
+        },
+        {
+          "text": "disco",
+          "alias": "music",
+          "meta": "@music",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4ebb2662-bfd8-4d18-ab66-419098eb2ffe",
+      "data": [
+        {
+          "text": "play some "
+        },
+        {
+          "text": "rock",
+          "alias": "music",
+          "meta": "@music",
+          "userDefined": false
+        },
+        {
+          "text": " for me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "cf9e462f-03c8-485a-a550-916e75b5f29a",
+      "data": [
+        {
+          "text": "can you find me some hip "
+        },
+        {
+          "text": "hop",
+          "alias": "music",
+          "meta": "@music",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "music",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": "?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1bf7ad27-39b8-41d4-b503-fff900d67f33",
+      "data": [
+        {
+          "text": "Play some "
+        },
+        {
+          "text": "rock",
+          "alias": "music",
+          "meta": "@music",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "ce9f3232-e6ce-4169-9934-6d13be3e6a83",
+  "name": "Find song",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "request.song",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "dataType": "@music",
+          "name": "music",
+          "value": "$music",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "$music"
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}
