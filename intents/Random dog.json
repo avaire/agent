@@ -1,0 +1,67 @@
+{
+  "userSays": [
+    {
+      "id": "ad2f96bc-f0ca-4a84-b055-15f838ecba89",
+      "data": [
+        {
+          "text": "Dog?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c2930410-dccc-4022-a2c7-f63b8ff56dd4",
+      "data": [
+        {
+          "text": "Can I have a random dog?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "bec292e2-d23f-4f7d-94fc-2ddd78471d98",
+      "data": [
+        {
+          "text": "Can I have a dog?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "11e72024-9bc0-4864-9638-5200e4b54c12",
+      "data": [
+        {
+          "text": "Random dog"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "0017d54b-15bb-48b9-9509-dcf9ee697fde",
+  "name": "Random dog",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "request.dog",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": []
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}
