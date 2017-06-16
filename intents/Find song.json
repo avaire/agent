@@ -1,6 +1,22 @@
 {
   "userSays": [
     {
+      "id": "c868b07e-0c07-4ae0-b5b2-aa3611529c38",
+      "data": [
+        {
+          "text": "play "
+        },
+        {
+          "text": "history has its eyes on you",
+          "alias": "song",
+          "meta": "@song",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
       "id": "e1e8f595-8694-47aa-8a9e-b7bee2d5b97e",
       "data": [
         {
@@ -121,12 +137,18 @@
           "name": "music",
           "value": "$music",
           "isList": false
+        },
+        {
+          "dataType": "@song",
+          "name": "song",
+          "value": "$song",
+          "isList": false
         }
       ],
       "messages": [
         {
           "type": 0,
-          "speech": "$music"
+          "speech": "$music $song"
         }
       ]
     }
