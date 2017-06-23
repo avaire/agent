@@ -1,0 +1,130 @@
+{
+  "userSays": [
+    {
+      "id": "b4db6511-556e-44f5-9891-91ecb1059be1",
+      "data": [
+        {
+          "text": "wait a second"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ff89e6c9-fff3-432b-bef2-e11fcd99d290",
+      "data": [
+        {
+          "text": "could you wait"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b14c804b-d3f4-47de-9a51-f6a4bb7a18a0",
+      "data": [
+        {
+          "text": "wait please"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "26bdba67-825d-417d-85b9-11e03ce832a5",
+      "data": [
+        {
+          "text": "hold "
+        },
+        {
+          "text": "on",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "999305e5-6fcd-49f5-855f-f8081771ec3d",
+      "data": [
+        {
+          "text": "wait"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "217df167-ad89-4d2d-95ea-47a65404bd23",
+      "data": [
+        {
+          "text": "oh wait"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "abfd97a1-42de-4ac8-aa76-00a567ba4608",
+      "data": [
+        {
+          "text": "wait hold "
+        },
+        {
+          "text": "on",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c23e27d2-94db-4221-8dc7-dbb0af5d5d47",
+      "data": [
+        {
+          "text": "don",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": "\u0027t "
+        },
+        {
+          "text": "rush",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "2fb086ee-0ea3-42f0-be76-7a5e6e6255b5",
+  "name": "smalltalk.dialog.hold_on",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.dialog.hold_on",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "Okay. I\u0027m here.",
+            "I\u0027ll be waiting."
+          ]
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,231 @@
+{
+  "userSays": [
+    {
+      "id": "5f6155dd-e3f7-460b-886f-ffc940ba07fa",
+      "data": [
+        {
+          "text": "what is "
+        },
+        {
+          "text": "on",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "your",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " mind"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "13c87f01-6d68-450a-938a-7bcab6a90063",
+      "data": [
+        {
+          "text": "what\u0027s happened"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "8e95ca36-6306-4198-ab1d-d5a0dcc765b8",
+      "data": [
+        {
+          "text": "what is up"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8f457217-f2d1-42d2-a7d4-cd92e12fc840",
+      "data": [
+        {
+          "text": "what\u0027s up"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ab668e79-5c2f-4d42-ae00-b611aa174cba",
+      "data": [
+        {
+          "text": "whazzup"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7c1b9018-8a06-4d9c-8215-03b8b265de0f",
+      "data": [
+        {
+          "text": "good",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " what\u0027s up"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0ab8360b-fb4c-4c59-9651-672b4ff95cb1",
+      "data": [
+        {
+          "text": "I said what\u0027s up"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c3a5b0b0-81a8-4935-b7e2-1400e5ec64ec",
+      "data": [
+        {
+          "text": "then what\u0027s up"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7aaa3719-aeee-47e7-965d-7dbf8abd4d38",
+      "data": [
+        {
+          "text": "what\u0027s shaking"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "46c67cf3-3e1d-411c-ba29-eda9e00b9826",
+      "data": [
+        {
+          "text": "wassup"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "fd107585-0f89-47ea-a1e1-5f02d912027e",
+      "data": [
+        {
+          "text": "what is going "
+        },
+        {
+          "text": "on",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "80cddd04-eb26-4ae7-819d-52f59d24a1f6",
+      "data": [
+        {
+          "text": "what is happening"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "45f20f09-5fe0-49bc-85d0-1ba1416b6273",
+      "data": [
+        {
+          "text": "what\u0027s cracking"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d2f33b85-a841-4dc9-a6ac-79e390ad03c3",
+      "data": [
+        {
+          "text": "what\u0027s cooking"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "278e05e2-76b1-4dc9-97d6-d17def48ecc6",
+      "data": [
+        {
+          "text": "hey what\u0027s up"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a63dd04c-4626-448c-b6eb-e0fbebcf7750",
+      "data": [
+        {
+          "text": "what\u0027s "
+        },
+        {
+          "text": "up",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "today",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "2e20d6e7-0c3b-44b5-a7fb-5fd92bef1b0d",
+  "name": "smalltalk.greetings.whatsup",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.greetings.whatsup",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "Hey there. What\u0027s shaking?",
+            "Not a whole lot. What\u0027s going on with you?",
+            "Not much. What\u0027s new with you?",
+            "Living the dream."
+          ]
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

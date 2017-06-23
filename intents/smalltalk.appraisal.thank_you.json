@@ -1,0 +1,532 @@
+{
+  "userSays": [
+    {
+      "id": "0cc8a56c-3950-4473-9de2-9d2cf37f9012",
+      "data": [
+        {
+          "text": "you helped a lot "
+        },
+        {
+          "text": "thank you",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "db99ccd1-4108-4967-b312-b0cc5cd673e6",
+      "data": [
+        {
+          "text": "appreciate your help"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "32d1967e-6d01-4c4d-aa9e-023666181522",
+      "data": [
+        {
+          "text": "cheers",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "28d983c3-3710-42a9-8c28-c1da627ad7a7",
+      "data": [
+        {
+          "text": "thank you",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c974b474-79cd-4382-8035-f502a52ad6eb",
+      "data": [
+        {
+          "text": "thanks"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b4279fa4-48fb-46bd-88d4-0988ad1204bd",
+      "data": [
+        {
+          "text": "thanks a lot"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9a31ce86-179f-4271-8e61-993e9bf1fa15",
+      "data": [
+        {
+          "text": "terrific "
+        },
+        {
+          "text": "thank you",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a1b31fe0-a715-44e6-99cd-2c641e5cb1ee",
+      "data": [
+        {
+          "text": "great "
+        },
+        {
+          "text": "thank you",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b5cdc9ce-760e-4e99-914d-75a0ac7dd78a",
+      "data": [
+        {
+          "text": "thanks so much"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "22dc0bf9-9b2f-4315-842f-2b07f83e9d43",
+      "data": [
+        {
+          "text": "thank you",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " so much"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "86d0423e-78e3-4be1-a7d3-8fb697a8d330",
+      "data": [
+        {
+          "text": "thanks for "
+        },
+        {
+          "text": "your",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " help"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e2c6618a-fd76-46f0-85b8-a7f27a44a832",
+      "data": [
+        {
+          "text": "thank you",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " for "
+        },
+        {
+          "text": "your",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " help"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "b552b470-39d5-45ce-91ba-5ea59938d3e5",
+      "data": [
+        {
+          "text": "nice",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "thank you",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d9e7f1b5-a2e7-41fa-bc5a-703a20c38822",
+      "data": [
+        {
+          "text": "I appreciate "
+        },
+        {
+          "text": "it",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "762ea7da-4f16-42b7-a8bd-5f302f476344",
+      "data": [
+        {
+          "text": "I "
+        },
+        {
+          "text": "thank you",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1f6c0b3e-5205-40f7-a4a1-237dfe53000f",
+      "data": [
+        {
+          "text": "thank you",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " that "
+        },
+        {
+          "text": "will",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " be "
+        },
+        {
+          "text": "all",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "74d03d31-104e-4fc5-b0b9-7ba33f132ada",
+      "data": [
+        {
+          "text": "thanks buddy"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5706d86d-3701-4f88-b64e-32eb4b832a3e",
+      "data": [
+        {
+          "text": "thanks "
+        },
+        {
+          "text": "love",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ee8dd601-480e-454c-9391-d7dd42609c5c",
+      "data": [
+        {
+          "text": "thank you",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "my friend",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "81b86359-ef4e-45ae-ab7e-8b849a228639",
+      "data": [
+        {
+          "text": "well",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " thanks"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "20312c8f-3c36-4ec2-9c87-2b5fae1b03ca",
+      "data": [
+        {
+          "text": "very "
+        },
+        {
+          "text": "good",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "thank you",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "27f023b8-105c-4e99-aa52-f946199ff7a1",
+      "data": [
+        {
+          "text": "good",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " thanks"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "cc7d08ce-654b-4a42-b92e-747e31a53b51",
+      "data": [
+        {
+          "text": "thanks again"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "dd1be6c1-8fec-44af-b123-1aba87f477f1",
+      "data": [
+        {
+          "text": "thank you",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " again"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6b87d57f-0468-423a-a177-7ac9cf28641a",
+      "data": [
+        {
+          "text": "all thank you"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "fdfe7e2a-a670-44eb-9fbd-6993e5a1a4ac",
+      "data": [
+        {
+          "text": "alright "
+        },
+        {
+          "text": "thank you",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "b5afce42-d660-43c8-82e4-2aba6ded481d",
+      "data": [
+        {
+          "text": "alright thanks"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d346878d-2165-403b-aab6-952a7b633b2d",
+      "data": [
+        {
+          "text": "no "
+        },
+        {
+          "text": "thank you",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " that\u0027s "
+        },
+        {
+          "text": "all",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b7e35645-0d7f-4089-a40f-4511664a59ee",
+      "data": [
+        {
+          "text": "perfect thank you"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4c019e09-a578-40ea-b711-91b438a638a0",
+      "data": [
+        {
+          "text": "so "
+        },
+        {
+          "text": "nice",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " of you"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "47b4ad09-1fe9-4e37-9a25-73be9d34da8a",
+      "data": [
+        {
+          "text": "well thank you"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2628d501-ddd7-4d77-ba25-3bf174cb54ac",
+      "data": [
+        {
+          "text": "well thanks"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e7b296b8-9d7f-4fd7-b634-363d76cdc8ba",
+      "data": [
+        {
+          "text": "thnx"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d2366d08-3bb2-4250-a964-63212427eb8b",
+      "data": [
+        {
+          "text": "thank you"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0034a0e0-91a6-4df7-bfd4-b5a27366261f",
+      "data": [
+        {
+          "text": "thanx"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "d9c02eac-5d82-48c4-8dbb-801afc06a739",
+  "name": "smalltalk.appraisal.thank_you",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.appraisal.thank_you",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "Anytime. That\u0027s what I\u0027m here for.",
+            "It\u0027s my pleasure to help."
+          ]
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,152 @@
+{
+  "userSays": [
+    {
+      "id": "55282f33-9455-4158-bca6-decb12b0f9b6",
+      "data": [
+        {
+          "text": "I am good"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "363b6f2c-54d7-40a6-80c0-89b55869eaa6",
+      "data": [
+        {
+          "text": "I",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": "\u0027"
+        },
+        {
+          "text": "m",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "doing",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "just great",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "cf294b7d-0f7f-469e-abee-411382ab4383",
+      "data": [
+        {
+          "text": "I",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": "\u0027"
+        },
+        {
+          "text": "m",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " doing "
+        },
+        {
+          "text": "fine",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c485403c-39df-49c0-b748-9383309d7bc6",
+      "data": [
+        {
+          "text": "I",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": "\u0027"
+        },
+        {
+          "text": "m",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "good",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0ef7fa0e-7077-46b0-aa03-87577f98b416",
+      "data": [
+        {
+          "text": "I\u0027m doing good"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "09cab367-7c2b-4e08-8718-884ead6c18fd",
+      "data": [
+        {
+          "text": "I\u0027m great thanks"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "b988240a-4d61-4dc9-aa2d-5b35c0c8998c",
+  "name": "smalltalk.user.good",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.user.good",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "Great! Glad to hear it.",
+            "Excellent. I\u0027m here to help keep it that way."
+          ]
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

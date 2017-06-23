@@ -1,0 +1,872 @@
+{
+  "userSays": [
+    {
+      "id": "c18ce92f-b3b1-4ae6-adaf-c60141c3928c",
+      "data": [
+        {
+          "text": "you\u0027re cute"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "3606e174-9c5a-42ba-9ad1-621cf7d73fa7",
+      "data": [
+        {
+          "text": "you\u0027re attractive"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2bc9ccae-5780-403e-b9b6-de08772f669c",
+      "data": [
+        {
+          "text": "you "
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " beautiful"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "737ad546-8b80-41df-80f3-e5a5f7b490c0",
+      "data": [
+        {
+          "text": "you\u0027re looking "
+        },
+        {
+          "text": "good",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "today",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1e64fb6f-2fa7-4167-8166-544854d8afe6",
+      "data": [
+        {
+          "text": "you "
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " so beautiful"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "208e0482-fdc2-468b-bbad-6789668e9a57",
+      "data": [
+        {
+          "text": "you look amazing"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "453ba365-3851-4947-a5de-ac7d4d320237",
+      "data": [
+        {
+          "text": "you look so "
+        },
+        {
+          "text": "good",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "fbf8e27e-ac23-44f1-86f7-984d71e55178",
+      "data": [
+        {
+          "text": "you\u0027re so gorgeous"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4d050b33-455a-41db-89f2-e1f4054a3d47",
+      "data": [
+        {
+          "text": "you "
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " too beautiful"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "69ca08ce-42b6-48ba-841a-67317b40baed",
+      "data": [
+        {
+          "text": "you look great"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "20224e18-e145-44a9-883d-2fdfbdce829b",
+      "data": [
+        {
+          "text": "you look so "
+        },
+        {
+          "text": "well",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 3
+    },
+    {
+      "id": "013fdcd0-80a0-4262-9677-1407615bdb2e",
+      "data": [
+        {
+          "text": "I like the way you look now"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7132f3d9-768f-4095-95da-591bf8e9da3a",
+      "data": [
+        {
+          "text": "I think you\u0027re beautiful"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b5dc34d0-953d-443b-b456-08f1b3916e30",
+      "data": [
+        {
+          "text": "why "
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " you so beautiful"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "50313df7-289f-4694-bff4-e5e9502a3485",
+      "data": [
+        {
+          "text": "you are so beautiful to me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "dab93d38-ed26-47e4-9e61-1eabfecc0dc2",
+      "data": [
+        {
+          "text": "you "
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " cute"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2e62de71-305c-40bd-8de3-68b2cc639f1b",
+      "data": [
+        {
+          "text": "you "
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " gorgeous"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e6d8e203-f578-47a7-82cf-79b6a2efc400",
+      "data": [
+        {
+          "text": "you "
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " handsome"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ad73b40c-5661-4b26-911d-45a610372679",
+      "data": [
+        {
+          "text": "you "
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " looking awesome"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8be4b842-d211-4f62-8eee-2419b5a45113",
+      "data": [
+        {
+          "text": "you look amazing "
+        },
+        {
+          "text": "today",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d961c43c-740e-458f-8cca-1cda9e10e474",
+      "data": [
+        {
+          "text": "you "
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " looking beautiful "
+        },
+        {
+          "text": "today",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "71352010-1254-4376-8219-eedb83cb0f35",
+      "data": [
+        {
+          "text": "you "
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " looking great"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f2782d70-aa2f-4cca-b0d2-cc602ed19240",
+      "data": [
+        {
+          "text": "you "
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " looking pretty"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0c9d15a9-e93d-4560-8ebf-c6382ec513af",
+      "data": [
+        {
+          "text": "you "
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " looking so beautiful"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c3d9b596-a29c-4307-88b7-eb740dc7658f",
+      "data": [
+        {
+          "text": "you "
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " looking so "
+        },
+        {
+          "text": "good",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a1003920-4411-4e99-8860-0dbce46fcc87",
+      "data": [
+        {
+          "text": "you "
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " pretty"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c84f0264-2f04-4a31-b90b-a6d197c071df",
+      "data": [
+        {
+          "text": "you "
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " really beautiful"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1d512a4a-d5d4-4fd6-aa0b-73af8c58e679",
+      "data": [
+        {
+          "text": "you "
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " really cute"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ab42f371-1e33-4697-8b1e-99ffc548ed6a",
+      "data": [
+        {
+          "text": "you "
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " really pretty"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3ade4557-9794-44e9-a483-7d57188d5e11",
+      "data": [
+        {
+          "text": "you "
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " so attractive"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "43158416-5c81-4025-9dcc-9c4e8f9ce522",
+      "data": [
+        {
+          "text": "you "
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " so beautiful "
+        },
+        {
+          "text": "today",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9b7b06ce-a276-453f-9b40-99b59424e900",
+      "data": [
+        {
+          "text": "you "
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " so cute"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "55b4fbdc-64a0-4304-a7b7-b8c6c3513864",
+      "data": [
+        {
+          "text": "you "
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " so gorgeous"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "22f9ab0a-8f70-46aa-ac33-ce099a984aed",
+      "data": [
+        {
+          "text": "you "
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " so handsome"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "39ad1aa9-c159-4c21-a043-d66f92a0d230",
+      "data": [
+        {
+          "text": "you "
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " so pretty"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e0bd46b1-3e94-45ab-8cf6-32afc6eec458",
+      "data": [
+        {
+          "text": "you "
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " very attractive"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e131412e-2e5f-41bd-bba0-37eaa210a533",
+      "data": [
+        {
+          "text": "you "
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " very beautiful"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ad92d797-4b74-4bee-8235-9085953d13d7",
+      "data": [
+        {
+          "text": "you "
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " very cute"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ed21c60c-80cd-4c35-8a21-c1d4fc5e2e4f",
+      "data": [
+        {
+          "text": "you "
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " very pretty"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4f6fc237-257c-40ad-b40a-fb80f7e947e9",
+      "data": [
+        {
+          "text": "you look awesome"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "02228d09-4b6f-4065-a5f7-de874c4d5989",
+      "data": [
+        {
+          "text": "you look "
+        },
+        {
+          "text": "cool",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2d7c5559-4e02-4c47-b2cb-aed6c6cb81f1",
+      "data": [
+        {
+          "text": "you look fantastic"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a65ce3ad-549c-4634-b321-6b11d1af3239",
+      "data": [
+        {
+          "text": "you look gorgeous"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b1a82cdb-8693-4546-825f-610ea51617c2",
+      "data": [
+        {
+          "text": "you look great "
+        },
+        {
+          "text": "today",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c0e11649-3b46-49f7-a679-2fe8fb8708b2",
+      "data": [
+        {
+          "text": "you look perfect"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9d101bff-e2be-4331-af72-de942fc78ddb",
+      "data": [
+        {
+          "text": "you look pretty "
+        },
+        {
+          "text": "good",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "278d9539-11be-4169-9cbf-6b9917db4896",
+      "data": [
+        {
+          "text": "you look so beautiful"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "77e68ca0-716c-4915-a2a7-43f545af1817",
+      "data": [
+        {
+          "text": "you look so beautiful "
+        },
+        {
+          "text": "today",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8fe80f4f-8b92-47aa-879b-7f138d6b6bf7",
+      "data": [
+        {
+          "text": "you look very pretty"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d4f017f0-6e5a-4649-88e9-ebc6465dac7e",
+      "data": [
+        {
+          "text": "you look wonderful"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a932808a-cccc-4521-8262-fea9f768971b",
+      "data": [
+        {
+          "text": "I like the way you look"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "0a681872-56e1-4853-97e8-4fabd8cab625",
+      "data": [
+        {
+          "text": "you look wonderful "
+        },
+        {
+          "text": "today",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e8515516-2ab5-4207-8fe1-9c5155409449",
+      "data": [
+        {
+          "text": "you "
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " cutie"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "514dbeb0-936e-488f-b4e1-a55cea1110ba",
+      "data": [
+        {
+          "text": "you\u0027re looking good"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "dc1276ce-019b-4e69-8813-41841aa730e9",
+      "data": [
+        {
+          "text": "you\u0027re pretty"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "7bc5fd7b-532b-4307-af37-ff715c6a229e",
+  "name": "smalltalk.agent.beautiful",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.beautiful",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "Thank you! What a sweet thing to say.",
+            "Flattery will get you everywhere."
+          ]
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

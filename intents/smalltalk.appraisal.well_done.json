@@ -1,0 +1,160 @@
+{
+  "userSays": [
+    {
+      "id": "ad4a900e-6f42-4706-b1dd-13392324f706",
+      "data": [
+        {
+          "text": "good job"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4971da0d-b7cd-4023-9687-2f5971f6236e",
+      "data": [
+        {
+          "text": "great job"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ca597078-a61f-4c4a-9fa5-9e321ccfca7b",
+      "data": [
+        {
+          "text": "way to go"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a295c1b7-1296-48f7-9d79-f6a6da2f53e5",
+      "data": [
+        {
+          "text": "well",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " done"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9797fce8-d4f1-414f-b6c2-efa2123fa1fb",
+      "data": [
+        {
+          "text": "nice",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "work",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "366f7481-e0cc-4ba9-92d1-cc1259fa44c4",
+      "data": [
+        {
+          "text": "great",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "work",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6a0b8a1a-1ef8-4700-94bb-c71215834b5f",
+      "data": [
+        {
+          "text": "amazing "
+        },
+        {
+          "text": "work",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0c871c6b-9f1f-4b3b-9811-27689c154fb5",
+      "data": [
+        {
+          "text": "bravo"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d8a2280a-6b12-4e6e-af03-b8a8c3888a2d",
+      "data": [
+        {
+          "text": "good",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "work",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "b85d151d-5418-4519-b2f4-9e50bb2b674b",
+  "name": "smalltalk.appraisal.well_done",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.appraisal.well_done",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "My pleasure.",
+            "Glad I could help."
+          ]
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,142 @@
+{
+  "userSays": [
+    {
+      "id": "716b3762-ade4-404a-bb28-f01b6d44fc69",
+      "data": [
+        {
+          "text": "I just want to talk"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "54e2b43f-859a-4005-bd57-4e0b569f761f",
+      "data": [
+        {
+          "text": "let\u0027s discuss something"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "dfa4597f-7af2-4140-a748-b37fad992bb8",
+      "data": [
+        {
+          "text": "let\u0027s have a discussion"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "74fd4588-0882-43e2-9af3-bfb730a9f20b",
+      "data": [
+        {
+          "text": "can I speak"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "17597ae6-4c48-4a8c-94bf-bdd3e0d553b3",
+      "data": [
+        {
+          "text": "can I start speaking"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "42f9a13f-792c-4d8f-b29c-d5970441a1f4",
+      "data": [
+        {
+          "text": "can we talk"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4e4ee109-3409-4900-8fab-5c414cf5d972",
+      "data": [
+        {
+          "text": "let\u0027s talk"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "cc90a54d-e269-4a3f-ada8-3f02d68458cf",
+      "data": [
+        {
+          "text": "I want to talk to you"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a7081aed-9ffb-4223-806d-484290a1f842",
+      "data": [
+        {
+          "text": "I need to talk to you"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9b5cff61-199b-4454-abb0-b15f1d561e07",
+      "data": [
+        {
+          "text": "I want to speak with you"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4274c344-a6b6-40cb-a28c-c26b2fdbf5a2",
+      "data": [
+        {
+          "text": "can we chat"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "622b1747-d1c1-4160-9edc-f0bbd8990e7f",
+  "name": "smalltalk.user.wants_to_talk",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.user.wants_to_talk",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "I\u0027m here to chat anytime you like.",
+            "Good conversation really makes my day.",
+            "I\u0027m always here to lend an ear.",
+            "Talking is what I do best."
+          ]
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

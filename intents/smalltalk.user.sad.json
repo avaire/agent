@@ -1,0 +1,135 @@
+{
+  "userSays": [
+    {
+      "id": "c1b25147-1e4a-4ceb-a157-7603aaf83d93",
+      "data": [
+        {
+          "text": "I am sad"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "85d497bb-2ae1-42db-b1ee-f52c06d14814",
+      "data": [
+        {
+          "text": "I\u0027m grieving"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5f17f719-84bc-42da-9a94-a2d938e687ef",
+      "data": [
+        {
+          "text": "I am depressed"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "dde4eb9c-6855-4b92-81a4-b94d6085f0bf",
+      "data": [
+        {
+          "text": "I am feeling sad"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "74a6c82b-db71-447f-8019-3cc71ba1fa77",
+      "data": [
+        {
+          "text": "I am upset"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "575dfaec-f56a-47a7-8794-d725a0889a6d",
+      "data": [
+        {
+          "text": "I\u0027m unhappy"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "87035a68-f8be-48fd-89c6-d8951111bbf9",
+      "data": [
+        {
+          "text": "I\u0027m having a bad day"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ce791f56-8e40-47c1-9d7b-ac88c635ad2d",
+      "data": [
+        {
+          "text": "I",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " want "
+        },
+        {
+          "text": "to",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " cry"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1ff4f279-3917-4fa4-a410-c6d08371e5c3",
+      "data": [
+        {
+          "text": "I\u0027m not happy"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "55dbf812-ebf8-49fd-9312-b93cd87883a3",
+  "name": "smalltalk.user.sad",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.user.sad",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "Oh no. What\u0027s wrong?",
+            "Oh. What\u0027s the matter?",
+            "What\u0027s got you down?",
+            "I\u0027m sorry to hear that. What\u0027s troubling you?"
+          ]
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

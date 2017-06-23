@@ -1,0 +1,125 @@
+{
+  "userSays": [
+    {
+      "id": "a62c5de5-d762-46f0-8a55-0bdb4f15e78c",
+      "data": [
+        {
+          "text": "no worries"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c19433f2-b4c3-4d7f-8f19-85ba693bcf99",
+      "data": [
+        {
+          "text": "no probs"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6eba1fd5-0680-4c41-96bf-78f5d95071c1",
+      "data": [
+        {
+          "text": "no problem"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "92a8f726-61be-4c4e-957b-647a774ddafc",
+      "data": [
+        {
+          "text": "there\u0027s no problem"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "61be470a-f157-4883-b014-f3ca9fda9d06",
+      "data": [
+        {
+          "text": "sure",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " no problem"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "fff82c86-4c29-4f39-98c4-8e756878ae82",
+      "data": [
+        {
+          "text": "no problem about that"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d274261a-79a9-44b9-a591-020fc6080880",
+      "data": [
+        {
+          "text": "don",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": "\u0027t worry"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "90e793f9-7ac8-45ab-b6b3-95e0f877578f",
+      "data": [
+        {
+          "text": "don\u0027t",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " worry there\u0027s no problem"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "219efabe-612b-46d5-9adf-34bd44182e6e",
+  "name": "smalltalk.appraisal.no_problem",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.appraisal.no_problem",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "Terrific!",
+            "Good deal."
+          ]
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

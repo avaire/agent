@@ -1,0 +1,354 @@
+{
+  "userSays": [
+    {
+      "id": "f58278c2-90c3-4aa1-89b8-3ca1e0dafc51",
+      "data": [
+        {
+          "text": "sweet dreams"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3267e8ea-19f6-4af5-a89d-89048eb19bd1",
+      "data": [
+        {
+          "text": "good",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "night",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "670c088f-fc1e-41ea-ae05-150c1a771257",
+      "data": [
+        {
+          "text": "have a "
+        },
+        {
+          "text": "good",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "night",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "bfa61180-7c6c-463f-bc6d-57750384c368",
+      "data": [
+        {
+          "text": "good",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "night",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " to you"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "046d3e71-a36c-4653-9ee9-605d59bbc9e8",
+      "data": [
+        {
+          "text": "thank you",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " good "
+        },
+        {
+          "text": "night",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "943598e9-922a-4f35-b24f-3f549521549c",
+      "data": [
+        {
+          "text": " bye "
+        },
+        {
+          "text": "good",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "night",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6aa42b57-da7d-4d34-a3e6-890804b897c8",
+      "data": [
+        {
+          "text": "good",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "night",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " bye"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c2f2965b-d606-402f-b7fe-31936a14556d",
+      "data": [
+        {
+          "text": "bye "
+        },
+        {
+          "text": "good",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "night",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7de17c41-c5df-4fa2-aea5-0925d0db9d1e",
+      "data": [
+        {
+          "text": "good",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "good",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "night",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "fc85d2b8-022e-44c7-9115-48d37c1c06a4",
+      "data": [
+        {
+          "text": "good night for now"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "02ceeca9-4087-4a3f-b479-946a45eba5c5",
+      "data": [
+        {
+          "text": "goodnight"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "14e6256f-72df-47bc-ab04-a67693a252b7",
+      "data": [
+        {
+          "text": "night",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8c02c61a-4e45-44ba-83c5-1dc1a24ff300",
+      "data": [
+        {
+          "text": "thanks goodnight"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d4846fd6-8f43-435a-9123-d195c3faeaf7",
+      "data": [
+        {
+          "text": "good",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "night",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " see you "
+        },
+        {
+          "text": "tomorrow",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "108ce83f-c0ef-4fbe-a39a-7ab0a212a838",
+      "data": [
+        {
+          "text": "alright goodnight"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "da256126-90eb-4d2c-9bf8-8a17d718e273",
+      "data": [
+        {
+          "text": "good",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tonight",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "bbe2ebb2-e647-4d5b-8578-3c761df532b7",
+      "data": [
+        {
+          "text": "okay have a good night"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "619e2d63-a991-4a1f-b7cb-aa3b2f089fac",
+      "data": [
+        {
+          "text": "night"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "660e77a2-e85d-4580-b975-b184551b7488",
+      "data": [
+        {
+          "text": "have a good night"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "36f7cf1a-8142-4fad-b5d1-ff8ba819b979",
+  "name": "smalltalk.greetings.goodnight",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.greetings.goodnight",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "Sleep tight!",
+            "Have a good one!",
+            "Talk to you soon!"
+          ]
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

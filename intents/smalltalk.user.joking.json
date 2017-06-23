@@ -1,0 +1,132 @@
+{
+  "userSays": [
+    {
+      "id": "0ddb2f7d-92a4-4685-b8ee-581f23d8c370",
+      "data": [
+        {
+          "text": "I am joking"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "05d35f15-2f14-4fe5-8c34-992c321f9c3d",
+      "data": [
+        {
+          "text": "I\u0027m kidding"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d8c41478-f13c-492b-9b89-cb4943ed16bb",
+      "data": [
+        {
+          "text": "I\u0027m just being funny"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d64f625c-83d5-4c9d-a5b6-b2302ccf30d9",
+      "data": [
+        {
+          "text": "it was a joke"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1fe68912-1b07-41fd-8145-6d64f47ecc3a",
+      "data": [
+        {
+          "text": "I was just joking"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "cd6a861d-ba8d-4ce4-85eb-7ee523466975",
+      "data": [
+        {
+          "text": "it\u0027s a joke"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "37b41ea5-a1da-4246-9972-ac5eafd56cfe",
+      "data": [
+        {
+          "text": "joking"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a224cea8-fafb-44a1-8e52-4987ebc5f304",
+      "data": [
+        {
+          "text": "just kidding"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "af8613b2-0296-4d4c-8284-b3304c6b4c5e",
+      "data": [
+        {
+          "text": "kidding"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c9de4afb-3f37-4836-bccb-abb6dc3c64cb",
+      "data": [
+        {
+          "text": "I\u0027m just playing with you"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "4d4691fd-14eb-47d7-a2fe-c642c1cd8a90",
+  "name": "smalltalk.user.joking",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.user.joking",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "Very funny, boss.",
+            "You\u0027re quite the kidder.",
+            "You got me.",
+            "I like working for someone with a sense of humour. It makes things much more fun."
+          ]
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

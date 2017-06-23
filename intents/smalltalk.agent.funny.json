@@ -1,0 +1,233 @@
+{
+  "userSays": [
+    {
+      "id": "65d1aac0-36cb-44ad-bd97-50e727e00fda",
+      "data": [
+        {
+          "text": "you make me laugh a lot"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ba8ee782-69da-4add-a4f8-91e08bab8ebe",
+      "data": [
+        {
+          "text": "you "
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " hilarious"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7d7c5293-5efc-4de1-8d2a-629538cb6ee8",
+      "data": [
+        {
+          "text": "you are really funny"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "91184292-0d2f-46d6-b5ef-2c0c49c0e9ea",
+      "data": [
+        {
+          "text": "you\u0027"
+        },
+        {
+          "text": "re the funniest bot",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " I\u0027ve talked to"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6791b652-8f6b-4f95-be30-22ea9e4de6bd",
+      "data": [
+        {
+          "text": "you make "
+        },
+        {
+          "text": "me",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " laugh"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5584d840-f987-43e7-be39-96f29f41c373",
+      "data": [
+        {
+          "text": "you\u0027re so funny"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "a118e5a6-801e-4d0b-9e7f-3f6d9d53c711",
+      "data": [
+        {
+          "text": "you\u0027re a very funny bot"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3bed0b6f-ed3a-48f9-b93c-01da8ee2c8f6",
+      "data": [
+        {
+          "text": "you\u0027re really funny"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "89bab969-8615-4040-8662-7fc76936b9fc",
+      "data": [
+        {
+          "text": "how funny you "
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7416eca0-a2cf-48c0-9a57-90bf8818d7ed",
+      "data": [
+        {
+          "text": "you\u0027re incredibly funny"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "544f5928-e803-44b9-a310-27823d584c3b",
+      "data": [
+        {
+          "text": "you "
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " funny"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "34445a41-e072-43ea-981c-718c6e9a2cec",
+      "data": [
+        {
+          "text": "you\u0027re the funniest"
+        }
+      ],
+      "isTemplate": false,
+      "count": 3
+    },
+    {
+      "id": "dd3d9971-9175-4df5-b14c-a8ff2ba49ae7",
+      "data": [
+        {
+          "text": "you "
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " so funny"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "eaf40959-f2a2-4ccf-851f-7f069ceec070",
+      "data": [
+        {
+          "text": "you "
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " very funny"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "87aa7449-acc4-4a65-a6d0-4e81401641dc",
+      "data": [
+        {
+          "text": "that was funny"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "a304c5d2-737f-4f12-9929-bd903ce9db0b",
+  "name": "smalltalk.agent.funny",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.funny",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "Funny in a good way, I hope.",
+            "Thanks."
+          ]
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

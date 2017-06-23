@@ -1,0 +1,146 @@
+{
+  "userSays": [
+    {
+      "id": "da96ca48-d9f7-4f97-bf80-c7466f0628a1",
+      "data": [
+        {
+          "text": "can you get smarter"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "91130032-00c2-4819-9edb-a80e6ed79b37",
+      "data": [
+        {
+          "text": "study"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d8cac91c-f8ca-4e5c-85a3-599905b4f418",
+      "data": [
+        {
+          "text": "you should "
+        },
+        {
+          "text": "study",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " better"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b009472b-7250-484f-90d6-f6c7c8581452",
+      "data": [
+        {
+          "text": "you "
+        },
+        {
+          "text": "must",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " learn"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a3e14e8e-107a-4c53-a5d3-b6418c575cd6",
+      "data": [
+        {
+          "text": "be clever"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e10c9e58-9ed0-47c8-afce-4e599b89e620",
+      "data": [
+        {
+          "text": "be more clever"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "55ad238c-9bc6-4875-afd7-ba766d2efb89",
+      "data": [
+        {
+          "text": "be smarter"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "06a439fe-3b91-46bd-86bf-5c1bc33ab6cf",
+      "data": [
+        {
+          "text": "be "
+        },
+        {
+          "text": "smart",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ed1d4dd0-83eb-44b0-8a58-f4fea49218a0",
+      "data": [
+        {
+          "text": "get",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " qualified"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "9b91e4d3-3623-4d8a-984e-cabc05a7e2b0",
+  "name": "smalltalk.agent.be_clever",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.be_clever",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "I\u0027m certainly trying.",
+            "I\u0027m definitely working on it."
+          ]
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

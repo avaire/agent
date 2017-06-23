@@ -1,0 +1,114 @@
+{
+  "userSays": [
+    {
+      "id": "c1e5467b-7b2c-42f4-a666-1faabd17a62c",
+      "data": [
+        {
+          "text": "I\u0027ll get back to you "
+        },
+        {
+          "text": "in",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " a moment"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6d838bf9-7b56-4db1-a8e7-583a3eafe1f2",
+      "data": [
+        {
+          "text": "be back "
+        },
+        {
+          "text": "in",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "5",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " minutes"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e65d67c7-deff-423a-9d73-3a6cf4c046ff",
+      "data": [
+        {
+          "text": "I\u0027ll be back"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "07568988-2ecb-4b7f-bfd2-3044746534f5",
+      "data": [
+        {
+          "text": "I promise to "
+        },
+        {
+          "text": "come",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " back"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2166d87d-a5ed-432f-9216-9da449f7fb36",
+      "data": [
+        {
+          "text": "I\u0027ll be back in a few minutes"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "682fc6bd-fda5-4a00-9ef6-2d0c7b0c3121",
+  "name": "smalltalk.user.will_be_back",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.user.will_be_back",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "I\u0027ll be waiting.",
+            "All right. I\u0027ll be here.",
+            "Till next time.",
+            "Okay. You know where to find me."
+          ]
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

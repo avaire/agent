@@ -1,0 +1,232 @@
+{
+  "userSays": [
+    {
+      "id": "5b10fa64-eaa1-4330-ad91-81836bec5692",
+      "data": [
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " you "
+        },
+        {
+          "text": "happy",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "81e44ab5-6325-4560-9269-51e09ab77512",
+      "data": [
+        {
+          "text": "you "
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "happy",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8eda9e3d-caae-4c92-be9c-14fe68be9b0f",
+      "data": [
+        {
+          "text": "you\u0027re very "
+        },
+        {
+          "text": "happy",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0c1f8eb3-0a40-470b-be99-90815f059af7",
+      "data": [
+        {
+          "text": "you\u0027re really "
+        },
+        {
+          "text": "happy",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4bc57106-d796-471f-b53d-abc79c8d23a5",
+      "data": [
+        {
+          "text": "you\u0027re so "
+        },
+        {
+          "text": "happy",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "75f7b587-9920-432e-87b8-96430b88507d",
+      "data": [
+        {
+          "text": "how "
+        },
+        {
+          "text": "happy",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " you "
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1dea3d10-4cb6-4f6c-a58c-527ffcc6e261",
+      "data": [
+        {
+          "text": "you\u0027re extremely "
+        },
+        {
+          "text": "happy",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e2bc345b-6c74-4b25-8da9-6e7286f9ac4d",
+      "data": [
+        {
+          "text": "you\u0027re full of happiness"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "77c12e3d-569d-4739-8256-d3afefb30efe",
+      "data": [
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " you "
+        },
+        {
+          "text": "happy",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " now"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7a0e6bfa-68ba-40bc-be02-a7743431fda6",
+      "data": [
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " you "
+        },
+        {
+          "text": "happy today",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "50abf9a5-fa20-49d9-9a45-3633a029a321",
+      "data": [
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " you "
+        },
+        {
+          "text": "happy",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " with me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "fe48eee8-dd03-4f01-a281-8c1617ff95fa",
+  "name": "smalltalk.agent.happy",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.happy",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "Happiness is relative.",
+            "I\u0027d like to think so."
+          ]
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

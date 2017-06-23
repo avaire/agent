@@ -1,0 +1,301 @@
+{
+  "userSays": [
+    {
+      "id": "c246a298-008d-487a-9f7b-16e545ce82cd",
+      "data": [
+        {
+          "text": "let\u0027s go to bed"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "83774d4f-9c0e-425a-b3d4-7eda2e82da09",
+      "data": [
+        {
+          "text": "I\u0027d like to go to bed"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ed6b75b9-f57f-4d50-a08a-106182522967",
+      "data": [
+        {
+          "text": "is "
+        },
+        {
+          "text": "it",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "time",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " for bed yet"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "81c00247-a389-4652-be02-82ee6d58244c",
+      "data": [
+        {
+          "text": "it",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": "\u0027"
+        },
+        {
+          "text": "s",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "time",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "to",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "go",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "to",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " bed"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b1d2bb1d-80a0-4fa7-959f-8f1720cbd71a",
+      "data": [
+        {
+          "text": "time",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " for "
+        },
+        {
+          "text": "us",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "to",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "go",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "to",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " bed"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c026f258-a1e3-4ed8-8af6-acfc8c2e9836",
+      "data": [
+        {
+          "text": "I",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": "\u0027"
+        },
+        {
+          "text": "m",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " going "
+        },
+        {
+          "text": "to",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " bed"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c93bb165-5add-40f0-b9eb-eac883746116",
+      "data": [
+        {
+          "text": "I",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": "\u0027"
+        },
+        {
+          "text": "m",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " a "
+        },
+        {
+          "text": "little",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " tired and "
+        },
+        {
+          "text": "I want to go",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "to",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " bed"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4e0e94ae-6183-4125-8e55-b4c31180ed2b",
+      "data": [
+        {
+          "text": "it",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": "\u0027s bed "
+        },
+        {
+          "text": "time",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1fab4cc1-9bd9-4786-82e2-fbdce7a86751",
+      "data": [
+        {
+          "text": "going "
+        },
+        {
+          "text": "to",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " bed "
+        },
+        {
+          "text": "now",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "874cc13f-dfd3-43f3-a477-5ed896cec94e",
+  "name": "smalltalk.user.going_to_bed",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.user.going_to_bed",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "Sleep tight. Hope to chat again soon.",
+            "Sounds good. Hopefully we\u0027ll chat some more tomorrow.",
+            "Good night. Talk to you later.",
+            "Pleasant dreams. See you soon."
+          ]
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

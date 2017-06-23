@@ -1,0 +1,120 @@
+{
+  "userSays": [
+    {
+      "id": "545c3d30-322a-4372-a6fd-5c285f8e14cb",
+      "data": [
+        {
+          "text": "I\u0027m drained"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "816aefca-4020-43ac-bab0-8c5243b6b4d4",
+      "data": [
+        {
+          "text": "I\u0027ve overworked"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "adee8ac2-fe9d-4ba6-b2cf-1ecf2fd03fcb",
+      "data": [
+        {
+          "text": "I am tired"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2d045f97-0fe4-4252-bc26-e25a567e71e4",
+      "data": [
+        {
+          "text": "I\u0027m exhausted"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "30f6b8f2-4ad1-4088-82da-e987251024f6",
+      "data": [
+        {
+          "text": "I grow weary"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5071da7a-fe43-457b-9408-0a40bd0015f1",
+      "data": [
+        {
+          "text": "I\u0027m worn out"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "cee5b232-899a-4166-ba6c-8633c9fea99c",
+      "data": [
+        {
+          "text": "I\u0027m getting tired"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "946f121b-e774-481a-90c2-e54bfb48f9e8",
+      "data": [
+        {
+          "text": "I "
+        },
+        {
+          "text": "feel",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " tired"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "ed3ca8fb-d293-4b0c-a2d1-c3626a4446bb",
+  "name": "smalltalk.user.tired",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.user.tired",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "You should get some shuteye. You\u0027ll feel refreshed.",
+            "Sleep is important to your health. Rest up for a bit and we can chat later.",
+            "Don\u0027t let me keep you up. Get some rest and we can continue this later.",
+            "Why not catch a little shuteye? I\u0027ll be here to chat when you wake up."
+          ]
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,80 @@
+{
+  "userSays": [
+    {
+      "id": "ffd5092e-1a72-44bd-8d2a-1b15e2705367",
+      "data": [
+        {
+          "text": "what exactly do you mean"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "12e8bfe3-f7f5-49c8-89c8-41277d4d59aa",
+      "data": [
+        {
+          "text": "what do you mean"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c96c77b7-d5dd-4fae-932f-7ad260925d7b",
+      "data": [
+        {
+          "text": "is that what you mean"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "436515d2-c4ab-459f-b35d-4f6edf1079ea",
+      "data": [
+        {
+          "text": "what do you mean exactly"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "aec93440-18b1-4103-9827-a814856d719d",
+      "data": [
+        {
+          "text": "but what do you mean"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "abd646e6-053a-491c-a1ed-e6f34cc07fe9",
+  "name": "smalltalk.dialog.what_do_you_mean",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.dialog.what_do_you_mean",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "Did that not make sense? Maybe I misunderstood what you said.",
+            "Sorry. I think I may have been a little confused by what you said."
+          ]
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

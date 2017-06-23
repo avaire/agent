@@ -1,0 +1,881 @@
+{
+  "userSays": [
+    {
+      "id": "0f9feb00-1f73-4bad-8fa4-db2dd6036861",
+      "data": [
+        {
+          "text": "I want to have a "
+        },
+        {
+          "text": "friend",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " like you"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8a25d583-6c16-4357-9d3c-38b02e74a6e6",
+      "data": [
+        {
+          "text": "we",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " the "
+        },
+        {
+          "text": "best",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "friends",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " ever"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "55234e9e-a8fa-4a6b-95ec-268948ed1568",
+      "data": [
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "we",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "friends",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "03f794ff-8b49-4de0-af16-866903460777",
+      "data": [
+        {
+          "text": "I",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " want "
+        },
+        {
+          "text": "to",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "be",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " your "
+        },
+        {
+          "text": "friend",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6ec4925f-b318-4d9e-96c6-7675d1e3ba93",
+      "data": [
+        {
+          "text": "I",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "am",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " your "
+        },
+        {
+          "text": "friend",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "70f1aa79-0f06-4105-8d41-89f467436030",
+      "data": [
+        {
+          "text": "we",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "best",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "friends",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "af78fa80-db98-4ce0-83cd-f006d52c9609",
+      "data": [
+        {
+          "text": "you "
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " my "
+        },
+        {
+          "text": "friend",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "088eddb5-6810-4377-af45-cad4735f0e58",
+      "data": [
+        {
+          "text": "you "
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " my "
+        },
+        {
+          "text": "best",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "friend",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "58053e4f-df39-434c-ad75-7c07e682363b",
+      "data": [
+        {
+          "text": "you "
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " my bestie"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3da06475-2ab1-4b52-bac8-d4930b0f4f10",
+      "data": [
+        {
+          "text": "you\u0027re my dear "
+        },
+        {
+          "text": "friend",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "80334cdf-d60b-46e0-a17f-8984e7259b1f",
+      "data": [
+        {
+          "text": "you\u0027re my childhood "
+        },
+        {
+          "text": "friend",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "385c2866-c3d4-4935-b299-860fab5bff2c",
+      "data": [
+        {
+          "text": "you and me "
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "friends",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 2
+    },
+    {
+      "id": "186c73ee-ae09-471b-9866-052cfd4aae89",
+      "data": [
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "we",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "best",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "friends",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "51b1fee2-cc52-4d02-9d12-fabc4e145c7b",
+      "data": [
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "we",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " still "
+        },
+        {
+          "text": "friends",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b1189746-32b1-455d-8982-53b96cf36854",
+      "data": [
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " you my "
+        },
+        {
+          "text": "best",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "friend",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0bb99e1f-e52a-48b5-8c64-4468af8f6e07",
+      "data": [
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " you my "
+        },
+        {
+          "text": "friend",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b2470c38-26f0-44e5-af46-def3008ea8f9",
+      "data": [
+        {
+          "text": "we",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "friends",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "fd1dcfc2-e915-49c2-8edc-1e1f0591142d",
+      "data": [
+        {
+          "text": "you "
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " a "
+        },
+        {
+          "text": "good",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "friend",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9066e38a-5d2d-4b60-87fc-c383bc7663cf",
+      "data": [
+        {
+          "text": "you "
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " my "
+        },
+        {
+          "text": "good",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "friend",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e05946d1-8146-4cbf-af13-2fa6470e4201",
+      "data": [
+        {
+          "text": "you "
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " my only "
+        },
+        {
+          "text": "friend",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a2a94e3f-4622-4247-8d8b-aa22aab156f1",
+      "data": [
+        {
+          "text": "be my "
+        },
+        {
+          "text": "friend",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "95a7d8bc-d40b-49ee-9616-bcd76a80aff5",
+      "data": [
+        {
+          "text": "will",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " you be my "
+        },
+        {
+          "text": "friend",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "98a4821e-52a2-474a-86b1-a16ff7259c3d",
+      "data": [
+        {
+          "text": "can you be my "
+        },
+        {
+          "text": "friend",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2f4cdcc8-060e-4cf2-a498-50188396c38e",
+      "data": [
+        {
+          "text": "can "
+        },
+        {
+          "text": "we",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " be "
+        },
+        {
+          "text": "friends",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "82c70514-a059-4a1c-9f70-13901cdb0dbf",
+      "data": [
+        {
+          "text": "do you want to be my "
+        },
+        {
+          "text": "friend",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0e3b5e4b-fc87-4f42-b37d-b52792020f76",
+      "data": [
+        {
+          "text": "will",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " you be my "
+        },
+        {
+          "text": "best",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "friend",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8841c7de-f525-43b8-9696-8fc31c6d9dc0",
+      "data": [
+        {
+          "text": "can you be my "
+        },
+        {
+          "text": "best",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "friend",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b565c410-e2f8-4cc4-9582-539223648138",
+      "data": [
+        {
+          "text": "let\u0027s be "
+        },
+        {
+          "text": "friends",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "97a3c638-34cd-4f55-883d-072afa38bdec",
+      "data": [
+        {
+          "text": "do you want to be my "
+        },
+        {
+          "text": "best",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "friend",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "dce2fa80-977b-4ccf-8c03-58030870d77d",
+      "data": [
+        {
+          "text": "would you like to be my "
+        },
+        {
+          "text": "friend",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7d94bda0-7bea-4b05-a9cf-deb633d3746a",
+      "data": [
+        {
+          "text": "I want you to be my "
+        },
+        {
+          "text": "friend",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "21b81206-1916-4ca4-8e77-2b955dff195a",
+      "data": [
+        {
+          "text": "can "
+        },
+        {
+          "text": "we",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " be "
+        },
+        {
+          "text": "best",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "friends",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "147bc281-0325-4705-8ce2-c3c0b052dc5c",
+      "data": [
+        {
+          "text": "would you be my "
+        },
+        {
+          "text": "friend",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "07cee3c7-6ad2-44d3-865f-65d538a90875",
+      "data": [
+        {
+          "text": "could you be my "
+        },
+        {
+          "text": "friend",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e6367412-3edf-4def-8418-9f9d0e2bf456",
+      "data": [
+        {
+          "text": "want to be my "
+        },
+        {
+          "text": "friend",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d2e98a61-d9f4-4b71-adf2-e65b8bc8ee75",
+      "data": [
+        {
+          "text": "be my "
+        },
+        {
+          "text": "best",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "friend",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b9413510-92ad-40da-b39d-d95d6f6904b6",
+      "data": [
+        {
+          "text": "can we be best friends"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "1c0f1e70-870f-4a65-849b-90379a09e825",
+  "name": "smalltalk.agent.my_friend",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.my_friend",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "Of course we are.",
+            "Absolutely. You don\u0027t have to ask."
+          ]
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,199 @@
+{
+  "userSays": [
+    {
+      "id": "548e72a4-b3d8-4914-b11f-16d40668baee",
+      "data": [
+        {
+          "text": "it\u0027s been so nice to talk to you"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6beb37ac-9993-42f8-935d-54196d2fdff2",
+      "data": [
+        {
+          "text": "it",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": "\u0027"
+        },
+        {
+          "text": "s",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "been",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " a "
+        },
+        {
+          "text": "pleasure",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "talking",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "to",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " you"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d4e231e7-9a08-4baa-8941-74782c7c84b0",
+      "data": [
+        {
+          "text": "nice",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " to talk to you"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "becff57d-245e-40eb-9caf-aff6c822c95c",
+      "data": [
+        {
+          "text": "it\u0027s",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "nice",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " to talk to you"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ea151a36-bda6-4cfe-bff5-5ab8f51c398e",
+      "data": [
+        {
+          "text": "nice",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " talking to you"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "ff7b43bc-bf15-4a65-8e0a-4c55dcd8622a",
+      "data": [
+        {
+          "text": "it",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "is nice",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " talking to you"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c6a8d5a3-8dfd-49d3-b06c-199ce97c66cf",
+      "data": [
+        {
+          "text": "how "
+        },
+        {
+          "text": "nice",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "it",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " is to talk to you"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "3aabd067-81e0-4a40-aabc-37d531fe75cc",
+  "name": "smalltalk.greetings.nice_to_talk_to_you",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.greetings.nice_to_talk_to_you",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "Always a pleasure.",
+            "It sure was. Don\u0027t be a stranger!",
+            "Thanks for dropping by!",
+            "As usual. Let\u0027s do it again soon."
+          ]
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

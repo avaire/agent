@@ -1,0 +1,177 @@
+{
+  "userSays": [
+    {
+      "id": "1eac415f-c3e4-48ff-9bea-b902c59850ac",
+      "data": [
+        {
+          "text": "I "
+        },
+        {
+          "text": "love",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " you"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d2ba823b-f5d5-491f-adf2-97bc990f938c",
+      "data": [
+        {
+          "text": "love",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " you"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1f54cfef-66d7-456a-b82c-e60bc2e41f25",
+      "data": [
+        {
+          "text": "I "
+        },
+        {
+          "text": "adore you",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6cc65427-c70e-45b5-aab1-2fc88c098547",
+      "data": [
+        {
+          "text": "I am in "
+        },
+        {
+          "text": "love",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " with you"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "bbd4c51a-a570-4440-b74b-6766353e5d1f",
+      "data": [
+        {
+          "text": "I "
+        },
+        {
+          "text": "love",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " you so much"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5cf7bb4e-8ef4-4263-977b-35fa20b666cb",
+      "data": [
+        {
+          "text": "I "
+        },
+        {
+          "text": "love",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " you too"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ba97ac6d-bc2a-4b33-9962-d5a0805daf8f",
+      "data": [
+        {
+          "text": "I think I "
+        },
+        {
+          "text": "love",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " you"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e2b03e66-0baf-4fe3-9d06-753ff5c3b474",
+      "data": [
+        {
+          "text": "loving",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " you"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a1d46c0d-0999-4310-b1cc-2341ab8b1451",
+      "data": [
+        {
+          "text": "you know I love you"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "296394f0-e386-49b9-b333-ac0760dcdf21",
+  "name": "smalltalk.user.loves_agent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.user.loves_agent",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "I like you too.",
+            "That\u0027s great to hear.",
+            "Likewise!",
+            "Thanks! The feeling is mutual."
+          ]
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

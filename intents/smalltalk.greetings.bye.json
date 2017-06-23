@@ -1,0 +1,424 @@
+{
+  "userSays": [
+    {
+      "id": "c422ff7e-497d-441c-aa9c-c4fa40a1a726",
+      "data": [
+        {
+          "text": "okay see you later"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "46098b87-0e61-46ee-bd35-eda7748357c1",
+      "data": [
+        {
+          "text": "hope",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " to see you later"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b56f4aa7-f7e8-46d6-b8f9-57d450a613c9",
+      "data": [
+        {
+          "text": "bye for now"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "7f7c23a3-d7bd-48a7-a5c1-515ff9dd91f0",
+      "data": [
+        {
+          "text": "till next time"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b1ad3985-c6eb-4af6-ba0b-2d955c3c3985",
+      "data": [
+        {
+          "text": "I "
+        },
+        {
+          "text": "must",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " go"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "21e8f6b5-f113-4d73-9807-20812be67d80",
+      "data": [
+        {
+          "text": "bye"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ede7ce71-7c0e-4787-90ae-21cb3f041a6d",
+      "data": [
+        {
+          "text": "goodbye"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3c14e5e7-e2cb-4750-8716-df93c316e921",
+      "data": [
+        {
+          "text": "see you"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "bd1d6e01-2c1c-4061-9e23-9ec2f4d98395",
+      "data": [
+        {
+          "text": "see you soon"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a8f49f9d-4a1d-45e1-a9da-bf7c69f7711a",
+      "data": [
+        {
+          "text": "bye-bye"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d9eb9038-beb3-4fb5-96f9-6a13fe50feec",
+      "data": [
+        {
+          "text": "good",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " bye"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6c1a6b1d-3646-40ae-b197-7713a51129f9",
+      "data": [
+        {
+          "text": "bye bye see you"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a45414c8-d5e1-4038-9b78-974daf1da6a4",
+      "data": [
+        {
+          "text": "bye bye see you soon"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d64a67bd-3045-47ca-a711-53188291d6f3",
+      "data": [
+        {
+          "text": "bye bye take care"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5a6523c6-7c01-4231-afe9-1894ef0e8abe",
+      "data": [
+        {
+          "text": "I said bye"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0dee613d-2025-478b-88c9-c2e2d6b9c53d",
+      "data": [
+        {
+          "text": "never mind bye"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9094d785-ad06-4251-844b-53493da482ea",
+      "data": [
+        {
+          "text": "now bye"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0a1c4d9e-46d1-4431-9d81-cbd1c06b8a42",
+      "data": [
+        {
+          "text": "that\u0027s "
+        },
+        {
+          "text": "all",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " goodbye"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a87727ff-55d9-4b56-875e-c30bd84afcd0",
+      "data": [
+        {
+          "text": "that\u0027s "
+        },
+        {
+          "text": "it",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " goodbye"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "c34ac9e1-c79e-4772-9cd0-de7a5b85706d",
+      "data": [
+        {
+          "text": "leave",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " me alone"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "c696f239-79ac-4040-b799-dd7bfa11fa66",
+      "data": [
+        {
+          "text": "go to bed"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2d7f4432-7495-4c12-afe3-74b9664160c4",
+      "data": [
+        {
+          "text": "goodbye for now"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "c8f8f5a9-8dc8-44dd-8202-7a017da7fac7",
+      "data": [
+        {
+          "text": "talk to you later"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "af127450-e2e3-4dcd-ad5b-679b535b1fe9",
+      "data": [
+        {
+          "text": "you can go now"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0de257cc-efc1-45a2-b7e7-f5eaf5a3b082",
+      "data": [
+        {
+          "text": "get",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "lost",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3c8fa7cc-afb3-4644-9daa-2dd91fa9e729",
+      "data": [
+        {
+          "text": "goodbye see you later"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "da5994ce-240c-4cb3-906f-ee73d27eb155",
+      "data": [
+        {
+          "text": "alright bye"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "67e1dca9-cc0f-4f2f-a6f7-1462de354763",
+      "data": [
+        {
+          "text": "see ya"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ed9496a2-bf53-40fc-87aa-6a1276647983",
+      "data": [
+        {
+          "text": "thanks bye bye"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0a417cbd-7a40-4ab6-b305-8b354a2af6ef",
+      "data": [
+        {
+          "text": "okay bye"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e41e0a5f-a105-4e8f-9575-00be366f2ce6",
+      "data": [
+        {
+          "text": "okay",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "thank you",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " bye"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "88c873f5-6620-41ec-9de9-e8f836839e8d",
+      "data": [
+        {
+          "text": "see you tomorrow"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e4171d44-0fe3-4100-afb3-200a7b6c8421",
+      "data": [
+        {
+          "text": "ok bye"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "b2a08e4e-a964-483a-a37e-ed8e03422fdd",
+  "name": "smalltalk.greetings.bye",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.greetings.bye",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "See you soon!",
+            "Bye-bye!",
+            "Till next time!",
+            "Bye."
+          ]
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

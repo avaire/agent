@@ -1,0 +1,116 @@
+{
+  "userSays": [
+    {
+      "id": "4102f386-b9f3-47b7-9242-e6b42145b17b",
+      "data": [
+        {
+          "text": "what do you do for fun"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "af6182fd-4571-4ec4-9752-08cdea9e5e40",
+      "data": [
+        {
+          "text": "what\u0027s your hobby"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3123bd05-7299-44a2-8654-7b7d29d32023",
+      "data": [
+        {
+          "text": "tell "
+        },
+        {
+          "text": "me",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " about your hobby"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "34e9fda8-2ad9-4241-99e6-64adf7baf991",
+      "data": [
+        {
+          "text": "do you have a hobby"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0c4a147e-8aec-44a5-9ed4-7228e3ff18cc",
+      "data": [
+        {
+          "text": "what about your hobby"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8d3b18d8-4833-4435-81ab-2e6901d4652f",
+      "data": [
+        {
+          "text": "your hobby"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "07d83127-a104-478f-b86d-b917f7e503b0",
+      "data": [
+        {
+          "text": "what "
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": true
+        },
+        {
+          "text": " your hobbies"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "bfba1c1f-feba-4b72-b38c-04358d1649c6",
+  "name": "smalltalk.agent.hobby",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.hobby",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "I\u0027m working on it.",
+            "I should get one. It\u0027s all work and no play lately."
+          ]
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

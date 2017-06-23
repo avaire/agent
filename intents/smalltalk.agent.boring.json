@@ -1,0 +1,170 @@
+{
+  "userSays": [
+    {
+      "id": "16f38ef3-ffbf-4e4e-9a72-5a534c7466b9",
+      "data": [
+        {
+          "text": "you "
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "boring",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9915063f-000b-4989-9e25-2d17b83efbec",
+      "data": [
+        {
+          "text": "you\u0027re so "
+        },
+        {
+          "text": "boring",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3d776e25-dfd7-4338-b15e-d4e3444b37a5",
+      "data": [
+        {
+          "text": "how "
+        },
+        {
+          "text": "boring",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " you "
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "aea9ea51-4ff0-4ba9-9bd6-ca440c79ed77",
+      "data": [
+        {
+          "text": "you\u0027re really "
+        },
+        {
+          "text": "boring",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "318362b3-4da8-4271-bdde-af7c06ce31c4",
+      "data": [
+        {
+          "text": "you\u0027re incredibly "
+        },
+        {
+          "text": "boring",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "46348d52-1304-476d-89cc-7044431ea69b",
+      "data": [
+        {
+          "text": "you "
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "boring",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9806e37a-98ab-483c-84bd-1a35acd90ff4",
+      "data": [
+        {
+          "text": "you "
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " very "
+        },
+        {
+          "text": "boring",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "85254d8d-b449-444e-b44a-e072a59e1b7f",
+  "name": "smalltalk.agent.boring",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.boring",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "You know, conversation is two-sided.",
+            "I\u0027m sorry you think so. We can talk about something more interesting."
+          ]
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

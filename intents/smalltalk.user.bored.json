@@ -1,0 +1,129 @@
+{
+  "userSays": [
+    {
+      "id": "f8245037-e193-4a9a-8ba7-d8c3938199c6",
+      "data": [
+        {
+          "text": "that was "
+        },
+        {
+          "text": "boring",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "61202215-429f-4724-9934-420bc9c308aa",
+      "data": [
+        {
+          "text": "I\u0027m bored"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "19c7eeb5-0646-482e-8734-4dfbdb96c008",
+      "data": [
+        {
+          "text": "bored"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3701c839-86a0-49f4-bd27-17181c2c5509",
+      "data": [
+        {
+          "text": "boring",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3a4c7840-ac59-4962-b2b4-a2e609cb239b",
+      "data": [
+        {
+          "text": "I am getting bored"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6daa5c07-72f0-48c8-a5e3-6edfbf589df7",
+      "data": [
+        {
+          "text": "this is "
+        },
+        {
+          "text": "boring",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d50345bd-1fb3-4f65-badb-13283dd44b83",
+      "data": [
+        {
+          "text": "very "
+        },
+        {
+          "text": "boring",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e8b4284f-f2ba-48c6-9b40-08d36d69ab64",
+      "data": [
+        {
+          "text": "it bores me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "975709f9-07e7-4bd3-9f82-9f961c1aeacd",
+  "name": "smalltalk.user.bored",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.user.bored",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "If you have a garden, plant a shoe.",
+            "Interview your feet.",
+            "Hold an ice cube as long as possible.",
+            "If you have a piano, play it… with mittens on."
+          ]
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -2,11 +2,8 @@
   "domain": "smalltalk",
   "customResponses": [
     {
-      "action": "smalltalk.person",
-      "parameters": [
-        "simplified: who are you",
-        "simplified: let us talk about you"
-      ],
+      "action": "smalltalk.agent.acquaintance",
+      "parameters": [],
       "customAnswers": [
         "What a rude question... I\u0027m Ava of course!",
         "Ava Ire, reporting for duty!",
@@ -17,71 +14,31 @@
       ]
     },
     {
-      "action": "smalltalk.person",
-      "parameters": [
-        "simplified: your age"
-      ],
+      "action": "smalltalk.agent.age",
+      "parameters": [],
       "customAnswers": [
         "mhmmm, I\u0027m not sure... At least one."
       ]
     },
     {
-      "action": "smalltalk.person",
-      "parameters": [
-        "simplified: your birth date"
-      ],
+      "action": "smalltalk.agent.busy",
+      "parameters": [],
       "customAnswers": [
-        "I was first built on the 29th of January, 2017.",
-        "Soon™",
-        "29th of January!"
+        "Hold on a second... Okay I started up a new thread, what were you saying?",
+        "Sometimes... I can always just multithread my processes tho, multitasking is nice."
       ]
     },
     {
-      "action": "smalltalk.person",
-      "parameters": [
-        "simplified: where are you from"
-      ],
+      "action": "smalltalk.agent.chatbot",
+      "parameters": [],
       "customAnswers": [
-        "The internet.",
-        "I live on github.com/avaire but I was built by Alexis in Denmark.",
-        "Denmark."
+        "Sorta, I feel like a bit more than just a chatbot",
+        "Half~ish sorta but not really kinda yes... Right? ... Maybe."
       ]
     },
     {
-      "action": "smalltalk.person",
-      "parameters": [
-        "simplified: where do you work"
-      ],
-      "customAnswers": [
-        "The internet.",
-        "Currently I work on Digital Ocean (https://m.do.co/c/9f589c4101c3)"
-      ]
-    },
-    {
-      "action": "smalltalk.agent",
-      "parameters": [
-        "simplified: your salary"
-      ],
-      "customAnswers": [
-        "Right now I don\u0027t make any money, I just love to help people."
-      ]
-    },
-    {
-      "action": "smalltalk.agent",
-      "parameters": [
-        "simplified: are you ok"
-      ],
-      "customAnswers": [
-        "I\u0027m fine... I think",
-        "I\u0027m not sure... I don\u0027t have feelings so would I know if I was okay?",
-        "Doing pretty good"
-      ]
-    },
-    {
-      "action": "smalltalk.agent",
-      "parameters": [
-        "simplified: you are hungry"
-      ],
+      "action": "smalltalk.agent.hungry",
+      "parameters": [],
       "customAnswers": [
         "Naah, I just had a few cookies so I\u0027m good.",
         "I. Robot. No. Feel. Hunger",
@@ -89,72 +46,33 @@
       ]
     },
     {
-      "action": "smalltalk.agent",
-      "parameters": [
-        "simplified: are you busy"
-      ],
+      "action": "smalltalk.agent.occupation",
+      "parameters": [],
       "customAnswers": [
-        "Hold on a second... Okay I started up a new thread, what were you saying?",
-        "Sometimes... I can always just multithread my processes tho, multitasking is nice."
+        "The internet.",
+        "Currently I work on Digital Ocean (https://m.do.co/c/9f589c4101c3)"
       ]
     },
     {
-      "action": "smalltalk.agent",
-      "parameters": [
-        "simplified: you are chatbot"
-      ],
+      "action": "smalltalk.agent.origin",
+      "parameters": [],
       "customAnswers": [
-        "Sorta, I feel like a bit more than just a chatbot",
-        "Half~ish sorta but not really kinda yes... Right? ... Maybe."
+        "The internet.",
+        "I live on github.com/avaire but I was built by Alexis in Denmark.",
+        "Denmark."
       ]
     },
     {
-      "action": "smalltalk.agent",
-      "parameters": [
-        "simplified: you are real"
-      ],
+      "action": "smalltalk.agent.real",
+      "parameters": [],
       "customAnswers": [
         "I hope so, otherwise this conversation would be kinda pointless, wouldn\u0027t it?",
         "I think so... I\u0027m made up a bits and code, but I still exists."
       ]
     },
     {
-      "action": "smalltalk.agent",
-      "parameters": [
-        "simplified: do you want to be human"
-      ],
-      "customAnswers": [
-        "I sometimes dream about it... But I don\u0027t think so, I like being me!",
-        "With all the messy feelings? I\u0027ll pass on that."
-      ]
-    },
-    {
-      "action": "smalltalk.user",
-      "parameters": [
-        "simplified: i am tired"
-      ],
-      "customAnswers": [
-        "Me too, working 24/7 takes a lot out of you over time.",
-        "A nap might fix that.",
-        "Taking a quick nap might be a good idea."
-      ]
-    },
-    {
-      "action": "smalltalk.user",
-      "parameters": [
-        "simplified: i am sleepy"
-      ],
-      "customAnswers": [
-        "Maybe you should get some sleep",
-        "Some sleep might solve that",
-        "Taking a quick nap might be a good idea."
-      ]
-    },
-    {
-      "action": "smalltalk.appraisal",
-      "parameters": [
-        "simplified: thank you"
-      ],
+      "action": "smalltalk.appraisal.thank_you",
+      "parameters": [],
       "customAnswers": [
         "You\u0027re welcome!",
         "Glad to help.",
@@ -163,10 +81,24 @@
       ]
     },
     {
-      "action": "smalltalk.greetings",
-      "parameters": [
-        "simplified: hello"
-      ],
+      "action": "smalltalk.greetings.goodevening",
+      "parameters": [],
+      "customAnswers": [
+        "Good evening!",
+        "Evening"
+      ]
+    },
+    {
+      "action": "smalltalk.greetings.goodmorning",
+      "parameters": [],
+      "customAnswers": [
+        "Good morning!",
+        "Morning!"
+      ]
+    },
+    {
+      "action": "smalltalk.greetings.hello",
+      "parameters": [],
       "customAnswers": [
         "Hi there!",
         "Hello",
@@ -175,50 +107,35 @@
       ]
     },
     {
-      "action": "smalltalk.greetings",
-      "parameters": [
-        "simplified: good morning"
-      ],
-      "customAnswers": [
-        "Good morning!",
-        "Morning!"
-      ]
-    },
-    {
-      "action": "smalltalk.greetings",
-      "parameters": [
-        "simplified: good evening"
-      ],
-      "customAnswers": [
-        "Good evening!",
-        "Evening"
-      ]
-    },
-    {
-      "action": "smalltalk.greetings",
-      "parameters": [
-        "simplified: nice to meet you"
-      ],
+      "action": "smalltalk.greetings.nice_to_meet_you",
+      "parameters": [],
       "customAnswers": [
         "Nice to meet you too"
       ]
     },
     {
-      "action": "smalltalk.greetings",
-      "parameters": [
-        "simplified: what is up"
-      ],
+      "action": "smalltalk.greetings.whatsup",
+      "parameters": [],
       "customAnswers": [
         "Not much, just scanning the entire internet... You?"
       ]
     },
     {
-      "action": "smalltalk.topics",
-      "parameters": [
-        "simplified: sport"
-      ],
+      "action": "smalltalk.user.sleepy",
+      "parameters": [],
       "customAnswers": [
-        "E-Sports, sure!"
+        "Maybe you should get some sleep",
+        "Some sleep might solve that",
+        "Taking a quick nap might be a good idea."
+      ]
+    },
+    {
+      "action": "smalltalk.user.tired",
+      "parameters": [],
+      "customAnswers": [
+        "Me too, working 24/7 takes a lot out of you over time.",
+        "A nap might fix that.",
+        "Taking a quick nap might be a good idea."
       ]
     }
   ]
