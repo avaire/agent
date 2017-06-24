@@ -28,6 +28,7 @@
   "responses": [
     {
       "resetContexts": false,
+      "action": "smalltalk.color",
       "affectedContexts": [],
       "parameters": [],
       "messages": [
