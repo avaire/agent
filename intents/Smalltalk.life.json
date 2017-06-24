@@ -1,42 +1,42 @@
 {
   "userSays": [
     {
-      "id": "4f93a056-16fb-41b5-88f2-d751c7d875d8",
+      "id": "2c1ebcaa-58c9-4749-9bd9-5ad9f0db8c88",
       "data": [
         {
-          "text": " what is your favorite color?"
+          "text": "What is the meaning of life?"
         }
       ],
       "isTemplate": false,
       "count": 0
     },
     {
-      "id": "73189f2d-c5ef-4d2b-9595-dd8c068ded8d",
+      "id": "ebd345e2-8402-4db2-82fd-a4d4158b70a8",
       "data": [
         {
-          "text": " color?"
+          "text": "Meaning of life?"
         }
       ],
       "isTemplate": false,
       "count": 0
     }
   ],
-  "id": "d6c87f4c-bd35-4f0a-8d69-f6984eae6424",
-  "name": "Color",
+  "id": "273768dd-9b09-4848-b942-e7c73bfc26b2",
+  "name": "Smalltalk.life",
   "auto": true,
   "contexts": [],
   "responses": [
     {
       "resetContexts": false,
-      "action": "smalltalk.color",
+      "action": "smalltalk.life",
       "affectedContexts": [],
       "parameters": [],
       "messages": [
         {
           "type": 0,
           "speech": [
-            "I prefer any color that makes you happy.",
-            "I like any color that the world offers."
+            "42",
+            "The meaning of life is just be alive. Its so plain and obvious and so simple. Yet everybody rushes around to accomplish something bigger than themselves. With that being said, you do you."
           ]
         }
       ]
