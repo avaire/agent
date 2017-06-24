@@ -1,0 +1,58 @@
+{
+  "templates": [
+    "Tell me about senither.",
+    "about senither."
+  ],
+  "userSays": [
+    {
+      "id": "b46178bb-e49c-4f36-a0fb-cbde50530abc",
+      "data": [
+        {
+          "text": "Tell me about senither."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8afee43b-75a9-4450-aa2f-21d07ae23131",
+      "data": [
+        {
+          "text": "about senither."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "5c8220a5-f087-41c5-b7ec-d763629b5b28",
+  "name": "Senither",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.senither",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "Senither or Alexis tan is a Full-stack web developer, major geek, gamer, someone who likes to build things, creator of @AvaIre.",
+            "Senither is a freelance coder who created @Avaire."
+          ]
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}
