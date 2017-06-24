@@ -1,0 +1,50 @@
+{
+  "userSays": [
+    {
+      "id": "2c1ebcaa-58c9-4749-9bd9-5ad9f0db8c88",
+      "data": [
+        {
+          "text": "What is the meaning of life?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ebd345e2-8402-4db2-82fd-a4d4158b70a8",
+      "data": [
+        {
+          "text": "Meaning of life?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "273768dd-9b09-4848-b942-e7c73bfc26b2",
+  "name": "Smalltalk.life",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.life",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "42",
+            "The meaning of life is just be alive. Its so plain and obvious and so simple. Yet everybody rushes around to accomplish something bigger than themselves. With that being said, you do you."
+          ]
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}
