@@ -54,7 +54,11 @@
       "messages": [
         {
           "type": 0,
-          "speech": "I was created by Alexis Tan(Senither) on the 1st of february 2017, and I\u0027m made using NodeJS and a bunch of other cool languages."
+          "speech": [
+            "I was created by Alexis Tan(Senither) on the 1st of february 2017, and I\u0027m made using NodeJS and a bunch of other cool languages.",
+            "Alexis Tan",
+            "Senither"
+          ]
         }
       ]
     }
