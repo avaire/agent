@@ -1,4 +1,8 @@
 {
+  "templates": [
+    "What do you like?",
+    "Do you like?"
+  ],
   "userSays": [
     {
       "id": "5412ec7f-fd76-4194-ace7-254090915e2f",
@@ -24,12 +28,26 @@
   "id": "81e3ea35-fa3e-4063-8f0a-3afee2ed8ff5",
   "name": "like",
   "auto": true,
-  "contexts": [],
+  "contexts": [
+    "You",
+    "Like"
+  ],
   "responses": [
     {
       "resetContexts": false,
       "action": "smalltalk.like",
-      "affectedContexts": [],
+      "affectedContexts": [
+        {
+          "name": "You",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "Like",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
       "parameters": [],
       "messages": [
         {
@@ -43,6 +61,10 @@
     }
   ],
   "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
   "webhookUsed": false,
   "webhookForSlotFilling": false,
   "fallbackIntent": false,

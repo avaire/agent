@@ -1,4 +1,8 @@
 {
+  "templates": [
+    " what is your favorite color?",
+    " color?"
+  ],
   "userSays": [
     {
       "id": "4f93a056-16fb-41b5-88f2-d751c7d875d8",
@@ -24,12 +28,26 @@
   "id": "d6c87f4c-bd35-4f0a-8d69-f6984eae6424",
   "name": "Color",
   "auto": true,
-  "contexts": [],
+  "contexts": [
+    "Favorite",
+    "Color"
+  ],
   "responses": [
     {
       "resetContexts": false,
       "action": "smalltalk.color",
-      "affectedContexts": [],
+      "affectedContexts": [
+        {
+          "name": "Favorite",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "Color",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
       "parameters": [],
       "messages": [
         {
