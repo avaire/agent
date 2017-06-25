@@ -1,0 +1,60 @@
+{
+  "templates": [
+    "What is your name?",
+    "your name?"
+  ],
+  "userSays": [
+    {
+      "id": "c73fcd9c-46a9-407b-9353-943d381eb0e0",
+      "data": [
+        {
+          "text": "What is your name?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "95b2e162-fd28-411e-8c99-1d7e33a43428",
+      "data": [
+        {
+          "text": "your name?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "ce5878fb-d9fb-4292-b2ca-9a603258f4d8",
+  "name": "Ava.name",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.name",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "I am Ava Ire",
+            "Name's Ire... Ava Ire",
+            "Ava",
+            "People call me Avaire but its Ava Ire."
+          ]
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}
