@@ -1,4 +1,13 @@
 {
+  "templates": [
+    "who is your boss",
+    "who do you think is your boss",
+    "I should be your boss",
+    "who is your master",
+    "who is your owner",
+    "who is the boss",
+    "who do you work for"
+  ],
   "userSays": [
     {
       "id": "2dc7d576-3e18-4531-af42-e575ef5d988a",
@@ -139,7 +148,8 @@
           "type": 0,
           "speech": [
             "You are, of course.",
-            "That would be you. Is that the right answer?"
+            "That would be you. Is that the right answer?",
+            "I have a boss?"
           ]
         }
       ]

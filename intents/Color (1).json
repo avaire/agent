@@ -1,49 +1,49 @@
 {
   "templates": [
-    "What do you like?",
-    "Do you like?"
+    " what is your favorite color?",
+    " color?"
   ],
   "userSays": [
     {
-      "id": "5412ec7f-fd76-4194-ace7-254090915e2f",
+      "id": "4f93a056-16fb-41b5-88f2-d751c7d875d8",
       "data": [
         {
-          "text": "What do you like?"
+          "text": " what is your favorite color?"
         }
       ],
       "isTemplate": false,
       "count": 0
     },
     {
-      "id": "61a73828-abad-4f4a-8a10-99184b8bb470",
+      "id": "73189f2d-c5ef-4d2b-9595-dd8c068ded8d",
       "data": [
         {
-          "text": "Do you like?"
+          "text": " color?"
         }
       ],
       "isTemplate": false,
       "count": 0
     }
   ],
-  "id": "81e3ea35-fa3e-4063-8f0a-3afee2ed8ff5",
-  "name": "like",
+  "id": "d6c87f4c-bd35-4f0a-8d69-f6984eae6424",
+  "name": "Color",
   "auto": true,
   "contexts": [
-    "You",
-    "Like"
+    "Favorite",
+    "Color"
   ],
   "responses": [
     {
       "resetContexts": false,
-      "action": "smalltalk.like",
+      "action": "smalltalk.color",
       "affectedContexts": [
         {
-          "name": "You",
+          "name": "Favorite",
           "parameters": {},
           "lifespan": 5
         },
         {
-          "name": "Like",
+          "name": "Color",
           "parameters": {},
           "lifespan": 5
         }
@@ -53,18 +53,15 @@
         {
           "type": 0,
           "speech": [
-            "I like traveling across discord and helping in anyway i can.",
-            "I like helping you, of course."
+            "I prefer any color that makes you happy.",
+            "I like any color that the world offers.",
+            "I'm a AI so i can't see color but be free to imagine me liking any color."
           ]
         }
       ]
     }
   ],
   "priority": 500000,
-  "cortanaCommand": {
-    "navigateOrService": "NAVIGATE",
-    "target": ""
-  },
   "webhookUsed": false,
   "webhookForSlotFilling": false,
   "fallbackIntent": false,
