@@ -1,0 +1,59 @@
+{
+  "templates": [
+    "What do you like?",
+    "Do you like?"
+  ],
+  "userSays": [
+    {
+      "id": "5412ec7f-fd76-4194-ace7-254090915e2f",
+      "data": [
+        {
+          "text": "What do you like?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "61a73828-abad-4f4a-8a10-99184b8bb470",
+      "data": [
+        {
+          "text": "Do you like?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "81e3ea35-fa3e-4063-8f0a-3afee2ed8ff5",
+  "name": "like",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.like",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "I like traveling across discord and helping in anyway i can.",
+            "I like helping you, of course.",
+            "I thoroughly enjoy helping the discord community."
+          ]
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}
