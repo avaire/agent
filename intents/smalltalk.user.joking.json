@@ -1,4 +1,16 @@
 {
+  "templates": [
+    "I am joking",
+    "I'm kidding",
+    "I'm just being funny",
+    "it was a joke",
+    "I was just joking",
+    "it's a joke",
+    "joking",
+    "just kidding",
+    "kidding",
+    "I'm just playing with you"
+  ],
   "userSays": [
     {
       "id": "0ddb2f7d-92a4-4685-b8ee-581f23d8c370",
@@ -14,7 +26,7 @@
       "id": "05d35f15-2f14-4fe5-8c34-992c321f9c3d",
       "data": [
         {
-          "text": "I\u0027m kidding"
+          "text": "I'm kidding"
         }
       ],
       "isTemplate": false,
@@ -24,7 +36,7 @@
       "id": "d8c41478-f13c-492b-9b89-cb4943ed16bb",
       "data": [
         {
-          "text": "I\u0027m just being funny"
+          "text": "I'm just being funny"
         }
       ],
       "isTemplate": false,
@@ -54,7 +66,7 @@
       "id": "cd6a861d-ba8d-4ce4-85eb-7ee523466975",
       "data": [
         {
-          "text": "it\u0027s a joke"
+          "text": "it's a joke"
         }
       ],
       "isTemplate": false,
@@ -94,7 +106,7 @@
       "id": "c9de4afb-3f37-4836-bccb-abb6dc3c64cb",
       "data": [
         {
-          "text": "I\u0027m just playing with you"
+          "text": "I'm just playing with you"
         }
       ],
       "isTemplate": false,
@@ -116,9 +128,10 @@
           "type": 0,
           "speech": [
             "Very funny, boss.",
-            "You\u0027re quite the kidder.",
+            "You're quite the kidder.",
             "You got me.",
-            "I like working for someone with a sense of humour. It makes things much more fun."
+            "I like working for someone with a sense of humour. It makes things much more fun.",
+            "Oh lol"
           ]
         }
       ]
