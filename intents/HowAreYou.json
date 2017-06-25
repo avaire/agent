@@ -1,5 +1,7 @@
 {
   "templates": [
+    "How are you doing?",
+    "How is your day going?",
     "How is your morning?",
     "You ok?",
     "How is your day?",
@@ -8,6 +10,26 @@
     "How is everything?"
   ],
   "userSays": [
+    {
+      "id": "60f451f3-2979-4c9e-be93-4261caa834f7",
+      "data": [
+        {
+          "text": "How are you doing?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "19ade992-431d-4de7-b6d0-3f0ff8ebb80d",
+      "data": [
+        {
+          "text": "How is your day going?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
     {
       "id": "a2aaaf95-1c77-45bf-a5fc-af5f3ebe5827",
       "data": [
