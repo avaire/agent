@@ -1,0 +1,70 @@
+{
+  "templates": [
+    "Congrats on 900 servers",
+    "Congrats on reaching more servers",
+    "Congratulations on being on more servers"
+  ],
+  "userSays": [
+    {
+      "id": "4b8274d4-7352-4318-b3be-54ca3c66640f",
+      "data": [
+        {
+          "text": "Congrats on 900 servers"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6d39949e-555c-4327-972e-1529e2e25509",
+      "data": [
+        {
+          "text": "Congrats on reaching more servers"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "361641fa-080c-4ed4-a681-39f3f35b9124",
+      "data": [
+        {
+          "text": "Congratulations on being on more servers"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "fed83a43-6bfb-40e5-8c76-dbc1908650b8",
+  "name": "Congrats",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.congrats",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "Thank you.",
+            "Thanks, but none of this would have been possible without Senither, my creator.",
+            "Thank you its been a intresting journey."
+          ]
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}
