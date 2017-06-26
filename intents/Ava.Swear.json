@@ -1,5 +1,6 @@
 {
   "templates": [
+    "You @Swear:Swear ",
     "@Swear:Swear it",
     "@Swear:Swear or @Swear:Swear1 ",
     "Oh @Swear:Swear ",
@@ -13,6 +14,22 @@
     "God @Swear:Swear it"
   ],
   "userSays": [
+    {
+      "id": "3620ecbd-9206-46a4-af67-6c72aa5c609c",
+      "data": [
+        {
+          "text": "You "
+        },
+        {
+          "text": "fuck",
+          "alias": "Swear",
+          "meta": "@Swear",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 2
+    },
     {
       "id": "ff3c2fcf-9156-4ba6-beaf-29c3409c3207",
       "data": [
