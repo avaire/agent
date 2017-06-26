@@ -1,0 +1,57 @@
+{
+  "templates": [
+    "Overclock"
+  ],
+  "userSays": [
+    {
+      "id": "ce183127-c77a-4545-88d9-8c2ed3bef121",
+      "data": [
+        {
+          "text": "Overclock"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "bac41e13-dec2-478a-a25c-f4e69f7ff71b",
+  "name": "Overclock",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.overclock",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "Mercy is best medic.",
+            "GeT oN tHe PaYlOaD",
+            "\"Boop\"-Lucio",
+            "\"Heros never die\"",
+            "\"Hammer down\"",
+            "\"I've got you in my sights\"",
+            "\"Die! Die! Die!\"",
+            "\"Cheers love, Calvary's here\"",
+            "\"I require healing\"",
+            "\"Let's break it..................Downnnn!\"",
+            "\"Nerf this\"",
+            "\"Its high noon\""
+          ]
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

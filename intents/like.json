@@ -28,26 +28,12 @@
   "id": "81e3ea35-fa3e-4063-8f0a-3afee2ed8ff5",
   "name": "like",
   "auto": true,
-  "contexts": [
-    "You",
-    "Like"
-  ],
+  "contexts": [],
   "responses": [
     {
       "resetContexts": false,
       "action": "smalltalk.like",
-      "affectedContexts": [
-        {
-          "name": "You",
-          "parameters": {},
-          "lifespan": 5
-        },
-        {
-          "name": "Like",
-          "parameters": {},
-          "lifespan": 5
-        }
-      ],
+      "affectedContexts": [],
       "parameters": [],
       "messages": [
         {

@@ -28,26 +28,12 @@
   "id": "d6c87f4c-bd35-4f0a-8d69-f6984eae6424",
   "name": "Color",
   "auto": true,
-  "contexts": [
-    "Favorite",
-    "Color"
-  ],
+  "contexts": [],
   "responses": [
     {
       "resetContexts": false,
       "action": "smalltalk.color",
-      "affectedContexts": [
-        {
-          "name": "Favorite",
-          "parameters": {},
-          "lifespan": 5
-        },
-        {
-          "name": "Color",
-          "parameters": {},
-          "lifespan": 5
-        }
-      ],
+      "affectedContexts": [],
       "parameters": [],
       "messages": [
         {

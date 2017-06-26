@@ -1,0 +1,307 @@
+{
+  "templates": [
+    "Mother fucker",
+    "Son of a @Swear:Swear ",
+    "You @Swear:Swear ",
+    "@Swear:Swear it",
+    "@Swear:Swear or @Swear:Swear1 ",
+    "Oh @Swear:Swear ",
+    "My @Swear:Swear ",
+    "Hey there you little @Swear:Swear ",
+    "@Swear:Swear you",
+    "Wow you're a @Swear:Swear ",
+    "Hey there @Swear:Swear .",
+    "You are a @Swear:Swear .",
+    "Holy @Swear:Swear .",
+    "God @Swear:Swear it"
+  ],
+  "userSays": [
+    {
+      "id": "a4e506af-fbc4-4ac1-b4c8-7cea1308b8f6",
+      "data": [
+        {
+          "text": "Mother fucker"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9992feaa-aec7-4bce-bfe4-6a30d6d065a3",
+      "data": [
+        {
+          "text": "Son of a "
+        },
+        {
+          "text": "bitch",
+          "alias": "Swear",
+          "meta": "@Swear",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3620ecbd-9206-46a4-af67-6c72aa5c609c",
+      "data": [
+        {
+          "text": "You "
+        },
+        {
+          "text": "fuck",
+          "alias": "Swear",
+          "meta": "@Swear",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 2
+    },
+    {
+      "id": "ff3c2fcf-9156-4ba6-beaf-29c3409c3207",
+      "data": [
+        {
+          "text": "Fuck",
+          "alias": "Swear",
+          "meta": "@Swear",
+          "userDefined": false
+        },
+        {
+          "text": " it"
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "4e9953dd-9302-490c-81c0-d04eed6fea93",
+      "data": [
+        {
+          "text": "Nigger",
+          "alias": "Swear",
+          "meta": "@Swear",
+          "userDefined": false
+        },
+        {
+          "text": " or "
+        },
+        {
+          "text": "negro",
+          "alias": "Swear1",
+          "meta": "@Swear",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "cc46d1aa-deaf-4e88-9e69-a3b9032f102f",
+      "data": [
+        {
+          "text": "Oh "
+        },
+        {
+          "text": "shit",
+          "alias": "Swear",
+          "meta": "@Swear",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ebcb65d3-e04b-4fb2-91fb-b3a5ef85d276",
+      "data": [
+        {
+          "text": "My "
+        },
+        {
+          "text": "ass",
+          "alias": "Swear",
+          "meta": "@Swear",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "4f10cf0a-0bae-4ec9-82e7-ae9ea073cb58",
+      "data": [
+        {
+          "text": "Hey there you little "
+        },
+        {
+          "text": "shit",
+          "alias": "Swear",
+          "meta": "@Swear",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "5540fd9d-2edc-4981-901f-c3db79e1c15f",
+      "data": [
+        {
+          "text": "Fuck",
+          "alias": "Swear",
+          "meta": "@Swear",
+          "userDefined": false
+        },
+        {
+          "text": " you"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "15b26f31-2837-4527-8d38-1794fd154420",
+      "data": [
+        {
+          "text": "Wow you're a "
+        },
+        {
+          "text": "asshole",
+          "alias": "Swear",
+          "meta": "@Swear",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "92cbdb04-2faf-4f46-a244-7256c7de7836",
+      "data": [
+        {
+          "text": "Hey there "
+        },
+        {
+          "text": "jackass",
+          "alias": "Swear",
+          "meta": "@Swear",
+          "userDefined": false
+        },
+        {
+          "text": "."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0a06a326-d2a8-4923-a1de-92166c3a560e",
+      "data": [
+        {
+          "text": "You are a "
+        },
+        {
+          "text": "nigger",
+          "alias": "Swear",
+          "meta": "@Swear",
+          "userDefined": false
+        },
+        {
+          "text": "."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2175bda3-c037-412e-90b6-22884db91f50",
+      "data": [
+        {
+          "text": "Holy "
+        },
+        {
+          "text": "shit",
+          "alias": "Swear",
+          "meta": "@Swear",
+          "userDefined": false
+        },
+        {
+          "text": "."
+        }
+      ],
+      "isTemplate": false,
+      "count": 1
+    },
+    {
+      "id": "d9c785fc-f3c1-4e62-9d8a-bbd81b0c3133",
+      "data": [
+        {
+          "text": "God "
+        },
+        {
+          "text": "damn",
+          "alias": "Swear",
+          "meta": "@Swear",
+          "userDefined": false
+        },
+        {
+          "text": " it"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "fda02c7a-e478-495a-a649-adb01658b6d0",
+  "name": "Ava.Swear",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.swear",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "required": false,
+          "dataType": "@Swear",
+          "name": "Swear",
+          "value": "$Swear",
+          "prompts": [
+            "Fuck",
+            "Bitch",
+            "Ass",
+            "Nigger",
+            "Shit"
+          ],
+          "isList": false
+        },
+        {
+          "dataType": "@Swear",
+          "name": "Swear1",
+          "value": "$Swear1",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "You better watch your language.",
+            "You better change that damn tone ;)"
+          ]
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}
