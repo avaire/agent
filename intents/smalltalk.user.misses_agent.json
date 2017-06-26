@@ -1,4 +1,13 @@
 {
+  "templates": [
+    "I miss you",
+    "missing you",
+    "miss you",
+    "already miss you",
+    "I miss you much",
+    "I missed you",
+    "I've missed you"
+  ],
   "userSays": [
     {
       "id": "b7a207b3-e981-4998-b50c-6bba33d97a34",
@@ -101,7 +110,7 @@
       "id": "e0060afc-2753-4092-a28a-1daf7073c2b7",
       "data": [
         {
-          "text": "I\u0027ve "
+          "text": "I've "
         },
         {
           "text": "missed",
@@ -130,10 +139,11 @@
         {
           "type": 0,
           "speech": [
-            "I\u0027ve been right here all along!",
+            "I've been right here all along!",
             "Nice to know you care.",
-            "Thanks. I\u0027m flattered.",
-            "I didn\u0027t go anywhere, boss!"
+            "Thanks. I'm flattered.",
+            "I didn't go anywhere, boss!",
+            "Awww I missed you too ♡"
           ]
         }
       ]
