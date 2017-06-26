@@ -1,5 +1,7 @@
 {
   "templates": [
+    "Mother fucker",
+    "Son of a @Swear:Swear ",
     "You @Swear:Swear ",
     "@Swear:Swear it",
     "@Swear:Swear or @Swear:Swear1 ",
@@ -14,6 +16,32 @@
     "God @Swear:Swear it"
   ],
   "userSays": [
+    {
+      "id": "a4e506af-fbc4-4ac1-b4c8-7cea1308b8f6",
+      "data": [
+        {
+          "text": "Mother fucker"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9992feaa-aec7-4bce-bfe4-6a30d6d065a3",
+      "data": [
+        {
+          "text": "Son of a "
+        },
+        {
+          "text": "bitch",
+          "alias": "Swear",
+          "meta": "@Swear",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
     {
       "id": "3620ecbd-9206-46a4-af67-6c72aa5c609c",
       "data": [
