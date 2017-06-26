@@ -7,7 +7,8 @@
       "value": "Fuck",
       "synonyms": [
         "Fuck",
-        "fuck"
+        "fuck",
+        "Fucker"
       ]
     },
     {
@@ -41,6 +42,13 @@
       "value": "Bitch",
       "synonyms": [
         "Bitch"
+      ]
+    },
+    {
+      "value": "Whore",
+      "synonyms": [
+        "Whore",
+        "Hoe"
       ]
     }
   ],
