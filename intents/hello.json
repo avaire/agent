@@ -1,5 +1,69 @@
 {
+  "templates": [
+    "Hej",
+    "Heg",
+    "Hola",
+    "Heyo",
+    "long time no see",
+    "hello",
+    "hi",
+    "howdy",
+    "hey there",
+    "hey",
+    "greetings",
+    "I greet you",
+    "hi there",
+    "hello there",
+    "lovely day isn't it",
+    "hello again",
+    "just going to say hi",
+    "hi there",
+    "a good day",
+    "afternoon",
+    "hello hi",
+    "heya"
+  ],
   "userSays": [
+    {
+      "id": "73a861c7-014e-4b89-a57d-03df451cfe20",
+      "data": [
+        {
+          "text": "Hej"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4f577fc7-c1ec-4fda-99f7-30afd3fb1794",
+      "data": [
+        {
+          "text": "Heg"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "37f33d8c-d6fa-4b2f-9315-32f9d1a7b13b",
+      "data": [
+        {
+          "text": "Hola"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "184b1cb4-fbf9-4444-8031-339e11bf3ab5",
+      "data": [
+        {
+          "text": "Heyo"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
     {
       "id": "55da5070-d9f4-4359-ab1d-fc95603df792",
       "data": [
@@ -122,7 +186,7 @@
           "userDefined": true
         },
         {
-          "text": " isn\u0027t "
+          "text": " isn't "
         },
         {
           "text": "it",
@@ -210,7 +274,7 @@
     }
   ],
   "id": "75e6d4e4-d79e-4d3a-b7dc-b1d4a1cd2ead",
-  "name": "smalltalk.greetings.hello",
+  "name": "hello",
   "auto": true,
   "contexts": [],
   "responses": [
@@ -223,10 +287,14 @@
         {
           "type": 0,
           "speech": [
-            "Hi there, friend!",
-            "Hey!",
-            "Good day!",
-            "Howdy."
+            "Hi there, %nick%!",
+            "Hey %nick%",
+            "Good day %nick% :)",
+            "Howdy.",
+            "Hey",
+            "Hej",
+            "Hej %nick%",
+            "Hello %nick%, how are you?"
           ]
         }
       ]

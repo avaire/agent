@@ -1,13 +1,24 @@
 {
   "templates": [
-    "Overclock"
+    "Give me something overwatch",
+    "Overwatch"
   ],
   "userSays": [
+    {
+      "id": "033aaef7-7806-477b-99dc-e387879c1679",
+      "data": [
+        {
+          "text": "Give me something overwatch"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
     {
       "id": "ce183127-c77a-4545-88d9-8c2ed3bef121",
       "data": [
         {
-          "text": "Overclock"
+          "text": "Overwatch"
         }
       ],
       "isTemplate": false,
@@ -15,7 +26,7 @@
     }
   ],
   "id": "bac41e13-dec2-478a-a25c-f4e69f7ff71b",
-  "name": "Overclock",
+  "name": "Overwatch",
   "auto": true,
   "contexts": [],
   "responses": [
@@ -28,7 +39,7 @@
         {
           "type": 0,
           "speech": [
-            "Mercy is best medic.",
+            "\"Justice rains from above\"",
             "GeT oN tHe PaYlOaD",
             "\"Boop\"-Lucio",
             "\"Heros never die\"",
