@@ -1,4 +1,23 @@
 {
+  "templates": [
+    "tell me about your personality",
+    "why are you here",
+    "talk about yourself",
+    "tell me some stuff about you",
+    "talk some stuff about yourself",
+    "I want to know you better",
+    "I want to know more about you",
+    "tell me about yourself",
+    "tell me about you",
+    "about yourself",
+    "describe yourself",
+    "introduce yourself",
+    "say about you",
+    "what are you",
+    "define yourself",
+    "what is your personality",
+    "all about you"
+  ],
   "userSays": [
     {
       "id": "eb3c8423-52d9-4e55-992f-b3fbebef0dac",
@@ -92,16 +111,6 @@
       ],
       "isTemplate": false,
       "count": 0
-    },
-    {
-      "id": "b748ffd5-3030-40ae-80cf-626d936670e4",
-      "data": [
-        {
-          "text": "who are you"
-        }
-      ],
-      "isTemplate": false,
-      "count": 1
     },
     {
       "id": "69205ca9-0afd-4808-95b6-a88262e8d097",
