@@ -1,9 +1,42 @@
 {
   "templates": [
+    "Can i have a overwatch quote?",
+    "overwatch quote.",
+    "Give me a overwatch quote.",
     "Give me something overwatch",
     "Overwatch"
   ],
   "userSays": [
+    {
+      "id": "99df06b5-f8c1-429b-8602-1dcbe365ef3d",
+      "data": [
+        {
+          "text": "Can i have a overwatch quote?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c11dbea3-8da1-4ef6-b1e7-2c3094f4b988",
+      "data": [
+        {
+          "text": "overwatch quote."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "614eaa61-a901-445a-a101-f61f7f01d84a",
+      "data": [
+        {
+          "text": "Give me a overwatch quote."
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
     {
       "id": "033aaef7-7806-477b-99dc-e387879c1679",
       "data": [
@@ -32,7 +65,7 @@
   "responses": [
     {
       "resetContexts": false,
-      "action": "smalltalk.overclock",
+      "action": "smalltalk.overwatch",
       "affectedContexts": [],
       "parameters": [],
       "messages": [
@@ -41,7 +74,6 @@
           "speech": [
             "\"Justice rains from above\"",
             "GeT oN tHe PaYlOaD",
-            "\"Boop\"-Lucio",
             "\"Heros never die\"",
             "\"Hammer down\"",
             "\"I've got you in my sights\"",
@@ -50,7 +82,22 @@
             "\"I require healing\"",
             "\"Let's break it..................Downnnn!\"",
             "\"Nerf this\"",
-            "\"Its high noon\""
+            "\"Its high noon\"",
+            "\"Drop the beat!\"",
+            "\"Ryuu ga waga teki wo kurau\"",
+            "\"Ryūjin no ken wo kurae!\"",
+            "\"Helden sterben nicht\"",
+            "\"Freeze! Don't move!\"",
+            "\"Here you go!\"",
+            "\"Pass into the iris\"",
+            "\"No one can hide from my sight\"",
+            "\"Teleporter online\"",
+            "\"Apagando las luces!\"",
+            "\"Ladies and gentlemen, start your engines!\"",
+            "\"Cease your resistance!\"",
+            "\"Personne n'échappe à mon regard\"",
+            "\"Experience tranquility\"",
+            "\""
           ]
         }
       ]
