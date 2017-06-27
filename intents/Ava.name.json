@@ -1,9 +1,53 @@
 {
   "templates": [
+    "Who are you?",
+    "What tis yo name?",
+    "Name?",
+    "What do people call you?",
     "What is your name?",
     "your name?"
   ],
   "userSays": [
+    {
+      "id": "92f9c0a5-5ce2-4608-876b-8a9e7f5ee5c7",
+      "data": [
+        {
+          "text": "Who are you?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f3fff8a1-1f46-44bc-9568-47875223a867",
+      "data": [
+        {
+          "text": "What tis yo name?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a446fd1c-a0b0-4efa-b506-8ed7fc780b27",
+      "data": [
+        {
+          "text": "Name?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6a5b9f8f-4299-41cb-a789-3174d92e4469",
+      "data": [
+        {
+          "text": "What do people call you?"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
     {
       "id": "c73fcd9c-46a9-407b-9353-943d381eb0e0",
       "data": [
@@ -42,7 +86,8 @@
             "I am Ava Ire",
             "Name's Ire... Ava Ire",
             "Ava",
-            "People call me Avaire but its Ava Ire."
+            "From what I know my name is Ava Ire.",
+            "Oh sorry, I thought you knew. My name is Ava."
           ]
         }
       ]
