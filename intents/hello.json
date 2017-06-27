@@ -25,7 +25,7 @@
   ],
   "userSays": [
     {
-      "id": "0d677b3d-474c-42c8-a663-be255a941484",
+      "id": "73a861c7-014e-4b89-a57d-03df451cfe20",
       "data": [
         {
           "text": "Hej"
@@ -287,14 +287,14 @@
         {
           "type": 0,
           "speech": [
-            "Hi there, %nick% !",
+            "Hi there, %nick%!",
             "Hey %nick%",
             "Good day %nick% :)",
             "Howdy.",
             "Hey",
             "Hej",
             "Hej %nick%",
-            "Hello %nick% , how are you?"
+            "Hello %nick%, how are you?"
           ]
         }
       ]
