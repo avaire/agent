@@ -295,9 +295,10 @@
           "type": 0,
           "speech": [
             "You better watch your language.",
-            "You better change that damn tone ;)",
+            "You better change that tone ;)",
             "Please watch the language.",
-            "Ouch that hurt my feelings :("
+            "Ouch that hurt my feelings :(",
+            "%nick% thats a mean thing to say :p"
           ]
         }
       ]
