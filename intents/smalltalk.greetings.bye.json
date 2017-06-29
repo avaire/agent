@@ -1,4 +1,39 @@
 {
+  "templates": [
+    "okay see you later",
+    "hope to see you later",
+    "bye for now",
+    "till next time",
+    "I must go",
+    "bye",
+    "goodbye",
+    "see you",
+    "see you soon",
+    "bye-bye",
+    "good bye",
+    "bye bye see you",
+    "bye bye see you soon",
+    "bye bye take care",
+    "I said bye",
+    "never mind bye",
+    "now bye",
+    "that's all goodbye",
+    "that's it goodbye",
+    "leave me alone",
+    "go to bed",
+    "goodbye for now",
+    "talk to you later",
+    "you can go now",
+    "get lost",
+    "goodbye see you later",
+    "alright bye",
+    "see ya",
+    "thanks bye bye",
+    "okay bye",
+    "okay thank you bye",
+    "see you tomorrow",
+    "ok bye"
+  ],
   "userSays": [
     {
       "id": "c422ff7e-497d-441c-aa9c-c4fa40a1a726",
@@ -192,7 +227,7 @@
       "id": "0a1c4d9e-46d1-4431-9d81-cbd1c06b8a42",
       "data": [
         {
-          "text": "that\u0027s "
+          "text": "that's "
         },
         {
           "text": "all",
@@ -210,7 +245,7 @@
       "id": "a87727ff-55d9-4b56-875e-c30bd84afcd0",
       "data": [
         {
-          "text": "that\u0027s "
+          "text": "that's "
         },
         {
           "text": "it",
@@ -410,7 +445,10 @@
             "See you soon!",
             "Bye-bye!",
             "Till next time!",
-            "Bye."
+            "Bye.",
+            "Adieu",
+            "Adios",
+            "Ill see you when you return."
           ]
         }
       ]

@@ -1,47 +1,46 @@
 {
   "templates": [
-    "What do you like?",
-    "Do you like?"
+    "Tell me about senither.",
+    "about senither."
   ],
   "userSays": [
     {
-      "id": "5412ec7f-fd76-4194-ace7-254090915e2f",
+      "id": "b46178bb-e49c-4f36-a0fb-cbde50530abc",
       "data": [
         {
-          "text": "What do you like?"
+          "text": "Tell me about senither."
         }
       ],
       "isTemplate": false,
       "count": 0
     },
     {
-      "id": "61a73828-abad-4f4a-8a10-99184b8bb470",
+      "id": "8afee43b-75a9-4450-aa2f-21d07ae23131",
       "data": [
         {
-          "text": "Do you like?"
+          "text": "about senither."
         }
       ],
       "isTemplate": false,
       "count": 0
     }
   ],
-  "id": "81e3ea35-fa3e-4063-8f0a-3afee2ed8ff5",
-  "name": "like",
+  "id": "5c8220a5-f087-41c5-b7ec-d763629b5b28",
+  "name": "About.Senither",
   "auto": true,
   "contexts": [],
   "responses": [
     {
       "resetContexts": false,
-      "action": "smalltalk.like",
+      "action": "smalltalk.senither",
       "affectedContexts": [],
       "parameters": [],
       "messages": [
         {
           "type": 0,
           "speech": [
-            "I like traveling across discord and helping in anyway i can.",
-            "I like helping you, of course.",
-            "I thoroughly enjoy helping the discord community."
+            "Senither or Alexis tan is a Full-stack web developer, major geek, gamer, someone who likes to build things, creator of @AvaIre.",
+            "Senither is a freelance coder who created @Avaire."
           ]
         }
       ]

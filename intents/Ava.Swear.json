@@ -1,6 +1,6 @@
 {
   "templates": [
-    "Mother fucker",
+    "Hey @Swear:Swear ",
     "Son of a @Swear:Swear ",
     "You @Swear:Swear ",
     "@Swear:Swear it",
@@ -17,10 +17,16 @@
   ],
   "userSays": [
     {
-      "id": "a4e506af-fbc4-4ac1-b4c8-7cea1308b8f6",
+      "id": "eb6e5d64-ef06-4790-b44d-e1f3b56a7587",
       "data": [
         {
-          "text": "Mother fucker"
+          "text": "Hey "
+        },
+        {
+          "text": "nigger",
+          "alias": "Swear",
+          "meta": "@Swear",
+          "userDefined": false
         }
       ],
       "isTemplate": false,
@@ -289,7 +295,10 @@
           "type": 0,
           "speech": [
             "You better watch your language.",
-            "You better change that damn tone ;)"
+            "You better change that tone ;)",
+            "Please watch the language.",
+            "Ouch that hurt my feelings :(",
+            "%nick% thats a mean thing to say :p"
           ]
         }
       ]

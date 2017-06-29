@@ -1,4 +1,51 @@
 {
+  "templates": [
+    "you are very helpful",
+    "you are the best",
+    "you're a true professional",
+    "you are good",
+    "you work well",
+    "you are good at it",
+    "you are very good at it",
+    "you are a pro",
+    "you are a professional",
+    "you're awesome",
+    "you work very well",
+    "you're perfect",
+    "you're great",
+    "you're so kind",
+    "you are amazing",
+    "you are awesome",
+    "you are cool",
+    "you are really good",
+    "you are really nice",
+    "you are so amazing",
+    "you're just super",
+    "you are so awesome",
+    "you are so cool",
+    "you are so fine",
+    "you are so good",
+    "you are so helpful",
+    "you are so lovely",
+    "you are the best ever",
+    "you are the best in the world",
+    "you are the nicest person in the world",
+    "you are too good",
+    "you are very cool",
+    "you are very kind",
+    "you are very lovely",
+    "you are very useful",
+    "you are wonderful",
+    "you made my day",
+    "you make my day",
+    "you rock",
+    "you almost sound human",
+    "I want to tell everyone how awesome you are",
+    "I'd like to tell everyone that you are awesome",
+    "I want to let everyone know that you are awesome",
+    "let's tell everyone that you are awesome",
+    "you are really amazing"
+  ],
   "userSays": [
     {
       "id": "cf7f3ae6-cc2b-45d4-a142-cdd6eb74c02e",
@@ -37,7 +84,7 @@
       "id": "df82c8e9-e24d-4061-a145-d7467fb7036c",
       "data": [
         {
-          "text": "you\u0027re a true professional"
+          "text": "you're a true professional"
         }
       ],
       "isTemplate": false,
@@ -191,7 +238,7 @@
       "id": "962b4776-6e52-4f03-971c-9dfeeb331f48",
       "data": [
         {
-          "text": "you\u0027re awesome"
+          "text": "you're awesome"
         }
       ],
       "isTemplate": false,
@@ -213,7 +260,7 @@
       "id": "551c7344-74df-4ba6-aaa9-a290c475e340",
       "data": [
         {
-          "text": "you\u0027re perfect"
+          "text": "you're perfect"
         }
       ],
       "isTemplate": false,
@@ -223,7 +270,7 @@
       "id": "139f6390-1b6d-456c-b84d-645b6f355a19",
       "data": [
         {
-          "text": "you\u0027re great"
+          "text": "you're great"
         }
       ],
       "isTemplate": false,
@@ -233,7 +280,7 @@
       "id": "3ae9c50b-8c4a-4c13-9007-ca7cd8783c2b",
       "data": [
         {
-          "text": "you\u0027re so kind"
+          "text": "you're so kind"
         }
       ],
       "isTemplate": false,
@@ -366,7 +413,7 @@
       "id": "09855f50-3926-4ad9-befe-3a77bd4397b0",
       "data": [
         {
-          "text": "you\u0027re just super"
+          "text": "you're just super"
         }
       ],
       "isTemplate": false,
@@ -777,7 +824,7 @@
       "id": "f2f5e235-5d3a-4e30-ada6-a469f2f3cab5",
       "data": [
         {
-          "text": "I\u0027d like to tell everyone that you "
+          "text": "I'd like to tell everyone that you "
         },
         {
           "text": "are",
@@ -813,7 +860,7 @@
       "id": "9719ed2a-710b-4070-8340-5a70a604eba2",
       "data": [
         {
-          "text": "let\u0027s tell everyone that you "
+          "text": "let's tell everyone that you "
         },
         {
           "text": "are",
@@ -852,8 +899,9 @@
         {
           "type": 0,
           "speech": [
-            "I\u0027m glad you think so.",
-            "Thanks, I try."
+            "I'm glad you think so.",
+            "Thanks, I try.",
+            "You are so sweet ♡"
           ]
         }
       ]
