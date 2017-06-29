@@ -1,0 +1,83 @@
+{
+  "templates": [
+    "bad language",
+    "your language is bad",
+    "please watch your language",
+    "watch your language"
+  ],
+  "userSays": [
+    {
+      "id": "bc71a7d7-5e2e-47d7-9ff6-a02b58bffde8",
+      "data": [
+        {
+          "text": "bad language"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7648a990-29a9-4dca-b70c-2d1efa813301",
+      "data": [
+        {
+          "text": "your language is bad"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ecfd1876-4980-451f-9530-f9db922f0ffb",
+      "data": [
+        {
+          "text": "please watch your language"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9887b119-8433-4fc0-8a98-69f5dcb42870",
+      "data": [
+        {
+          "text": "watch your language"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "075304c0-0e9f-40f8-a4c4-af399bcd0ceb",
+  "name": "smalltalk.language.ava",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.badlanguage",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "Sorry i'm not programmed to curse.",
+            "My language is incroyable.",
+            "I rarely curse and when I do it is cause people make me.",
+            "I'm sorry",
+            "I apologize for my rude rantings."
+          ]
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}
