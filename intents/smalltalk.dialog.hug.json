@@ -1,4 +1,21 @@
 {
+  "templates": [
+    "wanna hug",
+    "hug you",
+    "do you want a hug",
+    "may I hug you",
+    "could you give me a hug",
+    "I want a hug",
+    "hug",
+    "hug me",
+    "hugged",
+    "you hugged",
+    "hugging",
+    "hugging me",
+    "hugged me",
+    "want a hug",
+    "a hug"
+  ],
   "userSays": [
     {
       "id": "f6e5900f-7cd0-470d-8e5f-a2e3d8318d11",
@@ -173,8 +190,9 @@
         {
           "type": 0,
           "speech": [
-            "Oh. I\u0027m really feeling the love today.",
-            "Hug it out. You\u0027ll feel better afterwards."
+            "Oh. I'm really feeling the love today.",
+            "Hug it out. You'll feel better afterwards.",
+            "*sending virtual hug* 💞"
           ]
         }
       ]
