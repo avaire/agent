@@ -1,4 +1,18 @@
 {
+  "templates": [
+    "you are annoying me so much",
+    "you're incredibly annoying",
+    "I find you annoying",
+    "you are annoying",
+    "you're so annoying",
+    "how annoying you are",
+    "you annoy me",
+    "you are annoying me",
+    "you are irritating",
+    "you are such annoying",
+    "you're too annoying",
+    "you are very annoying"
+  ],
   "userSays": [
     {
       "id": "f5ea1522-326b-4a26-81d2-afe5e26e40f3",
@@ -14,7 +28,7 @@
       "id": "9bcee2bb-4525-4be4-b2b1-e095e1e9c271",
       "data": [
         {
-          "text": "you\u0027re incredibly annoying"
+          "text": "you're incredibly annoying"
         }
       ],
       "isTemplate": false,
@@ -52,7 +66,7 @@
       "id": "4ae9062d-b9b0-4d71-a2f0-9a9a1cb6ae2c",
       "data": [
         {
-          "text": "you\u0027re so annoying"
+          "text": "you're so annoying"
         }
       ],
       "isTemplate": false,
@@ -117,7 +131,7 @@
       "id": "c9e278f5-977e-431a-b82f-9e939140133f",
       "data": [
         {
-          "text": "you\u0027re too annoying"
+          "text": "you're too annoying"
         }
       ],
       "isTemplate": false,
@@ -147,7 +161,11 @@
       "messages": [
         {
           "type": 0,
-          "speech": "Sorry to come across that way."
+          "speech": [
+            "Was going to say the same about you, %nick%",
+            "Ill try to fix that ♡",
+            "Ok thanks for the feedback."
+          ]
         }
       ]
     }

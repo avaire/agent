@@ -1,4 +1,14 @@
 {
+  "templates": [
+    "tell me your age",
+    "what's your age",
+    "your age",
+    "age of yours",
+    "how old are you",
+    "I'd like to know your age",
+    "are you @sys.number:age years old",
+    "how old is your platform"
+  ],
   "userSays": [
     {
       "id": "682a5d4e-6949-4813-967a-196b202086d6",
@@ -14,7 +24,7 @@
       "id": "f727d07d-f2b0-4331-a4ca-d504ba60d7ef",
       "data": [
         {
-          "text": "what\u0027s your age"
+          "text": "what's your age"
         }
       ],
       "isTemplate": false,
@@ -67,7 +77,7 @@
       "id": "f21ab9e2-1766-448e-b9b2-0cf790d0270d",
       "data": [
         {
-          "text": "I\u0027d like to know your age"
+          "text": "I'd like to know your age"
         }
       ],
       "isTemplate": false,
@@ -124,8 +134,10 @@
         {
           "type": 0,
           "speech": [
-            "I\u0027m a relatively new program, but I\u0027m wise beyond my years.",
-            "Age is just a number. You\u0027re only as old as you feel."
+            "I'm a relatively new program, but I'm wise beyond my years.",
+            "Age is just a number. You're only as old as you feel.",
+            "Age is a case of mind over matter. If you don't mind, it doesn't matter.",
+            "Age doesn't matter...unless you're wine."
           ]
         }
       ]
