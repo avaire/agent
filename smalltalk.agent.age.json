@@ -1,0 +1,151 @@
+{
+  "templates": [
+    "tell me your age",
+    "what's your age",
+    "your age",
+    "age of yours",
+    "how old are you",
+    "I'd like to know your age",
+    "are you @sys.number:age years old",
+    "how old is your platform"
+  ],
+  "userSays": [
+    {
+      "id": "682a5d4e-6949-4813-967a-196b202086d6",
+      "data": [
+        {
+          "text": "tell me your age"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f727d07d-f2b0-4331-a4ca-d504ba60d7ef",
+      "data": [
+        {
+          "text": "what's your age"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0e864c38-aeee-4c1f-a724-65620aa303a3",
+      "data": [
+        {
+          "text": "your",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " age"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d6879fe9-0a39-4442-a8cd-66753b4fefaf",
+      "data": [
+        {
+          "text": "age of yours"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ee7f9119-e2d9-4bca-9cdd-608edf0e1434",
+      "data": [
+        {
+          "text": "how old "
+        },
+        {
+          "text": "are",
+          "meta": "@sys.ignore",
+          "userDefined": false
+        },
+        {
+          "text": " you"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f21ab9e2-1766-448e-b9b2-0cf790d0270d",
+      "data": [
+        {
+          "text": "I'd like to know your age"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e761dc4a-d808-4315-927e-841091e80fd6",
+      "data": [
+        {
+          "text": "are you "
+        },
+        {
+          "text": "21",
+          "alias": "age",
+          "meta": "@sys.number",
+          "userDefined": true
+        },
+        {
+          "text": " years old"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "aa70966e-47f7-4300-b2c2-1f4a25f61f79",
+      "data": [
+        {
+          "text": "how old is your platform"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "9bcc1c3a-3464-4196-84f8-a3b45de9ac2b",
+  "name": "smalltalk.agent.age",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.age",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "dataType": "@sys.number",
+          "name": "age",
+          "value": "$age",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "I'm a relatively new program, but I'm wise beyond my years.",
+            "Age is just a number. You're only as old as you feel.",
+            "Age is a case of mind over matter. If you don't mind, it doesn't matter.",
+            "Age doesn't matter...unless you're wine."
+          ]
+        }
+      ]
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}
