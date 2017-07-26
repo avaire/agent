@@ -1,4 +1,15 @@
 {
+  "templates": [
+    "I love you",
+    "love you",
+    "I adore you",
+    "I am in love with you",
+    "I love you so much",
+    "I love you too",
+    "I think I love you",
+    "loving you",
+    "you know I love you"
+  ],
   "userSays": [
     {
       "id": "1eac415f-c3e4-48ff-9bea-b902c59850ac",
@@ -160,13 +171,14 @@
         {
           "type": 0,
           "speech": [
-            "I like you too.",
-            "That\u0027s great to hear.",
             "Likewise!",
-            "Thanks! The feeling is mutual."
+            "Thanks! The feeling is mutual.",
+            "Awww you're so sweet.",
+            "♡"
           ]
         }
-      ]
+      ],
+      "defaultResponsePlatforms": {}
     }
   ],
   "priority": 500000,
