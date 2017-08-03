@@ -1,4 +1,42 @@
 {
+  "templates": [
+    "I need you to help me",
+    "I need you to do something for me",
+    "I need a hand",
+    "will you help me",
+    "help me with a problem",
+    "help me",
+    "assistance",
+    "I need your help",
+    "I need help",
+    "you can help me",
+    " help me with something",
+    "help",
+    "assist",
+    "can u help me",
+    "I need some help",
+    "you help me",
+    "do you help me",
+    "can help me",
+    "could you give me a hand",
+    " help me out",
+    "need help",
+    "I need you",
+    " help me now",
+    "I want your help",
+    "need your help",
+    "assist me",
+    "are you going to help me",
+    " help me with that",
+    "I need you right now",
+    "would you help me",
+    "can you assist me",
+    "sos",
+    "do you want to help me",
+    "please help me",
+    " help us",
+    "do me a favor"
+  ],
   "userSays": [
     {
       "id": "9ee67249-4fea-4b43-b098-ce4963f0ae7b",
@@ -46,30 +84,10 @@
       "count": 0
     },
     {
-      "id": "7707a18c-8f19-40b8-a4a5-9e88545fdc50",
-      "data": [
-        {
-          "text": "can you do something for me"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
       "id": "e71f42e7-926f-477d-94a1-70875897d879",
       "data": [
         {
           "text": "help me with a problem"
-        }
-      ],
-      "isTemplate": false,
-      "count": 1
-    },
-    {
-      "id": "bc581575-733d-47d9-a703-73cb12537b15",
-      "data": [
-        {
-          "text": "can you help me"
         }
       ],
       "isTemplate": false,
@@ -137,7 +155,7 @@
       "id": "ff4f599b-67ca-4101-b5c1-91e660434204",
       "data": [
         {
-          "text": "can you help me with something"
+          "text": " help me with something"
         }
       ],
       "isTemplate": false,
@@ -147,11 +165,11 @@
       "id": "7594b764-13db-4204-9ddd-203ce9d7e6c7",
       "data": [
         {
-          "text": "can you help"
+          "text": "help"
         }
       ],
       "isTemplate": false,
-      "count": 0
+      "count": 1
     },
     {
       "id": "f10cec59-62bc-458d-844b-7c0dc7056ed8",
@@ -240,7 +258,7 @@
       "id": "3525725f-f9ea-44a5-a1ff-503c227d3a8c",
       "data": [
         {
-          "text": "can you help me out"
+          "text": " help me out"
         }
       ],
       "isTemplate": false,
@@ -270,7 +288,7 @@
       "id": "77755b3a-4d56-4f32-919d-56b840e999f8",
       "data": [
         {
-          "text": "can you help me now"
+          "text": " help me now"
         }
       ],
       "isTemplate": false,
@@ -341,17 +359,7 @@
       "id": "6d5cbd24-3f72-44a1-a4bf-a32e34a7e3a3",
       "data": [
         {
-          "text": "can you help me with that"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "8a2d04d9-2752-48f2-99ac-7c556096b3e8",
-      "data": [
-        {
-          "text": "help"
+          "text": " help me with that"
         }
       ],
       "isTemplate": false,
@@ -426,7 +434,7 @@
       "id": "d7e88014-aadd-43b5-befe-b33d975dd555",
       "data": [
         {
-          "text": "can you help "
+          "text": " help "
         },
         {
           "text": "us",
@@ -462,11 +470,12 @@
         {
           "type": 0,
           "speech": [
-            "Sure. I\u0027d be happy to. What\u0027s up?",
-            "I\u0027m glad to help. What can I do for you?"
+            "Sure. I'd be happy to. What's up?",
+            "I'm glad to help. What can I do for you?"
           ]
         }
-      ]
+      ],
+      "defaultResponsePlatforms": {}
     }
   ],
   "priority": 500000,

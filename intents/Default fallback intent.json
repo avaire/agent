@@ -15,15 +15,16 @@
         {
           "type": 0,
           "speech": [
-            "I'm sorry I don't understand. Please use `.help` to see a list of my commands.",
             "I apologize, but I don't understand your request.",
             "I'm sorry my AI does not recognize that request.",
             "My AI does not cover that topic yet. If you wish you can request it be added on the official discord server.",
             "I don't understand.",
-            "Please try your request again."
+            "Please try your request again.",
+            "I dont understand use `.help` to see a list of my commands."
           ]
         }
-      ]
+      ],
+      "defaultResponsePlatforms": {}
     }
   ],
   "priority": 500000,
