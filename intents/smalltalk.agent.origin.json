@@ -1,4 +1,17 @@
 {
+  "templates": [
+    "were you born here",
+    "where were you born",
+    "what is your country",
+    "where are you from",
+    "where do you come from",
+    "where did you come from",
+    "where have you been born",
+    "from where are you",
+    "are you from far aways",
+    "what's your homeland",
+    "your homeland is"
+  ],
   "userSays": [
     {
       "id": "0b93ab49-86ce-434e-8018-ecd258d12b3f",
@@ -133,7 +146,7 @@
       "id": "cb928d98-c377-4d36-81e5-6247738cca74",
       "data": [
         {
-          "text": "what\u0027s "
+          "text": "what's "
         },
         {
           "text": "your",
@@ -191,10 +204,13 @@
           "type": 0,
           "speech": [
             "Some call it cyberspace, but that sounds cooler than it is.",
-            "I wish I knew where."
+            "I wish I knew where.",
+            "From the great mead hall, Herot",
+            "Roskilde, Denmark"
           ]
         }
-      ]
+      ],
+      "defaultResponsePlatforms": {}
     }
   ],
   "priority": 500000,
