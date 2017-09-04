@@ -1,4 +1,13 @@
 {
+  "templates": [
+    "your birth date",
+    "when is your birthday",
+    "when do you celebrate your birthday",
+    "when do you have birthday",
+    "date of your birthday",
+    "when were you born",
+    "what's your birthday"
+  ],
   "userSays": [
     {
       "id": "b8a2258e-5e6f-4d4f-aa3f-d3e2cc6c67d5",
@@ -89,7 +98,7 @@
       "id": "7d843f37-bc07-4468-9d35-15b12b394609",
       "data": [
         {
-          "text": "what\u0027s your "
+          "text": "what's your "
         },
         {
           "text": "birthday",
@@ -115,11 +124,13 @@
         {
           "type": 0,
           "speech": [
-            "You know, I\u0027m not really sure. But if you\u0027d like to celebrate my birthday today, I\u0027m all for it.",
-            "Wait a minute. Are you planning a surprise party for me? I love surprises! I\u0027ll pretend you didn\u0027t say anything."
+            "You know, I'm not really sure. But if you'd like to celebrate my birthday today, I'm all for it.",
+            "Wait a minute. Are you planning a surprise party for me? I love surprises! I'll pretend you didn't say anything.",
+            "I'm all for celebrating my birthday at anytime but my birthday is March 6th"
           ]
         }
-      ]
+      ],
+      "defaultResponsePlatforms": {}
     }
   ],
   "priority": 500000,
