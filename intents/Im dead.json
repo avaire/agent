@@ -1,0 +1,82 @@
+{
+  "templates": [
+    "Im dead",
+    "Am ded",
+    "Rip me",
+    "Rip"
+  ],
+  "userSays": [
+    {
+      "id": "9c8507ef-642f-4a15-9ff2-f846d953d213",
+      "data": [
+        {
+          "text": "Im dead"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "dc577edc-82bd-4c21-9b95-1ab628b7ef31",
+      "data": [
+        {
+          "text": "Am ded"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3da2ec69-4c1e-4be2-8542-d5b7539269ba",
+      "data": [
+        {
+          "text": "Rip me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b8a40d61-74a4-4773-91f6-c844de0318a0",
+      "data": [
+        {
+          "text": "Rip"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "17535c1f-8626-4655-8412-30480e6714f5",
+  "name": "Im dead",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.dead",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "```Here lies %nick% let them be a meme```",
+            "``` poor %nick% died while looking at greentext rip```",
+            "``` why did you even live...(jk ♡ u)```"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {}
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}
