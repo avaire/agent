@@ -1,128 +1,4 @@
 {
-  "userSays": [
-    {
-      "id": "9f8eb600-1592-4770-91ff-f731cecf7654",
-      "data": [
-        {
-          "text": "that\u0027s my pleasure"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "37ef322f-0dc0-4e23-9082-b6b6d875bcd6",
-      "data": [
-        {
-          "text": "my pleasure"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "32a9b906-5de8-4270-baf6-2337ffc113ab",
-      "data": [
-        {
-          "text": "anytime"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "050aff02-9aca-4097-8a68-806bb42abb61",
-      "data": [
-        {
-          "text": "welcome",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "fa9a9147-542d-4248-a99f-788e847f2365",
-      "data": [
-        {
-          "text": "you\u0027re "
-        },
-        {
-          "text": "welcome",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "ad29eb86-484b-4a45-b34d-d635ee0202cc",
-      "data": [
-        {
-          "text": "sure",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        },
-        {
-          "text": " "
-        },
-        {
-          "text": "welcome",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "444f117c-2977-4fa8-a029-b7800b6b9bf1",
-      "data": [
-        {
-          "text": "welcome",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        },
-        {
-          "text": " "
-        },
-        {
-          "text": "here",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "55c21adb-01c8-44b0-b720-51f0f5b7e4fe",
-      "data": [
-        {
-          "text": "you\u0027re so "
-        },
-        {
-          "text": "welcome",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "7a448ebc-af11-4c85-b953-3e95f9fb2475",
-      "data": [
-        {
-          "text": "anything you want"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    }
-  ],
   "id": "19b87423-bd38-4ef5-a93a-351c001596b3",
   "name": "smalltalk.appraisal.welcome",
   "auto": true,
@@ -136,12 +12,15 @@
       "messages": [
         {
           "type": 0,
+          "lang": "en",
           "speech": [
             "I appreciate it.",
             "Such nice manners you have."
           ]
         }
-      ]
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
     }
   ],
   "priority": 500000,

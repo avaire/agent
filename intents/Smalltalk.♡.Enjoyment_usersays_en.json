@@ -1,0 +1,62 @@
+[
+  {
+    "id": "e2ab131e-a67f-451f-b0e0-b57285ee85de",
+    "data": [
+      {
+        "text": "I enjoy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5e431481-d2f1-4ff0-b816-fe04f80922e1",
+    "data": [
+      {
+        "text": "I enjoy your company.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "32d71345-0574-485c-bd31-7ac246163904",
+    "data": [
+      {
+        "text": "I enjoy your presence.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "22bd501e-33ba-47c3-b2e5-a97742fe3bab",
+    "data": [
+      {
+        "text": "I enjoy you.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e640c9ac-22c6-4b03-9377-0ddc479167dd",
+    "data": [
+      {
+        "text": "I enjoy being with you.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

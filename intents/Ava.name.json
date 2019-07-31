@@ -1,74 +1,4 @@
 {
-  "templates": [
-    "Who are you?",
-    "What tis yo name?",
-    "Name?",
-    "What do people call you?",
-    "What is your name?",
-    "your name?"
-  ],
-  "userSays": [
-    {
-      "id": "92f9c0a5-5ce2-4608-876b-8a9e7f5ee5c7",
-      "data": [
-        {
-          "text": "Who are you?"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "f3fff8a1-1f46-44bc-9568-47875223a867",
-      "data": [
-        {
-          "text": "What tis yo name?"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "a446fd1c-a0b0-4efa-b506-8ed7fc780b27",
-      "data": [
-        {
-          "text": "Name?"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "6a5b9f8f-4299-41cb-a789-3174d92e4469",
-      "data": [
-        {
-          "text": "What do people call you?"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "c73fcd9c-46a9-407b-9353-943d381eb0e0",
-      "data": [
-        {
-          "text": "What is your name?"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "95b2e162-fd28-411e-8c99-1d7e33a43428",
-      "data": [
-        {
-          "text": "your name?"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    }
-  ],
   "id": "ce5878fb-d9fb-4292-b2ca-9a603258f4d8",
   "name": "Ava.name",
   "auto": true,
@@ -82,23 +12,26 @@
       "messages": [
         {
           "type": 0,
+          "lang": "en",
           "speech": [
             "I am Ava Ire",
-            "Name's Ire... Ava Ire",
+            "Name\u0027s Ire... Ava Ire",
             "Ava",
             "From what I know my name is Ava Ire.",
             "Oh sorry, I thought you knew. My name is Ava.",
-            "I go by Avaire, but you can call me Ava."
+            "I go by Avaire, but you can call me Ava.",
+            "People use to call me their god, now i\u0027m simply known as AvaIre.",
+            "I forgot...",
+            "Well I really wanted to be called Lara, but my master decided on AvaIre.",
+            "Ii introduced myself when i came into this server. Your bad with names aren\u0027t you?"
           ]
         }
-      ]
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
     }
   ],
   "priority": 500000,
-  "cortanaCommand": {
-    "navigateOrService": "NAVIGATE",
-    "target": ""
-  },
   "webhookUsed": false,
   "webhookForSlotFilling": false,
   "fallbackIntent": false,

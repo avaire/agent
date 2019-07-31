@@ -1,46 +1,4 @@
 {
-  "userSays": [
-    {
-      "id": "49431450-98c9-47b8-afd4-9561215ff140",
-      "data": [
-        {
-          "text": "Cat?"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "749e6391-f419-4b1a-a331-85046b0b9bb6",
-      "data": [
-        {
-          "text": "Can I have a random cat?"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "dfa27d96-1438-4f55-ac05-2600d8af3147",
-      "data": [
-        {
-          "text": "Can I have a cat?"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "b3f873b9-dded-4153-9d2d-203b383f02d1",
-      "data": [
-        {
-          "text": "Random cat"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    }
-  ],
   "id": "91302ec6-7576-4612-889f-c7e447df1aef",
   "name": "Random cat",
   "auto": true,
@@ -54,9 +12,21 @@
       "messages": [
         {
           "type": 0,
-          "speech": []
+          "lang": "en",
+          "speech": [
+            "Miauw?",
+            "Meow?",
+            "OwO! *snuggles*",
+            "Woof",
+            "Oh look a cat!",
+            "*purrs*",
+            "I\u0027m not a cat, please. I\u0027m a fox.",
+            "Now try that again but just say cat when you mention me."
+          ]
         }
-      ]
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
     }
   ],
   "priority": 500000,

@@ -1,69 +1,4 @@
 {
-  "userSays": [
-    {
-      "id": "aae4ea61-928c-4139-8272-c73ac9f26b4c",
-      "data": [
-        {
-          "text": "I am sleepy"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "33cf0396-9b59-410b-b00b-23ce8c169ce0",
-      "data": [
-        {
-          "text": "I want to "
-        },
-        {
-          "text": "sleep",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "de26ea67-aa5d-491e-affd-f41527c1ab3c",
-      "data": [
-        {
-          "text": "I\u0027m falling asleep"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "33728d28-2151-4f99-b854-c9e7c7519670",
-      "data": [
-        {
-          "text": "I\u0027m "
-        },
-        {
-          "text": "falling",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        },
-        {
-          "text": " asleep on my feet"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "5c66ed59-0cf8-49f1-a087-8a860a00437d",
-      "data": [
-        {
-          "text": "I\u0027m sleeping"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    }
-  ],
   "id": "bb665d68-34d3-4d70-ac94-d58920f03ac8",
   "name": "smalltalk.user.sleepy",
   "auto": true,
@@ -77,6 +12,7 @@
       "messages": [
         {
           "type": 0,
+          "lang": "en",
           "speech": [
             "You should get some shuteye. You\u0027ll feel refreshed.",
             "Sleep is important to your health. Rest up for a bit and we can chat later.",
@@ -84,7 +20,9 @@
             "Why not catch a little shuteye? I\u0027ll be here to chat when you wake up."
           ]
         }
-      ]
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
     }
   ],
   "priority": 500000,

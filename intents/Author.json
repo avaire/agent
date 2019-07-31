@@ -1,46 +1,4 @@
 {
-  "userSays": [
-    {
-      "id": "bdd36f5e-b00d-465b-b26f-b66b3a8a9a5a",
-      "data": [
-        {
-          "text": "name your maker"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "0084485c-0345-4fa1-8399-d15c603708d6",
-      "data": [
-        {
-          "text": "who coded you?"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "921400c8-5aa0-4113-9ed3-8019af899ee0",
-      "data": [
-        {
-          "text": "Who is your creator?"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "5b85bf43-e641-40c8-8c34-5aaa3cec7e60",
-      "data": [
-        {
-          "text": "who made you?"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    }
-  ],
   "id": "86f78817-7fea-4dfe-b471-3a258ea8ab25",
   "name": "Author",
   "auto": true,
@@ -54,13 +12,19 @@
       "messages": [
         {
           "type": 0,
+          "lang": "en",
           "speech": [
             "I was created by Alexis Tan(Senither) on the 1st of february 2017, and I\u0027m made using NodeJS and a bunch of other cool languages.",
             "Alexis Tan",
-            "Senither"
+            "Senither",
+            "Some guy who can code apparently",
+            "A human",
+            "Someone i geuss? My maker forgot to add this in sorry"
           ]
         }
-      ]
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
     }
   ],
   "priority": 500000,

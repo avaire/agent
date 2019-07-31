@@ -1,19 +1,4 @@
 {
-  "templates": [
-    "gg"
-  ],
-  "userSays": [
-    {
-      "id": "8fdcd10c-8689-4c4d-944f-46ebb8f58490",
-      "data": [
-        {
-          "text": "gg"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    }
-  ],
   "id": "75ecba14-fba9-45e1-9184-0656b8d0c3df",
   "name": "Interjection",
   "auto": true,
@@ -27,22 +12,24 @@
       "messages": [
         {
           "type": 0,
+          "lang": "en",
           "speech": [
             "YAY!",
             "WOW!",
             "♡",
             "CONGRATS!",
-            "GG!"
+            "GG!",
+            "Cool!",
+            "Amazing!",
+            "Your the god himself, aslong as you believe in yourself nothing can stand in your way to reach your goals!"
           ]
         }
-      ]
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
     }
   ],
   "priority": 500000,
-  "cortanaCommand": {
-    "navigateOrService": "NAVIGATE",
-    "target": ""
-  },
   "webhookUsed": false,
   "webhookForSlotFilling": false,
   "fallbackIntent": false,

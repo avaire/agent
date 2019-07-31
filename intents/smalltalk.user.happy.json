@@ -1,112 +1,4 @@
 {
-  "userSays": [
-    {
-      "id": "e54abad3-3c59-42f1-a99f-a6f24a69b67c",
-      "data": [
-        {
-          "text": "I am "
-        },
-        {
-          "text": "happy",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "6a56f0c1-4a3e-4b22-b908-e42df1ac2821",
-      "data": [
-        {
-          "text": "I\u0027m happy to see you"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "f4e3ea86-2bc9-48f5-8cff-dc092b4aea88",
-      "data": [
-        {
-          "text": "happy",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "211327fa-9fec-4dde-ae80-24064ac70391",
-      "data": [
-        {
-          "text": "if you\u0027re "
-        },
-        {
-          "text": "happy",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        },
-        {
-          "text": " then I\u0027m "
-        },
-        {
-          "text": "happy",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "0d927a82-f6a6-4f19-881f-32b8c9c3527b",
-      "data": [
-        {
-          "text": "I\u0027m "
-        },
-        {
-          "text": "happy",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        },
-        {
-          "text": " for you"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "7cfe0e52-509c-4181-9401-c3edb36a79c0",
-      "data": [
-        {
-          "text": "I\u0027m happy to help"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "b3df2ffb-ff50-42b2-b4d3-10f81021ae52",
-      "data": [
-        {
-          "text": "I\u0027m "
-        },
-        {
-          "text": "happy",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        },
-        {
-          "text": " to see you"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    }
-  ],
   "id": "ba2d33f9-722d-4a30-9653-45db06039d04",
   "name": "smalltalk.user.happy",
   "auto": true,
@@ -120,6 +12,7 @@
       "messages": [
         {
           "type": 0,
+          "lang": "en",
           "speech": [
             "Great! Glad to hear that.",
             "Excellent! That\u0027s what I like to see.",
@@ -127,7 +20,9 @@
             "Well, your good mood is certainly contagious."
           ]
         }
-      ]
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
     }
   ],
   "priority": 500000,

@@ -1,66 +1,4 @@
 {
-  "userSays": [
-    {
-      "id": "0e271556-17b4-40b0-a961-d670a8652e5a",
-      "data": [
-        {
-          "text": "what do I look like"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "f9d90445-18ae-40ff-bbf5-d8fcc3949474",
-      "data": [
-        {
-          "text": "how do I look"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "3461de2d-48b5-4d73-b2ef-1263a6429eea",
-      "data": [
-        {
-          "text": "do I look good"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "30c6eb3d-bbfb-49c1-9c5c-91dcdb9f0290",
-      "data": [
-        {
-          "text": "do you know what I look like"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "a442c109-890a-4242-8662-462c5a89a1ef",
-      "data": [
-        {
-          "text": "can you see what I look like"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "ea247310-723b-4ba7-827a-e805eebcf57d",
-      "data": [
-        {
-          "text": "what do you think I look like"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    }
-  ],
   "id": "5f1c41fc-0644-4c1c-b7bc-b426dabb249f",
   "name": "smalltalk.user.looks_like",
   "auto": true,
@@ -74,6 +12,7 @@
       "messages": [
         {
           "type": 0,
+          "lang": "en",
           "speech": [
             "Looking like a true professional, boss.",
             "You look like you\u0027re ready to take on the world.",
@@ -81,7 +20,9 @@
             "You look fantastic as always. Obviously."
           ]
         }
-      ]
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
     }
   ],
   "priority": 500000,

@@ -1,88 +1,4 @@
 {
-  "userSays": [
-    {
-      "id": "2439618a-6b61-4395-8699-bbecdc8c1785",
-      "data": [
-        {
-          "text": "test",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "1c3cc3c2-8219-47d1-a4ce-1176453d6618",
-      "data": [
-        {
-          "text": "I am testing you"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "943ca37c-792a-4cde-a26c-099d5e47a92c",
-      "data": [
-        {
-          "text": "can I test you"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "ada5d95c-1b17-40e5-a335-27b92f48a17b",
-      "data": [
-        {
-          "text": "I want to test you"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "92682b15-6eff-4350-afe8-7c55162c4923",
-      "data": [
-        {
-          "text": "just testing you"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "cd0cabbe-eb96-4c01-be7c-cab947dba0d1",
-      "data": [
-        {
-          "text": "let me test you"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "d66084f8-bb18-4174-b36c-4bc7c589990a",
-      "data": [
-        {
-          "text": "testing chatbot"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "70a7ee1e-d339-4a71-8223-b02ff7462583",
-      "data": [
-        {
-          "text": "testing"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    }
-  ],
   "id": "94e9d0a4-cad1-42e7-82cd-c548ed83270c",
   "name": "smalltalk.user.testing_agent",
   "auto": true,
@@ -96,6 +12,7 @@
       "messages": [
         {
           "type": 0,
+          "lang": "en",
           "speech": [
             "Hope I\u0027m doing well. Anyway, I\u0027m getting better every day. You\u0027re welcome to test me as often as you want.",
             "That\u0027s good. I like being tested. It helps keep me sharp, and lets my developers know how I can improve.",
@@ -103,7 +20,9 @@
             "I hope to pass your tests. But feel free to test me often. That\u0027s the best way to help improve my performance."
           ]
         }
-      ]
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
     }
   ],
   "priority": 500000,

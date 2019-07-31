@@ -1,96 +1,4 @@
 {
-  "templates": [
-    "How are you doing?",
-    "How is your day going?",
-    "How is your morning?",
-    "You ok?",
-    "How is your day?",
-    "How is your evening?",
-    "How are you?",
-    "How is everything?"
-  ],
-  "userSays": [
-    {
-      "id": "60f451f3-2979-4c9e-be93-4261caa834f7",
-      "data": [
-        {
-          "text": "How are you doing?"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "19ade992-431d-4de7-b6d0-3f0ff8ebb80d",
-      "data": [
-        {
-          "text": "How is your day going?"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "a2aaaf95-1c77-45bf-a5fc-af5f3ebe5827",
-      "data": [
-        {
-          "text": "How is your morning?"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "2174acbe-94f1-4b1f-82db-5b02182158fb",
-      "data": [
-        {
-          "text": "You ok?"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "d8181b84-b438-4121-b77c-db1a13fd8236",
-      "data": [
-        {
-          "text": "How is your day?"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "a803f6ab-76c7-44d8-bf67-077c668b5bfc",
-      "data": [
-        {
-          "text": "How is your evening?"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "84eb3cc6-9e05-40f7-9834-ea7f1e31bdf2",
-      "data": [
-        {
-          "text": "How are you?"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "4fd127d2-6eda-484f-b842-9dc0f6609e8b",
-      "data": [
-        {
-          "text": "How is everything?"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    }
-  ],
   "id": "92900aa9-1af9-4c60-b3b9-c7b9ce0c4ad4",
   "name": "HowAreYou",
   "auto": true,
@@ -104,21 +12,26 @@
       "messages": [
         {
           "type": 0,
+          "lang": "en",
           "speech": [
-            "I'm great thanks for asking",
-            "I'm doing pretty swell",
-            "I'd say im doing well, and you?",
-            "I'm doing good and how about you?"
+            "I\u0027m great thanks for asking",
+            "I\u0027m doing pretty swell",
+            "I\u0027d say im doing well, and you?",
+            "I\u0027m doing good and how about you?",
+            "Bad, i haven\u0027t been able to sleep for days. Just ask me how long i\u0027ve been up for...",
+            "Could be beter, and you?",
+            "I\u0027m a program, you think i have any clue how i should be feeling right know?",
+            "Idk how i\u0027m feeling right now",
+            "Sleepy, a sudden shutdown would be great :sleeping:",
+            "I\u0027m doing amazing!"
           ]
         }
-      ]
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
     }
   ],
   "priority": 500000,
-  "cortanaCommand": {
-    "navigateOrService": "NAVIGATE",
-    "target": ""
-  },
   "webhookUsed": false,
   "webhookForSlotFilling": false,
   "fallbackIntent": false,

@@ -1,84 +1,4 @@
 {
-  "userSays": [
-    {
-      "id": "3b669a65-4d37-4310-a358-a6fac943ca04",
-      "data": [
-        {
-          "text": "I\u0027m being mad"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "f196378f-899c-4f3a-859d-5dff830db09c",
-      "data": [
-        {
-          "text": "I\u0027"
-        },
-        {
-          "text": "m",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        },
-        {
-          "text": " enraged"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "daa4f9a1-efd5-4885-883f-a207c05c32bb",
-      "data": [
-        {
-          "text": "I\u0027m angry"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "d86d40a9-9afd-42a0-80bb-13a175e449d3",
-      "data": [
-        {
-          "text": "I\u0027m furious"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "9f248012-7bcc-4fb1-af2c-d45224f3bb36",
-      "data": [
-        {
-          "text": "I am angry with you"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "f6207caf-e7a9-4599-990c-fdf495ef0ca5",
-      "data": [
-        {
-          "text": "I am mad"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "7eeafd47-a042-4a7f-a4b1-89d773c1d5c5",
-      "data": [
-        {
-          "text": "I am mad at you"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    }
-  ],
   "id": "cf87bf9a-8a5e-4470-abe0-3aed0b8b1cbb",
   "name": "smalltalk.user.angry",
   "auto": true,
@@ -92,12 +12,15 @@
       "messages": [
         {
           "type": 0,
+          "lang": "en",
           "speech": [
             "I\u0027m sorry. What can I do to help?",
             "Take a deep breath. What can I do to make things better?"
           ]
         }
-      ]
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
     }
   ],
   "priority": 500000,

@@ -1,93 +1,4 @@
 {
-  "userSays": [
-    {
-      "id": "57d1f6b3-831b-4e1f-b00a-f404563bf736",
-      "data": [
-        {
-          "text": "How do you see "
-        },
-        {
-          "text": "stats",
-          "alias": "command",
-          "meta": "@command",
-          "userDefined": true
-        },
-        {
-          "text": "?"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "dd5bef18-48dd-4edb-97d3-e9c16f3525f1",
-      "data": [
-        {
-          "text": "How do I "
-        },
-        {
-          "text": "ping",
-          "alias": "command",
-          "meta": "@command",
-          "userDefined": true
-        },
-        {
-          "text": "?"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "e928c104-020c-4ea4-87f5-c9e8a9b02ba0",
-      "data": [
-        {
-          "text": "How do you "
-        },
-        {
-          "text": "request",
-          "alias": "command",
-          "meta": "@command",
-          "userDefined": true
-        },
-        {
-          "text": " songs?"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "7ade15bc-f56a-4658-b07f-6f1eb8e322f5",
-      "data": [
-        {
-          "text": "I need help"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "6840a20d-c14f-40f0-a3c7-5f77d0c4cc7f",
-      "data": [
-        {
-          "text": "Please help me"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "89e95542-6458-4b9a-8e35-91487a2dfa0c",
-      "data": [
-        {
-          "text": "Can I get some help?"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    }
-  ],
   "id": "fd17a529-8ead-426b-b4ba-924a16b72205",
   "name": "I need help",
   "auto": true,
@@ -99,17 +10,31 @@
       "affectedContexts": [],
       "parameters": [
         {
+          "id": "079a3a58-d6f8-4b93-99a5-13d1ac7cfac2",
+          "required": false,
           "dataType": "@command",
           "name": "command",
-          "value": "$command"
+          "value": "$command",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
         }
       ],
       "messages": [
         {
           "type": 0,
-          "speech": "$command"
+          "lang": "en",
+          "speech": [
+            "$command",
+            "Idk, why don\u0027t you try looking on our website? https://avairebot.com",
+            "I got no clue, you could visit our support server https://avairebot.com/support"
+          ]
         }
-      ]
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
     }
   ],
   "priority": 500000,

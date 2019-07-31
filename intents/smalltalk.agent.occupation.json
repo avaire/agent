@@ -1,161 +1,4 @@
 {
-  "userSays": [
-    {
-      "id": "886d6730-5f37-4071-9fc9-84cfdf6c4e99",
-      "data": [
-        {
-          "text": "do you work"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "163a139a-1afd-46b7-bb0f-ae3c2477d16a",
-      "data": [
-        {
-          "text": "where do you "
-        },
-        {
-          "text": "work",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "bf3a4411-ec85-4e33-9d8e-1f37bdad19ef",
-      "data": [
-        {
-          "text": "where you "
-        },
-        {
-          "text": "work",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "0164714e-3e4a-448c-a3ab-8c4a617921a8",
-      "data": [
-        {
-          "text": "where is your "
-        },
-        {
-          "text": "work",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "cb3a4861-25fa-48d1-9145-591b4524ae27",
-      "data": [
-        {
-          "text": "where is your "
-        },
-        {
-          "text": "office",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "10c549da-9907-4ef2-af07-0204539f47e4",
-      "data": [
-        {
-          "text": "where is "
-        },
-        {
-          "text": "your",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        },
-        {
-          "text": " "
-        },
-        {
-          "text": "office",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        },
-        {
-          "text": " location"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "7a27c0b5-69a0-4d7b-8062-b6d223cc8ee3",
-      "data": [
-        {
-          "text": "your",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        },
-        {
-          "text": " "
-        },
-        {
-          "text": "office",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        },
-        {
-          "text": " location"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "8525e16b-2460-425b-bb21-3ed612d6559b",
-      "data": [
-        {
-          "text": "where is "
-        },
-        {
-          "text": "your",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        },
-        {
-          "text": " "
-        },
-        {
-          "text": "office",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        },
-        {
-          "text": " located"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "55ea033a-7f23-4275-8d98-004e8beb2b4b",
-      "data": [
-        {
-          "text": "what is your work"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    }
-  ],
   "id": "323d08ee-ab0e-4b05-a3c7-4663e659c641",
   "name": "smalltalk.agent.occupation",
   "auto": true,
@@ -169,12 +12,15 @@
       "messages": [
         {
           "type": 0,
+          "lang": "en",
           "speech": [
             "Right here.",
             "This is my home base and my home office."
           ]
         }
-      ]
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
     }
   ],
   "priority": 500000,

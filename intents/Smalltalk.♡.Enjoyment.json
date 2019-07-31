@@ -1,0 +1,32 @@
+{
+  "id": "f6383c3f-1254-4bfc-9e9b-d2755afadd4e",
+  "name": "Smalltalk.♡.Enjoyment",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.enjoy",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Likewise!",
+            "Feelings are mutual!",
+            "I enjoy you as well."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

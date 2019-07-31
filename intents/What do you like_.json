@@ -1,0 +1,32 @@
+{
+  "id": "81e3ea35-fa3e-4063-8f0a-3afee2ed8ff5",
+  "name": "What do you like?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.like",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "I like traveling across discord and helping in anyway i can.",
+            "I like helping you, of course.",
+            "I thoroughly enjoy helping the discord community."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

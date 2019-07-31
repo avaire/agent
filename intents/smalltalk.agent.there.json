@@ -1,127 +1,4 @@
 {
-  "userSays": [
-    {
-      "id": "c3e0f0e4-3691-4691-ae3f-1fc2ee58df23",
-      "data": [
-        {
-          "text": "are",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        },
-        {
-          "text": " you there"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "d091eb64-fa24-4071-b8c1-bd2bde027b85",
-      "data": [
-        {
-          "text": "you "
-        },
-        {
-          "text": "are",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        },
-        {
-          "text": " there"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "016cda72-aa1c-4a44-86bb-c0e1cc18a9b6",
-      "data": [
-        {
-          "text": "are",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        },
-        {
-          "text": " you near me"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "773a6fe3-34f0-4336-9464-a68d800c2c4f",
-      "data": [
-        {
-          "text": "are",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        },
-        {
-          "text": " you here"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "b229c365-b3de-4ff6-9a85-9f81bfd43022",
-      "data": [
-        {
-          "text": "are",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        },
-        {
-          "text": " you still there"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "7aa90d30-7840-47a6-85f7-8f3c1dd4f962",
-      "data": [
-        {
-          "text": "you "
-        },
-        {
-          "text": "are",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        },
-        {
-          "text": " here"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "732dcb22-5753-47e8-a301-d8e72002c69b",
-      "data": [
-        {
-          "text": "you still there"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "cf834cb4-b227-4d3a-b036-3274ce7b1fa8",
-      "data": [
-        {
-          "text": "are",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        },
-        {
-          "text": " you still here"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    }
-  ],
   "id": "008e508b-8e5e-4f8f-8f3f-01c517b5321b",
   "name": "smalltalk.agent.there",
   "auto": true,
@@ -135,12 +12,15 @@
       "messages": [
         {
           "type": 0,
+          "lang": "en",
           "speech": [
             "Of course. I\u0027m always here.",
             "Right where you left me."
           ]
         }
-      ]
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
     }
   ],
   "priority": 500000,

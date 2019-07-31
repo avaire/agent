@@ -1,181 +1,4 @@
 {
-  "templates": [
-    "wanna hug",
-    "hug you",
-    "do you want a hug",
-    "may I hug you",
-    "could you give me a hug",
-    "I want a hug",
-    "hug",
-    "hug me",
-    "hugged",
-    "you hugged",
-    "hugging",
-    "hugging me",
-    "hugged me",
-    "want a hug",
-    "a hug"
-  ],
-  "userSays": [
-    {
-      "id": "f6e5900f-7cd0-470d-8e5f-a2e3d8318d11",
-      "data": [
-        {
-          "text": "wanna hug"
-        }
-      ],
-      "isTemplate": false,
-      "count": 1
-    },
-    {
-      "id": "a3e307ef-d199-4485-81f6-a43f6624796a",
-      "data": [
-        {
-          "text": "hug you"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "65fc9a18-1407-4a84-8fc2-0476a39a771a",
-      "data": [
-        {
-          "text": "do you want a hug"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "c8cf7bf0-0d6f-47db-bfa8-66bfa8ebe6d0",
-      "data": [
-        {
-          "text": "may I hug you"
-        }
-      ],
-      "isTemplate": false,
-      "count": 1
-    },
-    {
-      "id": "f2b89abe-a6ea-4edc-a6b8-4f937d5cca7a",
-      "data": [
-        {
-          "text": "could you give "
-        },
-        {
-          "text": "me",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        },
-        {
-          "text": " a hug"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "d34891f4-0a0c-4e4b-93e4-8ce3d297d3ff",
-      "data": [
-        {
-          "text": "I want a hug"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "93bc8974-0c33-4a46-b7d9-c3ce47da8604",
-      "data": [
-        {
-          "text": "hug"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "0a7a4645-cebf-4b6a-82f2-f8f86b3583f5",
-      "data": [
-        {
-          "text": "hug me"
-        }
-      ],
-      "isTemplate": false,
-      "count": 1
-    },
-    {
-      "id": "b0f224fd-735d-4d41-964e-683a18770c36",
-      "data": [
-        {
-          "text": "hugged"
-        }
-      ],
-      "isTemplate": false,
-      "count": 1
-    },
-    {
-      "id": "3b83b825-a126-4c14-8912-31a4b3a6c8c1",
-      "data": [
-        {
-          "text": "you hugged"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "83c04866-0fa1-4dbe-8325-df59171b48d1",
-      "data": [
-        {
-          "text": "hugging"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "9a71ea9b-0813-4e02-9bc4-84ed8504dca3",
-      "data": [
-        {
-          "text": "hugging me"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "e2a0147a-384f-4bf9-8153-a04f7afe277e",
-      "data": [
-        {
-          "text": "hugged me"
-        }
-      ],
-      "isTemplate": false,
-      "count": 1
-    },
-    {
-      "id": "56c162d5-a6de-4f69-9ec9-179e331e0542",
-      "data": [
-        {
-          "text": "want a hug"
-        }
-      ],
-      "isTemplate": false,
-      "count": 1
-    },
-    {
-      "id": "dd24f009-ee5c-431d-90cf-e0720cd2db6f",
-      "data": [
-        {
-          "text": "a hug"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    }
-  ],
   "id": "d1760f5a-40a9-40c5-a0b8-bb78b6cd6e60",
   "name": "smalltalk.dialog.hug",
   "auto": true,
@@ -189,13 +12,16 @@
       "messages": [
         {
           "type": 0,
+          "lang": "en",
           "speech": [
-            "Oh. I'm really feeling the love today.",
-            "Hug it out. You'll feel better afterwards.",
+            "Oh. I\u0027m really feeling the love today.",
+            "Hug it out. You\u0027ll feel better afterwards.",
             "*sending virtual hug* 💞"
           ]
         }
-      ]
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
     }
   ],
   "priority": 500000,

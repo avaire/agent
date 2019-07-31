@@ -1,7 +1,5 @@
 {
-  "templates": [],
-  "userSays": [],
-  "id": "192353b6-e836-43d8-9837-887c621d8df3",
+  "id": "c1e139f7-33a8-42be-9f08-32d513eb9668",
   "name": "Default fallback intent",
   "auto": false,
   "contexts": [],
@@ -14,24 +12,33 @@
       "messages": [
         {
           "type": 0,
+          "lang": "en",
           "speech": [
-            "I apologize, but I don't understand your request.",
-            "I'm sorry my AI does not recognize that request.",
+            "I apologize, but I don\u0027t understand your request.",
+            "I\u0027m sorry my AI does not recognize that request.",
             "My AI does not cover that topic yet. If you wish you can request it be added on the official discord server.",
-            "I don't understand.",
+            "I don\u0027t understand.",
             "Please try your request again.",
-            "I dont understand use `.help` to see a list of my commands."
+            "I dont understand use `.help` to see a list of my commands.",
+            "Look i\u0027m just a bot. I use Dialogflow to communicate. If you want to improve this part why not head over to: https://github.com/avaire/agent and download, upload to dialogflow and improve my AI?",
+            "\u003e Error 404 respons not found.",
+            "Try again, but slower.",
+            "Your spelling is all over the place. Have you considered redoing third grade?",
+            "Uuuuh... What?",
+            ":thinking:",
+            "Can you rephase that? I didn\u0027t quite understand that. Maybe try asking something more intelligent?",
+            "I like pineapples.",
+            "I failed to understand what you were trying to say. So i\u0027m going to drop you this link about what to do in your life: http://www.wtfshouldidowithmylife.com",
+            "... Excuse me?",
+            "You lost me on this one."
           ]
         }
       ],
-      "defaultResponsePlatforms": {}
+      "defaultResponsePlatforms": {},
+      "speech": []
     }
   ],
   "priority": 500000,
-  "cortanaCommand": {
-    "navigateOrService": "NAVIGATE",
-    "target": ""
-  },
   "webhookUsed": false,
   "webhookForSlotFilling": false,
   "fallbackIntent": true,

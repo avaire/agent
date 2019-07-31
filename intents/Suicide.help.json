@@ -1,52 +1,4 @@
 {
-  "templates": [
-    "I'm going to commit suicide",
-    "Suicide",
-    "I'm going to kill myself",
-    "I'm considering suicide"
-  ],
-  "userSays": [
-    {
-      "id": "682220a8-4712-41a7-a523-5f4dc080f77c",
-      "data": [
-        {
-          "text": "I'm going to commit suicide"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "82acb0d0-a148-4a83-bf0a-c6ed20fd3f80",
-      "data": [
-        {
-          "text": "Suicide"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "7129cdd6-7143-4b82-8707-17f23ef7dee9",
-      "data": [
-        {
-          "text": "I'm going to kill myself"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "e80bd1df-30de-4863-aabd-85b11042ee76",
-      "data": [
-        {
-          "text": "I'm considering suicide"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    }
-  ],
   "id": "4db3468d-7304-4a15-ad74-23d78f103726",
   "name": "Suicide.help",
   "auto": true,
@@ -60,20 +12,18 @@
       "messages": [
         {
           "type": 0,
+          "lang": "en",
           "speech": [
-            "You're not alone. We want to [help](http://chat.suicidepreventionlifeline.org/GetHelp/LifelineChat.aspx)",
-            "You're not alone we want to help' please call 1-800-273-8255, or click [help](http://chat.suicidepreventionlifeline.org/GetHelp/LifelineChat.aspx) for more help."
+            "You\u0027re not alone. We want to [help](http://chat.suicidepreventionlifeline.org/GetHelp/LifelineChat.aspx)",
+            "You\u0027re not alone we want to help\u0027 please call 1-800-273-8255, or click [help](http://chat.suicidepreventionlifeline.org/GetHelp/LifelineChat.aspx) for more help."
           ]
         }
       ],
-      "defaultResponsePlatforms": {}
+      "defaultResponsePlatforms": {},
+      "speech": []
     }
   ],
   "priority": 500000,
-  "cortanaCommand": {
-    "navigateOrService": "NAVIGATE",
-    "target": ""
-  },
   "webhookUsed": false,
   "webhookForSlotFilling": false,
   "fallbackIntent": false,

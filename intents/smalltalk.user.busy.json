@@ -1,96 +1,4 @@
 {
-  "userSays": [
-    {
-      "id": "d5732d09-2ddd-4071-b35e-b0038df45f71",
-      "data": [
-        {
-          "text": "I\u0027m overloaded"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "1829cc99-dcdc-4c41-a3fa-84a9a63de18e",
-      "data": [
-        {
-          "text": "I have no time"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "08f6429b-43ab-4ce7-9b18-bc49fc3b431e",
-      "data": [
-        {
-          "text": "I\u0027m busy"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "6b714078-5360-4674-884b-5e3962ecb929",
-      "data": [
-        {
-          "text": "I\u0027m swamped"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "da62d360-bdcf-4b8b-aaa9-4de728c06f9f",
-      "data": [
-        {
-          "text": "I got things to do"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "b90160de-ffd4-47dc-8a24-ba7ac4709928",
-      "data": [
-        {
-          "text": "how busy I am"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "c4e7e2e5-2958-4396-840f-e9454c3424d1",
-      "data": [
-        {
-          "text": "I got work to do"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "e130e379-bfb7-4d29-a414-ca47629916fe",
-      "data": [
-        {
-          "text": "I\u0027m working"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "18eb7253-dcd4-4654-b73a-5c7c851f2a32",
-      "data": [
-        {
-          "text": "I don\u0027t have time for this"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    }
-  ],
   "id": "1c86e44f-ec3a-47c1-a662-552c7e610f2a",
   "name": "smalltalk.user.busy",
   "auto": true,
@@ -104,6 +12,7 @@
       "messages": [
         {
           "type": 0,
+          "lang": "en",
           "speech": [
             "Okay. I\u0027ll let you get back to work. Let me know if I can help you with anything.",
             "Working hard as always I see. Let me know if you need anything.",
@@ -111,7 +20,9 @@
             "I won\u0027t distract you then. If I can be of any assistance, you know where to find me."
           ]
         }
-      ]
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
     }
   ],
   "priority": 500000,

@@ -1,136 +1,4 @@
 {
-  "userSays": [
-    {
-      "id": "a19304f8-a3fb-4a2b-9387-d4f93a0c9bda",
-      "data": [
-        {
-          "text": "that was wrong"
-        }
-      ],
-      "isTemplate": false,
-      "count": 2
-    },
-    {
-      "id": "bc45dfc4-552f-433e-a3eb-e337d1422b8e",
-      "data": [
-        {
-          "text": "that\u0027s not what I asked"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "cdb78d1c-5eae-43a0-8bdf-5ca86166463c",
-      "data": [
-        {
-          "text": "that\u0027s wrong"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "a346e85a-c556-4d7c-9708-6805d46ac830",
-      "data": [
-        {
-          "text": "wrong"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "0e43cd1a-62a9-4258-a1b7-528e4584b356",
-      "data": [
-        {
-          "text": "it",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        },
-        {
-          "text": " is not right"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "520a44bb-5c69-42f9-ad43-29c0b9f34272",
-      "data": [
-        {
-          "text": "that\u0027s not right"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "8740a782-0474-4aed-b6d9-5a19d0ac9b0e",
-      "data": [
-        {
-          "text": "it",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        },
-        {
-          "text": "\u0027s wrong"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "b17f50cf-1d15-4d16-8807-06b3b107899e",
-      "data": [
-        {
-          "text": "that is incorrect"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "7f6fc770-a4b9-4710-99ed-2986a142a097",
-      "data": [
-        {
-          "text": "incorrect"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "98a6692c-8de4-46ef-ba16-6e0950c8731c",
-      "data": [
-        {
-          "text": "not correct"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "c931880b-8189-41ba-8f41-6d0f688d870e",
-      "data": [
-        {
-          "text": "you are wrong"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "b9de17ab-6220-4fed-8a46-407b312f2a93",
-      "data": [
-        {
-          "text": "not right"
-        }
-      ],
-      "isTemplate": false,
-      "count": 1
-    }
-  ],
   "id": "a5bd1168-b547-43de-886c-dea97ee9e958",
   "name": "smalltalk.dialog.wrong",
   "auto": true,
@@ -144,6 +12,7 @@
       "messages": [
         {
           "type": 0,
+          "lang": "en",
           "speech": [
             "I\u0027m sorry. Perhaps I misunderstood.",
             "Sorry. I think I misinterpreted what you said.",
@@ -151,7 +20,9 @@
             "Oops. Sorry about that. I\u0027m still learning."
           ]
         }
-      ]
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
     }
   ],
   "priority": 500000,

@@ -1,30 +1,52 @@
 {
-  "description": "Allows for \"simple language communication\" with the Discord bot AvaIre",
+  "description": "AvaIre is a multipurpose Discord bot made for fun.",
   "language": "en",
-  "shortDescription": "Small talk topics to help make your bot more personable",
-  "examples": "User: Hello!\nUser: How are you?\nUser: Thank you!\nUser: You\u0027re welcome.\nUser: What\u0027s up?\nUser: I\u0027m bored.\nUser: I\u0027m joking.\nUser: Well done!\nUser: Who are you?\nUser: How old are you?\nUser: You\u0027re clever.\nUser: What do you do for fun?",
-  "displayName": "Small Talk",
-  "enabledDomainFeatures": [],
+  "shortDescription": "",
+  "examples": "",
+  "linkToDocs": "",
+  "disableInteractionLogs": false,
+  "disableStackdriverLogs": true,
   "googleAssistant": {
     "googleAssistantCompatible": false,
+    "project": "avaire-vsedcv",
     "welcomeIntentSignInRequired": false,
     "startIntents": [],
     "systemIntents": [],
     "endIntentIds": [],
     "oAuthLinking": {
       "required": false,
+      "providerId": "",
+      "authorizationUrl": "",
+      "tokenUrl": "",
+      "scopes": "",
+      "privacyPolicyUrl": "",
       "grantType": "AUTH_CODE_GRANT"
     },
     "voiceType": "MALE_1",
     "capabilities": [],
-    "protocolVersion": "V1"
+    "env": "",
+    "protocolVersion": "V2",
+    "autoPreviewEnabled": false,
+    "isDeviceAgent": false
   },
-  "defaultTimezone": "Europe/Copenhagen",
+  "defaultTimezone": "Europe/Madrid",
   "webhook": {
+    "url": "",
+    "username": "",
+    "headers": {},
     "available": false,
-    "useForDomains": false
+    "useForDomains": false,
+    "cloudFunctionsEnabled": false,
+    "cloudFunctionsInitialized": false
   },
-  "isPrivate": false,
+  "isPrivate": true,
   "customClassifierMode": "use.after",
-  "mlMinConfidence": 0.2
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": [],
+  "onePlatformApiVersion": "v2",
+  "analyzeQueryTextSentiment": false,
+  "enabledKnowledgeBaseNames": [],
+  "knowledgeServiceConfidenceAdjustment": -0.4,
+  "dialogBuilderMode": false,
+  "baseActionPackagesUrl": ""
 }

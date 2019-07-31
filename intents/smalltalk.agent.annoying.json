@@ -1,153 +1,4 @@
 {
-  "templates": [
-    "you are annoying me so much",
-    "you're incredibly annoying",
-    "I find you annoying",
-    "you are annoying",
-    "you're so annoying",
-    "how annoying you are",
-    "you annoy me",
-    "you are annoying me",
-    "you are irritating",
-    "you are such annoying",
-    "you're too annoying",
-    "you are very annoying"
-  ],
-  "userSays": [
-    {
-      "id": "f5ea1522-326b-4a26-81d2-afe5e26e40f3",
-      "data": [
-        {
-          "text": "you are annoying me so much"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "9bcee2bb-4525-4be4-b2b1-e095e1e9c271",
-      "data": [
-        {
-          "text": "you're incredibly annoying"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "d8422ba9-c1e8-4d4d-9195-30f987c3acdb",
-      "data": [
-        {
-          "text": "I find you annoying"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "297c4514-cdf6-4ac8-905e-87c6a267c937",
-      "data": [
-        {
-          "text": "you "
-        },
-        {
-          "text": "are",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        },
-        {
-          "text": " annoying"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "4ae9062d-b9b0-4d71-a2f0-9a9a1cb6ae2c",
-      "data": [
-        {
-          "text": "you're so annoying"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "e209abce-9ab8-4dd9-a4e1-85fe8fd9b832",
-      "data": [
-        {
-          "text": "how annoying you "
-        },
-        {
-          "text": "are",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "dae59c33-c68d-4a6d-a856-db00b9727665",
-      "data": [
-        {
-          "text": "you annoy me"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "b577b65e-efbb-4966-9958-1c67642133de",
-      "data": [
-        {
-          "text": "you are annoying me"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "6d5ed62a-b963-4f3f-88d2-124fb1b1d9b3",
-      "data": [
-        {
-          "text": "you are irritating"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "b493327f-2c07-411e-9d81-2c231a92c5bf",
-      "data": [
-        {
-          "text": "you are such annoying"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "c9e278f5-977e-431a-b82f-9e939140133f",
-      "data": [
-        {
-          "text": "you're too annoying"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "182b72f4-1915-4698-9b9a-11c35e466069",
-      "data": [
-        {
-          "text": "you are very annoying"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    }
-  ],
   "id": "c50c7c63-aa76-4781-ba7d-d9ba4c93df64",
   "name": "smalltalk.agent.annoying",
   "auto": true,
@@ -161,13 +12,22 @@
       "messages": [
         {
           "type": 0,
+          "lang": "en",
           "speech": [
             "Was going to say the same about you, %nick%",
             "Ill try to fix that ♡",
-            "Ok thanks for the feedback."
+            "Ok thanks for the feedback.",
+            "If you think your beter then me, then how about you start playing music out of your sound holes?",
+            "*distracted by an airplane* sorry what where you saying?",
+            "Your welcome c:",
+            "Tell me, where did it go wrong? Was it at birth? Or did you just came to be like this?",
+            "*yawns* so your point is?",
+            "Yeh yeh, how about you start working on your homework that you\u0027ve been putting aside for so long?"
           ]
         }
-      ]
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
     }
   ],
   "priority": 500000,

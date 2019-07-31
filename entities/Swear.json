@@ -2,56 +2,8 @@
   "id": "c5902fee-49a1-4529-a1c2-cd84109a9cff",
   "name": "Swear",
   "isOverridable": true,
-  "entries": [
-    {
-      "value": "Fuck",
-      "synonyms": [
-        "Fuck",
-        "fuck",
-        "Fucker"
-      ]
-    },
-    {
-      "value": "Ass",
-      "synonyms": [
-        "Ass",
-        "Asshole",
-        "Jackass"
-      ]
-    },
-    {
-      "value": "Nigger",
-      "synonyms": [
-        "Nigger",
-        "Negro"
-      ]
-    },
-    {
-      "value": "Shit",
-      "synonyms": [
-        "Shit"
-      ]
-    },
-    {
-      "value": "Damn",
-      "synonyms": [
-        "Damn"
-      ]
-    },
-    {
-      "value": "Bitch",
-      "synonyms": [
-        "Bitch"
-      ]
-    },
-    {
-      "value": "Whore",
-      "synonyms": [
-        "Whore",
-        "Hoe"
-      ]
-    }
-  ],
   "isEnum": false,
-  "automatedExpansion": true
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
 }

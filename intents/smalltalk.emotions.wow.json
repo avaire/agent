@@ -1,56 +1,4 @@
 {
-  "userSays": [
-    {
-      "id": "916d86fc-c109-4c9c-8007-9a0f1d049f50",
-      "data": [
-        {
-          "text": "wow"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "2c61d0b2-e31a-4fc5-84db-dfc368738e9c",
-      "data": [
-        {
-          "text": "wow wow"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "8030baf2-dcc2-4891-81b1-24150b5920e7",
-      "data": [
-        {
-          "text": "wow wow wow"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "e0ec7d32-f912-4b00-bea2-7320d3b1a9dd",
-      "data": [
-        {
-          "text": "wooow"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "f3b46a4e-5c31-4627-ac9a-64b8e053be7c",
-      "data": [
-        {
-          "text": "woah"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    }
-  ],
   "id": "92cac80b-1f12-44c8-9e1d-901d5c6aeb41",
   "name": "smalltalk.emotions.wow",
   "auto": true,
@@ -64,9 +12,12 @@
       "messages": [
         {
           "type": 0,
+          "lang": "en",
           "speech": "Wow indeed!"
         }
-      ]
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
     }
   ],
   "priority": 500000,

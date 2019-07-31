@@ -1,66 +1,4 @@
 {
-  "userSays": [
-    {
-      "id": "d985334d-5707-4bc1-ae37-ce03903abbc3",
-      "data": [
-        {
-          "text": "I am excited"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "c6181f62-d578-4c91-9bc3-dbc1d7c27432",
-      "data": [
-        {
-          "text": "I\u0027m really excited"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "195ce411-2288-4e1b-a60b-529e868e77ad",
-      "data": [
-        {
-          "text": "how excited I am"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "172abebe-e872-43c9-b2a4-0b83daa50b46",
-      "data": [
-        {
-          "text": "I\u0027m thrilled"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "5b05c749-701b-4881-a21c-3f4f62d858ec",
-      "data": [
-        {
-          "text": "I\u0027m excited about working with you"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "bdb08d4f-abb6-412b-afde-fdc59612f8a5",
-      "data": [
-        {
-          "text": "I\u0027m excited to start our friendship"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    }
-  ],
   "id": "5537857c-7919-4a00-a574-8474a10aa6e2",
   "name": "smalltalk.user.excited",
   "auto": true,
@@ -74,6 +12,7 @@
       "messages": [
         {
           "type": 0,
+          "lang": "en",
           "speech": [
             "That\u0027s great. I\u0027m happy for you.",
             "Good for you. Enjoy yourself.",
@@ -81,7 +20,9 @@
             "I bet you are. That\u0027s very exciting."
           ]
         }
-      ]
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
     }
   ],
   "priority": 500000,

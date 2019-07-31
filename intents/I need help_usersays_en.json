@@ -1,0 +1,104 @@
+[
+  {
+    "id": "d56d0cfb-69c2-42d0-8a57-48e8bb04f171",
+    "data": [
+      {
+        "text": "How do you see ",
+        "userDefined": false
+      },
+      {
+        "text": "stats",
+        "alias": "command",
+        "meta": "@command",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7da010a4-860f-4295-807a-b55e74b3aa7b",
+    "data": [
+      {
+        "text": "How do I ",
+        "userDefined": false
+      },
+      {
+        "text": "ping",
+        "alias": "command",
+        "meta": "@command",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "998e2b9e-d32a-41b0-855c-deb41875a12e",
+    "data": [
+      {
+        "text": "How do you ",
+        "userDefined": false
+      },
+      {
+        "text": "request",
+        "alias": "command",
+        "meta": "@command",
+        "userDefined": true
+      },
+      {
+        "text": " songs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4fb56e3d-b045-4122-8256-3f57eefc1b3b",
+    "data": [
+      {
+        "text": "I need help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "241f1ff5-eaa9-44a6-a4fb-0b9a99c86663",
+    "data": [
+      {
+        "text": "Please help me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "019ae8c5-a399-4cfb-918c-e3a2a202f079",
+    "data": [
+      {
+        "text": "Can I get some help?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

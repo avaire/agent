@@ -1,0 +1,110 @@
+[
+  {
+    "id": "df8db9ff-1e2d-465f-88ee-c9a3bea4d59d",
+    "data": [
+      {
+        "text": "Hows it going?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e25449b2-5a5d-4baa-960a-c000e17a8c0c",
+    "data": [
+      {
+        "text": "How are you doing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d479ad7f-e46c-4309-90ac-a01b7dbc2b85",
+    "data": [
+      {
+        "text": "How is your day going?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a643db6f-1195-4cae-92b3-b7e45e6ad3eb",
+    "data": [
+      {
+        "text": "How is your morning?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "899df270-ee7e-4efa-9e9c-125e0c97a709",
+    "data": [
+      {
+        "text": "You ok?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f7daab42-c217-46cb-8d8f-84aef541847b",
+    "data": [
+      {
+        "text": "How is your day?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "964fa66a-ef00-44df-b802-ce0b05fd2162",
+    "data": [
+      {
+        "text": "How is your evening?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "50dd6262-98f0-4ce9-8737-289b5a0dfb50",
+    "data": [
+      {
+        "text": "How are you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4474d0b3-7f4e-4cda-bad6-5205fd4a3b22",
+    "data": [
+      {
+        "text": "How is everything?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

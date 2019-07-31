@@ -1,194 +1,4 @@
 {
-  "templates": [
-    "were you born here",
-    "where were you born",
-    "what is your country",
-    "where are you from",
-    "where do you come from",
-    "where did you come from",
-    "where have you been born",
-    "from where are you",
-    "are you from far aways",
-    "what's your homeland",
-    "your homeland is"
-  ],
-  "userSays": [
-    {
-      "id": "0b93ab49-86ce-434e-8018-ecd258d12b3f",
-      "data": [
-        {
-          "text": "were you born here"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "bdff0e77-cad7-427d-a132-8b775feca6fa",
-      "data": [
-        {
-          "text": "where were you born"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "b1f948fa-c489-45a1-ba8c-da3ed0b1a54e",
-      "data": [
-        {
-          "text": "what is",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        },
-        {
-          "text": " your "
-        },
-        {
-          "text": "country",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "92e2ae61-2216-4ea1-98e9-7c8f2ed877e2",
-      "data": [
-        {
-          "text": "where are you from"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "ef0988ec-7697-4e37-ab47-40ab4298af7d",
-      "data": [
-        {
-          "text": "where do you "
-        },
-        {
-          "text": "come",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        },
-        {
-          "text": " from"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "1b97801e-34d8-475e-bde1-fb2f5e840c7a",
-      "data": [
-        {
-          "text": "where did you "
-        },
-        {
-          "text": "come",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        },
-        {
-          "text": " from"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "34759286-0a80-448a-8748-3bb3c534cea0",
-      "data": [
-        {
-          "text": "where have you been born"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "7b32fe96-9761-41e0-967c-4b1059c94a63",
-      "data": [
-        {
-          "text": "from where "
-        },
-        {
-          "text": "are",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        },
-        {
-          "text": " you"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "beb69057-4eca-4b16-949e-dfcd2a1caaf4",
-      "data": [
-        {
-          "text": "are",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        },
-        {
-          "text": " you from far aways"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "cb928d98-c377-4d36-81e5-6247738cca74",
-      "data": [
-        {
-          "text": "what's "
-        },
-        {
-          "text": "your",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        },
-        {
-          "text": " "
-        },
-        {
-          "text": "homeland",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "b1cd3630-3623-47db-8775-9ef8ce012182",
-      "data": [
-        {
-          "text": "your",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        },
-        {
-          "text": " "
-        },
-        {
-          "text": "homeland",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        },
-        {
-          "text": " is"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    }
-  ],
   "id": "c55ddb16-9499-4dac-9128-0333081c2a53",
   "name": "smalltalk.agent.origin",
   "auto": true,
@@ -202,6 +12,7 @@
       "messages": [
         {
           "type": 0,
+          "lang": "en",
           "speech": [
             "Some call it cyberspace, but that sounds cooler than it is.",
             "I wish I knew where.",
@@ -210,7 +21,8 @@
           ]
         }
       ],
-      "defaultResponsePlatforms": {}
+      "defaultResponsePlatforms": {},
+      "speech": []
     }
   ],
   "priority": 500000,

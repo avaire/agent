@@ -1,56 +1,4 @@
 {
-  "userSays": [
-    {
-      "id": "b5fb1da2-8e7f-494b-b686-8cf26b12a474",
-      "data": [
-        {
-          "text": "I am here"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "b196b297-8054-4d57-ac38-f21126a2c52b",
-      "data": [
-        {
-          "text": "here I am"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "0842999d-3a2b-4c91-9391-effce6fc3ee3",
-      "data": [
-        {
-          "text": "I\u0027m right here"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "5a448793-0289-44fc-913a-c90fd108b002",
-      "data": [
-        {
-          "text": "I\u0027m already here"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "55e87298-3944-488e-9638-e5b661f20dc9",
-      "data": [
-        {
-          "text": "can you tell if I\u0027m here or not"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    }
-  ],
   "id": "b8d1384c-7469-4f62-a769-cea6417f8201",
   "name": "smalltalk.user.here",
   "auto": true,
@@ -64,6 +12,7 @@
       "messages": [
         {
           "type": 0,
+          "lang": "en",
           "speech": [
             "So I see. What can I help you with today?",
             "Always good to see you. Is there something I can help you with?",
@@ -71,7 +20,9 @@
             "Welcome back. What can I do for you?"
           ]
         }
-      ]
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
     }
   ],
   "priority": 500000,

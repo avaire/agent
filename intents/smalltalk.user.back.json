@@ -1,66 +1,4 @@
 {
-  "userSays": [
-    {
-      "id": "ab8653e8-3d1d-412b-bf3c-fe767a891d3c",
-      "data": [
-        {
-          "text": "I am back"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "5bd71014-ab4f-44ce-a0c0-5bbe74707e41",
-      "data": [
-        {
-          "text": "I\u0027m here again"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "f4164c47-bb6f-4d4f-84c3-97897582cc6f",
-      "data": [
-        {
-          "text": "here I am again"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "85c230b2-c68d-468e-b4d0-bfae58821c1c",
-      "data": [
-        {
-          "text": "I got back"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "458fe47e-6f3e-4c80-af2b-04084d8c574b",
-      "data": [
-        {
-          "text": "I came back"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "e1064491-5f2a-41e0-a23a-ce4ea1042b38",
-      "data": [
-        {
-          "text": "I have returned"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    }
-  ],
   "id": "2004e62b-ef95-4ab8-8c50-18d8d20b3f27",
   "name": "smalltalk.user.back",
   "auto": true,
@@ -74,6 +12,7 @@
       "messages": [
         {
           "type": 0,
+          "lang": "en",
           "speech": [
             "Just in time. I was getting lonely.",
             "You were missed.",
@@ -81,7 +20,9 @@
             "Hooray!"
           ]
         }
-      ]
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
     }
   ],
   "priority": 500000,

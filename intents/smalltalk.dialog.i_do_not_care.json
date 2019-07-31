@@ -1,137 +1,4 @@
 {
-  "userSays": [
-    {
-      "id": "8d4293bd-9d93-45ca-853a-ae95f4f95352",
-      "data": [
-        {
-          "text": "I "
-        },
-        {
-          "text": "don\u0027t",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        },
-        {
-          "text": " care"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "6e26d1be-484a-446c-8b95-b92825c1b22b",
-      "data": [
-        {
-          "text": "I shouldn\u0027t care about this"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "d8dd963a-eaef-49ec-99a4-db799a0b2e4b",
-      "data": [
-        {
-          "text": "whatever"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "4d206fdd-0ebf-49a9-988c-5de9dc9ce9cd",
-      "data": [
-        {
-          "text": "I do not care"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "3525be10-8621-45ee-992c-d3f0c7a3196d",
-      "data": [
-        {
-          "text": "I "
-        },
-        {
-          "text": "don",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        },
-        {
-          "text": "\u0027t care at "
-        },
-        {
-          "text": "all",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "0bdbee87-543c-4b4d-8318-bff2ba20ab2e",
-      "data": [
-        {
-          "text": "not caring"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "2de93212-c8b3-4a43-be58-0b5ba622b47a",
-      "data": [
-        {
-          "text": "not care at "
-        },
-        {
-          "text": "all",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "1eced707-22c6-49ca-a76d-ca7acced4fd7",
-      "data": [
-        {
-          "text": "don",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        },
-        {
-          "text": "\u0027t care at "
-        },
-        {
-          "text": "all",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "7c9cf960-cbc4-44be-831d-9afc9537fdd3",
-      "data": [
-        {
-          "text": "not caring at "
-        },
-        {
-          "text": "all",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    }
-  ],
   "id": "c4c8272c-3e33-411d-b2e3-65df0da10a04",
   "name": "smalltalk.dialog.i_do_not_care",
   "auto": true,
@@ -145,9 +12,12 @@
       "messages": [
         {
           "type": 0,
+          "lang": "en",
           "speech": "Ok, let\u0027s not talk about it then."
         }
-      ]
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
     }
   ],
   "priority": 500000,

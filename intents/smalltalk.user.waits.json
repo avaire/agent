@@ -1,56 +1,4 @@
 {
-  "userSays": [
-    {
-      "id": "a3f8dc23-4f4c-4e0b-b8ab-fea6789d48a8",
-      "data": [
-        {
-          "text": "I\u0027m waiting"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "fb4aad7b-57b3-437e-b028-f5801e2c32b7",
-      "data": [
-        {
-          "text": "still waiting"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "56fd8f9b-8173-4397-ba37-73c24c6e5707",
-      "data": [
-        {
-          "text": "I\u0027ll wait"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "817ac24f-9e71-4e7c-af7b-c02296307e4c",
-      "data": [
-        {
-          "text": "I can\u0027t wait anymore"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "1abb4c47-1da4-4e55-a3f4-56c59f9c2e4a",
-      "data": [
-        {
-          "text": "how long do I have to wait"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    }
-  ],
   "id": "cbb7fae0-115f-4890-a99d-30b166ecd197",
   "name": "smalltalk.user.waits",
   "auto": true,
@@ -64,12 +12,15 @@
       "messages": [
         {
           "type": 0,
+          "lang": "en",
           "speech": [
             "I appreciate your patience. Hopefully I\u0027ll have what you need soon.",
             "Thanks for being so patient. Sometimes these things take a little time."
           ]
         }
-      ]
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
     }
   ],
   "priority": 500000,

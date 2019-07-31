@@ -1,115 +1,4 @@
 {
-  "userSays": [
-    {
-      "id": "eda4545b-d515-4cb0-8e59-02521bb789b4",
-      "data": [
-        {
-          "text": "I\u0027"
-        },
-        {
-          "text": "m",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        },
-        {
-          "text": " insomnious"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "138cc9ea-0ba5-439f-9734-63a906442084",
-      "data": [
-        {
-          "text": "I\u0027"
-        },
-        {
-          "text": "m",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        },
-        {
-          "text": " sleepless"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "86ce4480-2bd7-4366-a672-df9a4afe3f3f",
-      "data": [
-        {
-          "text": "I can\u0027t get any sleep"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "0b7bdbaa-0aa8-46e0-bc0a-e2b3d3b94896",
-      "data": [
-        {
-          "text": "I can\u0027t "
-        },
-        {
-          "text": "sleep",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "925a8c73-94e4-4973-8429-eb2d2e74e0cf",
-      "data": [
-        {
-          "text": "I can\u0027t "
-        },
-        {
-          "text": "fall",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        },
-        {
-          "text": " asleep"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "7b169d6a-5e3e-4bd2-830e-d3408cf38598",
-      "data": [
-        {
-          "text": "I can\u0027t get to sleep"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "f4c14aa1-3cae-4153-80b3-e50faf1d30a3",
-      "data": [
-        {
-          "text": "I can\u0027t get no sleep"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "25a14e29-de76-4993-bf09-12b60e6f2c6b",
-      "data": [
-        {
-          "text": "I\u0027m insomniac"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    }
-  ],
   "id": "40f90d52-d17d-43a6-8d04-bf8c93fc7fbe",
   "name": "smalltalk.user.can_not_sleep",
   "auto": true,
@@ -123,12 +12,15 @@
       "messages": [
         {
           "type": 0,
+          "lang": "en",
           "speech": [
             "Maybe some music would help. Try listening something relaxing.",
             "Reading is a good way to unwind. But don\u0027t read something too emotional."
           ]
         }
-      ]
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
     }
   ],
   "priority": 500000,

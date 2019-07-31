@@ -1,0 +1,42 @@
+{
+  "id": "805a2e78-bb7b-4b1c-b4e9-6ff7368e247f",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Hi! How are you doing?",
+            "Hello! How can I help you?",
+            "Good day! What can I do for you today?",
+            "Greetings! How can I assist?",
+            "Hi %nick%!",
+            "Hey %nick%, how was your sleep?",
+            "Sorry i\u0027m not feeling like it today. Maybe try tommorow when i got my daily dose of Bits and Bytes.",
+            "Sub %nick%. How would you like me to serve you today?",
+            "Oh, well hello there~"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ]
+}

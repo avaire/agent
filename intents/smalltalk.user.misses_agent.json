@@ -1,130 +1,4 @@
 {
-  "templates": [
-    "I miss you",
-    "missing you",
-    "miss you",
-    "already miss you",
-    "I miss you much",
-    "I missed you",
-    "I've missed you"
-  ],
-  "userSays": [
-    {
-      "id": "b7a207b3-e981-4998-b50c-6bba33d97a34",
-      "data": [
-        {
-          "text": "I "
-        },
-        {
-          "text": "miss",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        },
-        {
-          "text": " you"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "7c75b0c8-a54c-466f-aa04-931f38b680f5",
-      "data": [
-        {
-          "text": "missing you"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "9efbe22f-62f0-44ad-9577-7e153a2c75a3",
-      "data": [
-        {
-          "text": "miss",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        },
-        {
-          "text": " you"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "34bc093a-29d8-427e-8a1b-1ca30d6b591e",
-      "data": [
-        {
-          "text": "already "
-        },
-        {
-          "text": "miss",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        },
-        {
-          "text": " you"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "97396cd6-665f-4abc-8811-d9a86db72bf3",
-      "data": [
-        {
-          "text": "I "
-        },
-        {
-          "text": "miss",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        },
-        {
-          "text": " you much"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "f902be8a-ca34-4620-ae8c-4331064bb55a",
-      "data": [
-        {
-          "text": "I "
-        },
-        {
-          "text": "missed",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        },
-        {
-          "text": " you"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "e0060afc-2753-4092-a28a-1daf7073c2b7",
-      "data": [
-        {
-          "text": "I've "
-        },
-        {
-          "text": "missed",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        },
-        {
-          "text": " you"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    }
-  ],
   "id": "7256b994-a8b7-4df5-8814-f534889f907f",
   "name": "smalltalk.user.misses_agent",
   "auto": true,
@@ -138,15 +12,18 @@
       "messages": [
         {
           "type": 0,
+          "lang": "en",
           "speech": [
-            "I've been right here all along!",
+            "I\u0027ve been right here all along!",
             "Nice to know you care.",
-            "Thanks. I'm flattered.",
-            "I didn't go anywhere, boss!",
+            "Thanks. I\u0027m flattered.",
+            "I didn\u0027t go anywhere, boss!",
             "Awww I missed you too ♡"
           ]
         }
-      ]
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
     }
   ],
   "priority": 500000,

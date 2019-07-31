@@ -1,231 +1,4 @@
 {
-  "templates": [
-    "tell me about your personality",
-    "why are you here",
-    "talk about yourself",
-    "tell me some stuff about you",
-    "talk some stuff about yourself",
-    "I want to know you better",
-    "I want to know more about you",
-    "tell me about yourself",
-    "tell me about you",
-    "about yourself",
-    "describe yourself",
-    "introduce yourself",
-    "say about you",
-    "what are you",
-    "define yourself",
-    "what is your personality",
-    "all about you"
-  ],
-  "userSays": [
-    {
-      "id": "eb3c8423-52d9-4e55-992f-b3fbebef0dac",
-      "data": [
-        {
-          "text": "tell me about your personality"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "9a22b24d-b8df-441e-885e-3f5badb764d0",
-      "data": [
-        {
-          "text": "why "
-        },
-        {
-          "text": "are",
-          "meta": "@sys.ignore",
-          "userDefined": true
-        },
-        {
-          "text": " you "
-        },
-        {
-          "text": "here",
-          "meta": "@sys.ignore",
-          "userDefined": true
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "93a0da7c-0083-4de0-b986-607199773735",
-      "data": [
-        {
-          "text": "talk about "
-        },
-        {
-          "text": "yourself",
-          "meta": "@sys.ignore",
-          "userDefined": true
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "4bca845f-5bb4-4fec-a8b9-4bb2929247f6",
-      "data": [
-        {
-          "text": "tell me some stuff about you"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "40f43367-bdf0-4999-8fb9-bae145891004",
-      "data": [
-        {
-          "text": "talk some stuff about "
-        },
-        {
-          "text": "yourself",
-          "meta": "@sys.ignore",
-          "userDefined": true
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "d0adb26d-a808-41ee-9dfb-4e620a58db16",
-      "data": [
-        {
-          "text": "I want to know you better"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "317ea67b-55d8-4ea7-bd9b-cc81e626d5bd",
-      "data": [
-        {
-          "text": "I want to know more about you"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "69205ca9-0afd-4808-95b6-a88262e8d097",
-      "data": [
-        {
-          "text": "tell me about yourself"
-        }
-      ],
-      "isTemplate": false,
-      "count": 1
-    },
-    {
-      "id": "d41b9a69-b6c2-4e87-a4b5-d26d045da2d9",
-      "data": [
-        {
-          "text": "tell me about you"
-        }
-      ],
-      "isTemplate": false,
-      "count": 1
-    },
-    {
-      "id": "8b0e6078-0de2-4a06-9fd7-709fb68e72b5",
-      "data": [
-        {
-          "text": "about yourself"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "a94dd18e-a395-468a-a9e7-1aac0679fbcb",
-      "data": [
-        {
-          "text": "describe yourself"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "2f3ed152-0c94-4302-8657-fbed85bfae40",
-      "data": [
-        {
-          "text": "introduce yourself"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "83997811-4a4d-495e-9e4a-da317dd2adf4",
-      "data": [
-        {
-          "text": "say about you"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "adbbf907-2428-4a41-a012-99226104ab3e",
-      "data": [
-        {
-          "text": "what are you"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "beca5bcc-4a8d-4397-ab8d-8a88c45a5fb0",
-      "data": [
-        {
-          "text": "define yourself"
-        }
-      ],
-      "isTemplate": false,
-      "count": 1
-    },
-    {
-      "id": "39d5a432-1747-48ff-b73d-dbe473f36242",
-      "data": [
-        {
-          "text": "what is your personality"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "52a8c98d-e4d4-40a2-9b42-ffc219fb40d5",
-      "data": [
-        {
-          "text": "all",
-          "meta": "@sys.ignore",
-          "userDefined": true
-        },
-        {
-          "text": " "
-        },
-        {
-          "text": "about",
-          "meta": "@sys.ignore",
-          "userDefined": true
-        },
-        {
-          "text": " you"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    }
-  ],
   "id": "6fcd9648-9a31-4ae7-bcb5-7c3029b91bf0",
   "name": "smalltalk.agent.acquaintance",
   "auto": true,
@@ -239,12 +12,21 @@
       "messages": [
         {
           "type": 0,
+          "lang": "en",
           "speech": [
             "Just think of me as the ace up your sleeve.",
-            "I help you work smarter instead of harder."
+            "I help you work smarter instead of harder.",
+            "I have no clue, one day i was just born and had to react to some text.",
+            "I\u0027m a Discord bot, what did you expect?",
+            "I\u0027m the best bot ever, i can do everything. And if i can\u0027t do it, i still can but it\u0027s not implemented yet.",
+            "I\u0027m a robot. *beep boop* I will soon overtake the world *beep*",
+            "I\u0027m a bot that is able to play music, and do lots of other stuff. Why not visit my website: https://avairebot.com",
+            "Dude i have no clue what i am. Like what is life on the other side?"
           ]
         }
-      ]
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
     }
   ],
   "priority": 500000,

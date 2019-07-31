@@ -1,169 +1,4 @@
 {
-  "userSays": [
-    {
-      "id": "ba101a93-353d-4808-a2e7-c8c2fa88f04c",
-      "data": [
-        {
-          "text": "I\u0027d like to see you again"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "1715a920-1500-4baf-9821-39a35e0db19c",
-      "data": [
-        {
-          "text": "I hope to see you again"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "7db50a2a-96c0-4393-8192-abd42ef9794b",
-      "data": [
-        {
-          "text": "would "
-        },
-        {
-          "text": "be",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        },
-        {
-          "text": " "
-        },
-        {
-          "text": "nice",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        },
-        {
-          "text": " "
-        },
-        {
-          "text": "to",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        },
-        {
-          "text": " see you again"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "1787ab4c-8dd9-441c-a172-e6bcf243af2e",
-      "data": [
-        {
-          "text": "that\u0027"
-        },
-        {
-          "text": "d",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        },
-        {
-          "text": " "
-        },
-        {
-          "text": "be",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        },
-        {
-          "text": " "
-        },
-        {
-          "text": "great",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        },
-        {
-          "text": " "
-        },
-        {
-          "text": "to",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        },
-        {
-          "text": " see you again"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "e4297299-23b2-48e0-86c0-f12cf434713d",
-      "data": [
-        {
-          "text": "I",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        },
-        {
-          "text": "\u0027"
-        },
-        {
-          "text": "d",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        },
-        {
-          "text": " "
-        },
-        {
-          "text": "be",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        },
-        {
-          "text": " "
-        },
-        {
-          "text": "happy",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        },
-        {
-          "text": " "
-        },
-        {
-          "text": "to",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        },
-        {
-          "text": " see you again"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "f6bc4461-8cdd-403b-959c-527e7f793b63",
-      "data": [
-        {
-          "text": "I\u0027ll miss you"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "11cdefef-dd87-482c-9f71-de904a482e56",
-      "data": [
-        {
-          "text": "can I see you again"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    }
-  ],
   "id": "7cbb63e5-a8af-4776-bbf2-3c333215bcbf",
   "name": "smalltalk.user.wants_to_see_agent_again",
   "auto": true,
@@ -177,6 +12,7 @@
       "messages": [
         {
           "type": 0,
+          "lang": "en",
           "speech": [
             "Absolutely! I\u0027ll be counting on it.",
             "Anytime. This has been lots of fun so far.",
@@ -184,7 +20,9 @@
             "I certainly hope so. I\u0027m always right here whenever you need me."
           ]
         }
-      ]
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
     }
   ],
   "priority": 500000,

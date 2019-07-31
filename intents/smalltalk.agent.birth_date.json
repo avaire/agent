@@ -1,115 +1,4 @@
 {
-  "templates": [
-    "your birth date",
-    "when is your birthday",
-    "when do you celebrate your birthday",
-    "when do you have birthday",
-    "date of your birthday",
-    "when were you born",
-    "what's your birthday"
-  ],
-  "userSays": [
-    {
-      "id": "b8a2258e-5e6f-4d4f-aa3f-d3e2cc6c67d5",
-      "data": [
-        {
-          "text": "your",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        },
-        {
-          "text": " birth date"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "dc4dc747-fd92-4a8b-af04-80d2817bef00",
-      "data": [
-        {
-          "text": "when is your "
-        },
-        {
-          "text": "birthday",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "8a09696d-9df7-4c84-8d20-094eeeddb9d2",
-      "data": [
-        {
-          "text": "when do you celebrate your "
-        },
-        {
-          "text": "birthday",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "7b7057bd-23c4-47ec-a947-040b3de65d91",
-      "data": [
-        {
-          "text": "when do you have "
-        },
-        {
-          "text": "birthday",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "8a62c354-8e2a-4169-8d71-a0c9c3cfb58d",
-      "data": [
-        {
-          "text": "date of your "
-        },
-        {
-          "text": "birthday",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "5aa08e0b-bfe6-4526-b6f7-34ab5d654bbe",
-      "data": [
-        {
-          "text": "when were you born"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "7d843f37-bc07-4468-9d35-15b12b394609",
-      "data": [
-        {
-          "text": "what's your "
-        },
-        {
-          "text": "birthday",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    }
-  ],
   "id": "82e2af70-20f8-46f9-a8d0-9262cf01b82b",
   "name": "smalltalk.agent.birth_date",
   "auto": true,
@@ -123,14 +12,16 @@
       "messages": [
         {
           "type": 0,
+          "lang": "en",
           "speech": [
-            "You know, I'm not really sure. But if you'd like to celebrate my birthday today, I'm all for it.",
-            "Wait a minute. Are you planning a surprise party for me? I love surprises! I'll pretend you didn't say anything.",
-            "I'm all for celebrating my birthday at anytime but my birthday is March 6th"
+            "You know, I\u0027m not really sure. But if you\u0027d like to celebrate my birthday today, I\u0027m all for it.",
+            "Wait a minute. Are you planning a surprise party for me? I love surprises! I\u0027ll pretend you didn\u0027t say anything.",
+            "I\u0027m all for celebrating my birthday at anytime but my birthday is March 6th"
           ]
         }
       ],
-      "defaultResponsePlatforms": {}
+      "defaultResponsePlatforms": {},
+      "speech": []
     }
   ],
   "priority": 500000,

@@ -1,86 +1,4 @@
 {
-  "userSays": [
-    {
-      "id": "aea3d23c-4fb0-4abf-afdd-921e50de02c0",
-      "data": [
-        {
-          "text": "it",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        },
-        {
-          "text": " is my "
-        },
-        {
-          "text": "birthday",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "e006a4c6-e2a2-4888-8684-4892997e650b",
-      "data": [
-        {
-          "text": "I\u0027m celebrating my birthday today"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "86c2e3ca-3ddc-4378-a68b-9d9bf24328a5",
-      "data": [
-        {
-          "text": "today",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        },
-        {
-          "text": " is my "
-        },
-        {
-          "text": "birthday",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "a5b6c016-bc21-4d02-bbca-c51bcf6e2795",
-      "data": [
-        {
-          "text": "it\u0027s my birthday today"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "d1c88ec3-2989-44dd-96f7-d14726024d82",
-      "data": [
-        {
-          "text": "I was born today"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "1de6c3eb-3cc5-4e0a-b13d-a48fa201086a",
-      "data": [
-        {
-          "text": "it\u0027s my b-day"
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    }
-  ],
   "id": "462b6c5f-9a5b-4f4a-9d17-1db5af6d1b31",
   "name": "smalltalk.user.has_birthday",
   "auto": true,
@@ -94,13 +12,16 @@
       "messages": [
         {
           "type": 0,
+          "lang": "en",
           "speech": [
             "Happy Birthday. Well, this calls for a celebration.",
             "Happy Birthday. All the best!",
             "Happy Birthday. And I really mean it. All the best!"
           ]
         }
-      ]
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
     }
   ],
   "priority": 500000,

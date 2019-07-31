@@ -1,0 +1,74 @@
+[
+  {
+    "id": "c55bb0fc-ae32-43b2-bfeb-e78dee21f105",
+    "data": [
+      {
+        "text": "How many people use you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5ce42186-c9cd-443e-a9b3-915f9749a44a",
+    "data": [
+      {
+        "text": "How many users are online?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2166d6f8-c72b-4c0b-b0cd-7c0e23547534",
+    "data": [
+      {
+        "text": "!player count?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1738b031-ea6d-4870-8110-c1f2843c75de",
+    "data": [
+      {
+        "text": "How many are online?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cb929850-d653-4964-bfca-348f69c6cc2a",
+    "data": [
+      {
+        "text": "How are online?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c6b07416-cfe1-449c-ad74-6afe5c03a0dd",
+    "data": [
+      {
+        "text": "How many people are online",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

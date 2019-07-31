@@ -1,0 +1,141 @@
+[
+  {
+    "id": "66ce11dd-ec08-41fb-9713-b71e032834f6",
+    "data": [
+      {
+        "text": "that\u0027s my pleasure",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "403c1fe1-2740-4ef1-8599-f968c039dbee",
+    "data": [
+      {
+        "text": "my pleasure",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e3988b4f-c533-4c1b-be52-a7e95f2534ba",
+    "data": [
+      {
+        "text": "anytime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a9aa2b1b-97e0-4d4b-8a19-5bcabd77c28f",
+    "data": [
+      {
+        "text": "welcome",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "55932116-a605-4f2f-91ec-007d821d2c4f",
+    "data": [
+      {
+        "text": "you\u0027re ",
+        "userDefined": false
+      },
+      {
+        "text": "welcome",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d8889ac9-45cc-4208-b44d-715731f526f6",
+    "data": [
+      {
+        "text": "sure",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "welcome",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c14d2d2c-a373-4590-9cf0-cc4ddb99eb28",
+    "data": [
+      {
+        "text": "welcome",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "here",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "03cd3050-2f89-4df2-8910-d59a1db9a387",
+    "data": [
+      {
+        "text": "you\u0027re so ",
+        "userDefined": false
+      },
+      {
+        "text": "welcome",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dc4c01e6-3b55-48fe-b693-0310190fdb71",
+    "data": [
+      {
+        "text": "anything you want",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

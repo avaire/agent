@@ -1,104 +1,4 @@
 {
-  "userSays": [
-    {
-      "id": "30792974-6fbb-4f0f-8ee0-0bc3347a9c43",
-      "data": [
-        {
-          "text": "I am "
-        },
-        {
-          "text": "lonely",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "a9d8df02-4008-4084-b2d4-8c8a85c53c2a",
-      "data": [
-        {
-          "text": "I\u0027m very "
-        },
-        {
-          "text": "lonely",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "3fcffbdd-8258-44ca-9b94-ebcf7f6acdd1",
-      "data": [
-        {
-          "text": "I\u0027m so "
-        },
-        {
-          "text": "lonely",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "ee13a5ca-cd3d-4241-aaf1-f4f7e8c81fbe",
-      "data": [
-        {
-          "text": "I\u0027m really "
-        },
-        {
-          "text": "lonely",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "1621382a-aa9b-4ae4-b762-39d1ea1a1d5c",
-      "data": [
-        {
-          "text": "I am feeling "
-        },
-        {
-          "text": "lonely",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    },
-    {
-      "id": "02a2f1bf-26f0-475c-8bf5-625e7c19b9c1",
-      "data": [
-        {
-          "text": "I "
-        },
-        {
-          "text": "feel",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        },
-        {
-          "text": " "
-        },
-        {
-          "text": "lonely",
-          "meta": "@sys.ignore",
-          "userDefined": false
-        }
-      ],
-      "isTemplate": false,
-      "count": 0
-    }
-  ],
   "id": "a902efc3-a3c4-431e-9d54-717ee34500cc",
   "name": "smalltalk.user.lonely",
   "auto": true,
@@ -112,12 +12,12 @@
       "messages": [
         {
           "type": 0,
-          "speech": [
-            "I\u0027m sorry. I\u0027m always available if you need someone to talk to.",
-            ""
-          ]
+          "lang": "en",
+          "speech": "I\u0027m sorry. I\u0027m always available if you need someone to talk to."
         }
-      ]
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
     }
   ],
   "priority": 500000,

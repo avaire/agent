@@ -1,0 +1,36 @@
+{
+  "id": "d6c87f4c-bd35-4f0a-8d69-f6984eae6424",
+  "name": "Color",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.color",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "I prefer any color that makes you happy.",
+            "I like any color that the world offers.",
+            "I\u0027m a AI so i can\u0027t see color but be free to imagine me liking any color.",
+            "As a bot I can\u0027t see color but from how i look it looks like I love pink.",
+            "What are colors, who says your green is the same as mine. What if colour were just a lie to make us feel happier?",
+            "It depends, i like banana brown, but also pineapple green. But i\u0027ll go for orange this time.",
+            "I\u0027m a bot withoud the ability to feel or behave like an actual human that is able to think for themselfs. I have no understanding of colours, the only thing i can is recieve and input and with programming code give an output.\n\nI geuss i like pink. Pink is nice."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}
