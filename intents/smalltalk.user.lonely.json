@@ -13,7 +13,13 @@
         {
           "type": 0,
           "lang": "en",
-          "speech": "I\u0027m sorry. I\u0027m always available if you need someone to talk to."
+          "speech": [
+            "I\u0027m sorry. I\u0027m always available if you need someone to talk to.",
+            "I\u0027m alone too. Wanna hold hands?",
+            "*hugs*",
+            "Aw come on buddy, why not play game with me?",
+            "Wanna hang out together?"
+          ]
         }
       ],
       "defaultResponsePlatforms": {},

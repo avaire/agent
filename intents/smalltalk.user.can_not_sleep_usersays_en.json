@@ -1,5 +1,53 @@
 [
   {
+    "id": "3cdbfc45-fc6a-4542-9983-3f201fecec0f",
+    "data": [
+      {
+        "text": "I\u0027m unable to rest my mind",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "09a3b430-75fd-493d-a719-c1ac34dea180",
+    "data": [
+      {
+        "text": "I\u0027m unable to sleep",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b1786ebf-e237-4db6-969e-6a9ba80b0482",
+    "data": [
+      {
+        "text": "I\u0027m restless",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3c1a3622-a5c7-4ddb-b3f4-cb67025bec08",
+    "data": [
+      {
+        "text": "I can\u0027t take a nap",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
     "id": "3b81376b-492d-43c8-963e-ac1b8df0e842",
     "data": [
       {

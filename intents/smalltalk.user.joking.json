@@ -8,7 +8,20 @@
       "resetContexts": false,
       "action": "smalltalk.user.joking",
       "affectedContexts": [],
-      "parameters": [],
+      "parameters": [
+        {
+          "id": "9d088536-0177-4126-bcec-e694944f07be",
+          "required": false,
+          "dataType": "@Swear",
+          "name": "Swear",
+          "value": "$Swear",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
       "messages": [
         {
           "type": 0,
@@ -18,7 +31,11 @@
             "You\u0027re quite the kidder.",
             "You got me.",
             "I like working for someone with a sense of humour. It makes things much more fun.",
-            "Oh lol"
+            "Oh lol",
+            "Haha.",
+            "Wow so original!",
+            "Great humor, low level of IQ. Just great.",
+            "Why don\u0027t you spent that energy on something more intresting?"
           ]
         }
       ],

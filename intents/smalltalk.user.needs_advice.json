@@ -13,7 +13,15 @@
         {
           "type": 0,
           "lang": "en",
-          "speech": "Probably I won\u0027t be able to give you the right answer straight away."
+          "speech": [
+            "Probably I won\u0027t be able to give you the right answer straight away.",
+            "Google it yourself.",
+            "Idk, ask the person next to you.",
+            "Why not ask someone else in this server?",
+            "How about you ask your voice assistant for help?",
+            "Uuuuhh.... 42?",
+            "Pineapple. Pineapple is always the answer for everything. Unless it\u0027s pizza. Then it\u0027s wrong."
+          ]
         }
       ],
       "defaultResponsePlatforms": {},

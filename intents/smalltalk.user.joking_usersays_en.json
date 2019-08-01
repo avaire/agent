@@ -1,9 +1,31 @@
 [
   {
-    "id": "2ea53567-23fd-48d5-aa43-e8d1daafdf16",
+    "id": "462a6bfa-bfec-40fc-a0de-a76791b5d05f",
     "data": [
       {
-        "text": "I am joking",
+        "text": "I\u0027m just pulling your leg",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d95c62bf-0c6e-45ae-8b86-863a347bdd5c",
+    "data": [
+      {
+        "text": "I\u0027m just ",
+        "userDefined": false
+      },
+      {
+        "text": "fucking",
+        "alias": "Swear",
+        "meta": "@Swear",
+        "userDefined": false
+      },
+      {
+        "text": " with you",
         "userDefined": false
       }
     ],
@@ -21,6 +43,18 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2ea53567-23fd-48d5-aa43-e8d1daafdf16",
+    "data": [
+      {
+        "text": "I am joking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
     "updated": 0
   },
   {
