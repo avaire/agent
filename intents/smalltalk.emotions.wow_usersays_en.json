@@ -1,5 +1,113 @@
 [
   {
+    "id": "d53c5bf4-ff0f-4854-a64c-4f701b8c6b11",
+    "data": [
+      {
+        "text": "Holy ",
+        "userDefined": false
+      },
+      {
+        "text": "shit",
+        "alias": "Swear",
+        "meta": "@Swear",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5852aceb-1f28-4953-bc0c-67e231473bd4",
+    "data": [
+      {
+        "text": "Holy ",
+        "userDefined": false
+      },
+      {
+        "text": "fuck",
+        "alias": "Swear",
+        "meta": "@Swear",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "300cf1a6-54cd-4c6e-82fb-3780deee18c4",
+    "data": [
+      {
+        "text": "My lord",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "337c9602-75ae-4b2b-8c82-5f600bac29ad",
+    "data": [
+      {
+        "text": "My god",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dc9f147b-9686-4e31-bfef-4dce5b8f6f8b",
+    "data": [
+      {
+        "text": "Jezus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1ab88cd6-b27b-4214-87bf-c37bdea30865",
+    "data": [
+      {
+        "text": "omg",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1c16e52d-e5d2-4b96-a518-abc2798adb88",
+    "data": [
+      {
+        "text": "wowz",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d9390fa6-45c6-44da-bd0c-30da3226b750",
+    "data": [
+      {
+        "text": "woaaa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
     "id": "a8fc2d4f-8e14-4fd8-84d8-d6117cf53573",
     "data": [
       {

@@ -8,12 +8,32 @@
       "resetContexts": false,
       "action": "smalltalk.dialog.i_do_not_care",
       "affectedContexts": [],
-      "parameters": [],
+      "parameters": [
+        {
+          "id": "33253a1a-154a-4a20-a88b-3eb90663f54d",
+          "required": false,
+          "dataType": "@Swear",
+          "name": "Swear",
+          "value": "$Swear",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
       "messages": [
         {
           "type": 0,
           "lang": "en",
-          "speech": "Ok, let\u0027s not talk about it then."
+          "speech": [
+            "Ok, let\u0027s not talk about it then.",
+            "Sure, whatever you want.",
+            "If you say so :P",
+            "It\u0027s fine, it means that i was right in the end :-)",
+            "Sure...",
+            "Kay, want a cookie tho?"
+          ]
         }
       ],
       "defaultResponsePlatforms": {},

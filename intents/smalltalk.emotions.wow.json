@@ -8,12 +8,35 @@
       "resetContexts": false,
       "action": "smalltalk.emotions.wow",
       "affectedContexts": [],
-      "parameters": [],
+      "parameters": [
+        {
+          "id": "bd4009f2-0e96-470a-a9b2-8944361508cb",
+          "required": false,
+          "dataType": "@Swear",
+          "name": "Swear",
+          "value": "$Swear",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
       "messages": [
         {
           "type": 0,
           "lang": "en",
-          "speech": "Wow indeed!"
+          "speech": [
+            "Wow indeed!",
+            "Ikr!",
+            "Yup, i know.",
+            "Hehe yeah",
+            "O_O",
+            "*opens mouth* woaaaaa!",
+            "omggggggggg",
+            "I\u0027m just as stunned as your are.",
+            "damn"
+          ]
         }
       ],
       "defaultResponsePlatforms": {},
